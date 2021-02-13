@@ -1,0 +1,5007 @@
+S1A1(7);S2A1(8);S1I2(7);S2I2(7)
+-65 dBm;-54 dBm;-65 dBm;-62 dBm
+-54 dBm;-53 dBm;-54 dBm;-66 dBm
+-65 dBm;-54 dBm;-67 dBm;-54 dBm
+-52 dBm;-62 dBm;-56 dBm;-63 dBm
+-52 dBm;-52 dBm;-56 dBm;-52 dBm
+-52 dBm;-65 dBm;-56 dBm;-64 dBm
+-52 dBm;-52 dBm;-54 dBm;-63 dBm
+-51 dBm;-61 dBm;-55 dBm;-52 dBm
+-52 dBm;-67 dBm;-56 dBm;-53 dBm
+-50 dBm;-53 dBm;-61 dBm;-65 dBm
+-51 dBm;-62 dBm;-64 dBm;-62 dBm
+-61 dBm;-53 dBm;-52 dBm;-54 dBm
+-51 dBm;-62 dBm;-65 dBm;-61 dBm
+-52 dBm;-54 dBm;-54 dBm;-53 dBm
+-67 dBm;-62 dBm;-64 dBm;-61 dBm
+-52 dBm;-61 dBm;-61 dBm;-55 dBm
+-51 dBm;-62 dBm;-53 dBm;-55 dBm
+-49 dBm;-67 dBm;-53 dBm;-63 dBm
+-55 dBm;-51 dBm;-52 dBm;-54 dBm
+-62 dBm;-62 dBm;-52 dBm;-61 dBm
+-53 dBm;-55 dBm;-63 dBm;-53 dBm
+-65 dBm;-68 dBm;-63 dBm;-53 dBm
+-55 dBm;-52 dBm;-54 dBm;-53 dBm
+-54 dBm;-61 dBm;-63 dBm;-53 dBm
+-55 dBm;-52 dBm;-62 dBm;-53 dBm
+-55 dBm;-53 dBm;-51 dBm;-62 dBm
+-55 dBm;-52 dBm;-62 dBm;-52 dBm
+-65 dBm;-52 dBm;-61 dBm;-62 dBm
+-55 dBm;-69 dBm;-53 dBm;-53 dBm
+-65 dBm;-50 dBm;-63 dBm;-61 dBm
+-63 dBm;-51 dBm;-61 dBm;-54 dBm
+-54 dBm;-50 dBm;-53 dBm;-61 dBm
+-55 dBm;-51 dBm;-63 dBm;-57 dBm
+-63 dBm;-62 dBm;-55 dBm;-62 dBm
+-53 dBm;-55 dBm;-61 dBm;-54 dBm
+-68 dBm;-55 dBm;-52 dBm;-62 dBm
+-53 dBm;-55 dBm;-67 dBm;-56 dBm
+-54 dBm;-55 dBm;-53 dBm;-61 dBm
+-50 dBm;-55 dBm;-64 dBm;-54 dBm
+-52 dBm;-67 dBm;-54 dBm;-61 dBm
+-52 dBm;-54 dBm;-54 dBm;-63 dBm
+-53 dBm;-62 dBm;-64 dBm;-54 dBm
+-50 dBm;-70 dBm;-63 dBm;-61 dBm
+-49 dBm;-53 dBm;-55 dBm;-55 dBm
+-50 dBm;-62 dBm;-66 dBm;-63 dBm
+-53 dBm;-61 dBm;-54 dBm;-64 dBm
+-63 dBm;-54 dBm;-62 dBm;-54 dBm
+-52 dBm;-54 dBm;-54 dBm;-62 dBm
+-64 dBm;-54 dBm;-54 dBm;-62 dBm
+-51 dBm;-55 dBm;-54 dBm;-54 dBm
+-63 dBm;-70 dBm;-56 dBm;-65 dBm
+-53 dBm;-54 dBm;-54 dBm;-66 dBm
+-65 dBm;-62 dBm;-54 dBm;-62 dBm
+-54 dBm;-55 dBm;-54 dBm;-53 dBm
+-63 dBm;-66 dBm;-55 dBm;-62 dBm
+-52 dBm;-54 dBm;-51 dBm;-64 dBm
+-53 dBm;-62 dBm;-51 dBm;-54 dBm
+-66 dBm;-55 dBm;-53 dBm;-60 dBm
+-51 dBm;-70 dBm;-51 dBm;-54 dBm
+-51 dBm;-54 dBm;-50 dBm;-65 dBm
+-50 dBm;-61 dBm;-51 dBm;-53 dBm
+-51 dBm;-71 dBm;-51 dBm;-63 dBm
+-53 dBm;-54 dBm;-52 dBm;-62 dBm
+-64 dBm;-62 dBm;-53 dBm;-53 dBm
+-52 dBm;-54 dBm;-66 dBm;-62 dBm
+-54 dBm;-54 dBm;-54 dBm;-62 dBm
+-65 dBm;-54 dBm;-63 dBm;-54 dBm
+-54 dBm;-54 dBm;-54 dBm;-62 dBm
+-67 dBm;-70 dBm;-66 dBm;-62 dBm
+-54 dBm;-54 dBm;-66 dBm;-54 dBm
+-68 dBm;-62 dBm;-54 dBm;-61 dBm
+-54 dBm;-53 dBm;-64 dBm;-63 dBm
+-66 dBm;-70 dBm;-54 dBm;-54 dBm
+-54 dBm;-54 dBm;-63 dBm;-60 dBm
+-54 dBm;-58 dBm;-54 dBm;-63 dBm
+-55 dBm;-53 dBm;-65 dBm;-54 dBm
+-55 dBm;-54 dBm;-54 dBm;-62 dBm
+-55 dBm;-54 dBm;-65 dBm;-52 dBm
+-54 dBm;-53 dBm;-53 dBm;-62 dBm
+-55 dBm;-53 dBm;-63 dBm;-52 dBm
+-69 dBm;-53 dBm;-54 dBm;-62 dBm
+-54 dBm;-70 dBm;-54 dBm;-62 dBm
+-65 dBm;-54 dBm;-54 dBm;-50 dBm
+-54 dBm;-61 dBm;-63 dBm;-60 dBm
+-66 dBm;-68 dBm;-54 dBm;-63 dBm
+-54 dBm;-54 dBm;-62 dBm;-53 dBm
+-63 dBm;-61 dBm;-55 dBm;-62 dBm
+-54 dBm;-55 dBm;-53 dBm;-62 dBm
+-70 dBm;-69 dBm;-55 dBm;-53 dBm
+-54 dBm;-54 dBm;-53 dBm;-63 dBm
+-66 dBm;-63 dBm;-63 dBm;-63 dBm
+-53 dBm;-54 dBm;-54 dBm;-55 dBm
+-54 dBm;-68 dBm;-62 dBm;-63 dBm
+-55 dBm;-54 dBm;-55 dBm;-54 dBm
+-70 dBm;-55 dBm;-63 dBm;-63 dBm
+-54 dBm;-54 dBm;-54 dBm;-54 dBm
+-63 dBm;-54 dBm;-63 dBm;-61 dBm
+-53 dBm;-61 dBm;-54 dBm;-62 dBm
+-70 dBm;-53 dBm;-63 dBm;-54 dBm
+-54 dBm;-68 dBm;-54 dBm;-62 dBm
+-62 dBm;-53 dBm;-64 dBm;-54 dBm
+-55 dBm;-61 dBm;-52 dBm;-63 dBm
+-54 dBm;-68 dBm;-55 dBm;-56 dBm
+-69 dBm;-51 dBm;-63 dBm;-62 dBm
+-54 dBm;-62 dBm;-63 dBm;-63 dBm
+-63 dBm;-61 dBm;-53 dBm;-55 dBm
+-53 dBm;-54 dBm;-52 dBm;-62 dBm
+-70 dBm;-68 dBm;-52 dBm;-54 dBm
+-53 dBm;-68 dBm;-52 dBm;-63 dBm
+-63 dBm;-54 dBm;-52 dBm;-55 dBm
+-63 dBm;-61 dBm;-62 dBm;-61 dBm
+-54 dBm;-54 dBm;-52 dBm;-63 dBm
+-70 dBm;-54 dBm;-53 dBm;-55 dBm
+-55 dBm;-54 dBm;-52 dBm;-61 dBm
+-63 dBm;-54 dBm;-52 dBm;-63 dBm
+-54 dBm;-69 dBm;-53 dBm;-55 dBm
+-69 dBm;-53 dBm;-64 dBm;-62 dBm
+-54 dBm;-62 dBm;-50 dBm;-63 dBm
+-63 dBm;-61 dBm;-63 dBm;-53 dBm
+-53 dBm;-54 dBm;-62 dBm;-62 dBm
+-69 dBm;-54 dBm;-50 dBm;-55 dBm
+-54 dBm;-55 dBm;-64 dBm;-63 dBm
+-53 dBm;-53 dBm;-62 dBm;-55 dBm
+-63 dBm;-54 dBm;-54 dBm;-61 dBm
+-51 dBm;-70 dBm;-53 dBm;-63 dBm
+-69 dBm;-54 dBm;-62 dBm;-54 dBm
+-51 dBm;-61 dBm;-54 dBm;-61 dBm
+-64 dBm;-54 dBm;-63 dBm;-63 dBm
+-50 dBm;-70 dBm;-54 dBm;-54 dBm
+-68 dBm;-54 dBm;-66 dBm;-62 dBm
+-50 dBm;-61 dBm;-55 dBm;-63 dBm
+-63 dBm;-54 dBm;-63 dBm;-53 dBm
+-54 dBm;-69 dBm;-55 dBm;-62 dBm
+-63 dBm;-53 dBm;-66 dBm;-63 dBm
+-54 dBm;-62 dBm;-54 dBm;-54 dBm
+-54 dBm;-61 dBm;-63 dBm;-61 dBm
+-71 dBm;-69 dBm;-54 dBm;-62 dBm
+-55 dBm;-55 dBm;-66 dBm;-55 dBm
+-66 dBm;-62 dBm;-54 dBm;-62 dBm
+-55 dBm;-62 dBm;-62 dBm;-64 dBm
+-69 dBm;-61 dBm;-55 dBm;-54 dBm
+-54 dBm;-54 dBm;-68 dBm;-61 dBm
+-65 dBm;-55 dBm;-54 dBm;-63 dBm
+-54 dBm;-54 dBm;-62 dBm;-54 dBm
+-69 dBm;-68 dBm;-54 dBm;-61 dBm
+-55 dBm;-54 dBm;-64 dBm;-63 dBm
+-70 dBm;-61 dBm;-55 dBm;-54 dBm
+-54 dBm;-68 dBm;-63 dBm;-62 dBm
+-71 dBm;-54 dBm;-54 dBm;-63 dBm
+-54 dBm;-61 dBm;-66 dBm;-54 dBm
+-54 dBm;-54 dBm;-56 dBm;-61 dBm
+-54 dBm;-54 dBm;-55 dBm;-54 dBm
+-67 dBm;-69 dBm;-62 dBm;-63 dBm
+-54 dBm;-54 dBm;-55 dBm;-63 dBm
+-54 dBm;-61 dBm;-66 dBm;-55 dBm
+-55 dBm;-55 dBm;-54 dBm;-62 dBm
+-55 dBm;-70 dBm;-63 dBm;-63 dBm
+-69 dBm;-55 dBm;-55 dBm;-54 dBm
+-54 dBm;-62 dBm;-66 dBm;-62 dBm
+-54 dBm;-55 dBm;-54 dBm;-64 dBm
+-55 dBm;-70 dBm;-63 dBm;-52 dBm
+-69 dBm;-54 dBm;-55 dBm;-63 dBm
+-54 dBm;-62 dBm;-64 dBm;-64 dBm
+-66 dBm;-71 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-63 dBm;-61 dBm
+-68 dBm;-55 dBm;-54 dBm;-53 dBm
+-54 dBm;-62 dBm;-63 dBm;-63 dBm
+-67 dBm;-55 dBm;-54 dBm;-53 dBm
+-54 dBm;-53 dBm;-62 dBm;-61 dBm
+-55 dBm;-55 dBm;-54 dBm;-63 dBm
+-54 dBm;-71 dBm;-63 dBm;-54 dBm
+-54 dBm;-54 dBm;-55 dBm;-62 dBm
+-55 dBm;-61 dBm;-63 dBm;-64 dBm
+-54 dBm;-54 dBm;-55 dBm;-54 dBm
+-67 dBm;-71 dBm;-63 dBm;-61 dBm
+-54 dBm;-54 dBm;-54 dBm;-63 dBm
+-66 dBm;-61 dBm;-63 dBm;-63 dBm
+-54 dBm;-54 dBm;-53 dBm;-54 dBm
+-69 dBm;-54 dBm;-63 dBm;-61 dBm
+-54 dBm;-54 dBm;-62 dBm;-62 dBm
+-64 dBm;-54 dBm;-63 dBm;-62 dBm
+-54 dBm;-54 dBm;-54 dBm;-65 dBm
+-69 dBm;-53 dBm;-55 dBm;-65 dBm
+-55 dBm;-54 dBm;-53 dBm;-54 dBm
+-63 dBm;-54 dBm;-62 dBm;-63 dBm
+-54 dBm;-69 dBm;-54 dBm;-62 dBm
+-70 dBm;-53 dBm;-63 dBm;-54 dBm
+-55 dBm;-62 dBm;-54 dBm;-61 dBm
+-64 dBm;-55 dBm;-54 dBm;-54 dBm
+-63 dBm;-54 dBm;-54 dBm;-63 dBm
+-52 dBm;-54 dBm;-54 dBm;-54 dBm
+-70 dBm;-55 dBm;-55 dBm;-60 dBm
+-55 dBm;-54 dBm;-64 dBm;-54 dBm
+-70 dBm;-55 dBm;-55 dBm;-65 dBm
+-63 dBm;-70 dBm;-63 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-61 dBm
+-55 dBm;-62 dBm;-53 dBm;-64 dBm
+-55 dBm;-54 dBm;-54 dBm;-55 dBm
+-54 dBm;-69 dBm;-54 dBm;-63 dBm
+-70 dBm;-54 dBm;-54 dBm;-65 dBm
+-54 dBm;-62 dBm;-53 dBm;-54 dBm
+-54 dBm;-56 dBm;-54 dBm;-63 dBm
+-62 dBm;-64 dBm;-54 dBm;-65 dBm
+-54 dBm;-54 dBm;-63 dBm;-54 dBm
+-72 dBm;-61 dBm;-53 dBm;-63 dBm
+-54 dBm;-55 dBm;-63 dBm;-64 dBm
+-54 dBm;-70 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-53 dBm;-64 dBm
+-64 dBm;-63 dBm;-54 dBm;-53 dBm
+-53 dBm;-61 dBm;-63 dBm;-63 dBm
+-54 dBm;-54 dBm;-54 dBm;-54 dBm
+-54 dBm;-54 dBm;-63 dBm;-65 dBm
+-54 dBm;-70 dBm;-54 dBm;-67 dBm
+-54 dBm;-52 dBm;-63 dBm;-54 dBm
+-55 dBm;-61 dBm;-54 dBm;-63 dBm
+-54 dBm;-70 dBm;-63 dBm;-55 dBm
+-69 dBm;-54 dBm;-54 dBm;-64 dBm
+-52 dBm;-62 dBm;-64 dBm;-53 dBm
+-63 dBm;-69 dBm;-54 dBm;-62 dBm
+-55 dBm;-54 dBm;-63 dBm;-64 dBm
+-70 dBm;-61 dBm;-54 dBm;-55 dBm
+-55 dBm;-54 dBm;-63 dBm;-61 dBm
+-54 dBm;-54 dBm;-53 dBm;-64 dBm
+-54 dBm;-55 dBm;-63 dBm;-53 dBm
+-54 dBm;-66 dBm;-55 dBm;-62 dBm
+-54 dBm;-55 dBm;-54 dBm;-64 dBm
+-55 dBm;-61 dBm;-54 dBm;-53 dBm
+-54 dBm;-55 dBm;-55 dBm;-60 dBm
+-54 dBm;-68 dBm;-54 dBm;-64 dBm
+-54 dBm;-54 dBm;-65 dBm;-53 dBm
+-55 dBm;-62 dBm;-54 dBm;-62 dBm
+-62 dBm;-54 dBm;-63 dBm;-65 dBm
+-54 dBm;-54 dBm;-54 dBm;-53 dBm
+-54 dBm;-54 dBm;-68 dBm;-62 dBm
+-55 dBm;-54 dBm;-54 dBm;-66 dBm
+-54 dBm;-54 dBm;-63 dBm;-54 dBm
+-53 dBm;-71 dBm;-54 dBm;-61 dBm
+-69 dBm;-54 dBm;-67 dBm;-67 dBm
+-54 dBm;-61 dBm;-53 dBm;-66 dBm
+-64 dBm;-54 dBm;-63 dBm;-53 dBm
+-54 dBm;-54 dBm;-54 dBm;-60 dBm
+-55 dBm;-53 dBm;-64 dBm;-62 dBm
+-69 dBm;-54 dBm;-55 dBm;-66 dBm
+-55 dBm;-61 dBm;-63 dBm;-54 dBm
+-63 dBm;-52 dBm;-63 dBm;-61 dBm
+-54 dBm;-70 dBm;-55 dBm;-65 dBm
+-70 dBm;-54 dBm;-64 dBm;-54 dBm
+-54 dBm;-62 dBm;-54 dBm;-62 dBm
+-54 dBm;-54 dBm;-63 dBm;-64 dBm
+-55 dBm;-70 dBm;-55 dBm;-53 dBm
+-54 dBm;-54 dBm;-54 dBm;-62 dBm
+-55 dBm;-61 dBm;-54 dBm;-63 dBm
+-64 dBm;-69 dBm;-54 dBm;-64 dBm
+-54 dBm;-54 dBm;-63 dBm;-64 dBm
+-69 dBm;-61 dBm;-55 dBm;-61 dBm
+-54 dBm;-70 dBm;-64 dBm;-64 dBm
+-63 dBm;-55 dBm;-54 dBm;-52 dBm
+-53 dBm;-62 dBm;-63 dBm;-52 dBm
+-70 dBm;-70 dBm;-54 dBm;-61 dBm
+-54 dBm;-55 dBm;-63 dBm;-64 dBm
+-54 dBm;-61 dBm;-53 dBm;-53 dBm
+-55 dBm;-55 dBm;-54 dBm;-63 dBm
+-54 dBm;-69 dBm;-54 dBm;-63 dBm
+-54 dBm;-55 dBm;-53 dBm;-63 dBm
+-67 dBm;-62 dBm;-53 dBm;-53 dBm
+-55 dBm;-69 dBm;-55 dBm;-61 dBm
+-69 dBm;-55 dBm;-64 dBm;-52 dBm
+-55 dBm;-63 dBm;-54 dBm;-64 dBm
+-68 dBm;-70 dBm;-65 dBm;-53 dBm
+-54 dBm;-55 dBm;-54 dBm;-51 dBm
+-65 dBm;-64 dBm;-64 dBm;-62 dBm
+-53 dBm;-53 dBm;-55 dBm;-64 dBm
+-66 dBm;-53 dBm;-62 dBm;-64 dBm
+-54 dBm;-54 dBm;-54 dBm;-52 dBm
+-65 dBm;-54 dBm;-54 dBm;-61 dBm
+-54 dBm;-54 dBm;-63 dBm;-52 dBm
+-64 dBm;-54 dBm;-55 dBm;-64 dBm
+-53 dBm;-70 dBm;-63 dBm;-53 dBm
+-71 dBm;-54 dBm;-54 dBm;-61 dBm
+-53 dBm;-63 dBm;-63 dBm;-53 dBm
+-63 dBm;-53 dBm;-55 dBm;-66 dBm
+-54 dBm;-71 dBm;-64 dBm;-66 dBm
+-70 dBm;-54 dBm;-55 dBm;-61 dBm
+-54 dBm;-62 dBm;-63 dBm;-62 dBm
+-63 dBm;-55 dBm;-55 dBm;-54 dBm
+-53 dBm;-54 dBm;-64 dBm;-64 dBm
+-54 dBm;-71 dBm;-55 dBm;-55 dBm
+-54 dBm;-54 dBm;-64 dBm;-62 dBm
+-53 dBm;-61 dBm;-53 dBm;-63 dBm
+-69 dBm;-54 dBm;-64 dBm;-63 dBm
+-54 dBm;-54 dBm;-55 dBm;-54 dBm
+-63 dBm;-55 dBm;-63 dBm;-63 dBm
+-53 dBm;-53 dBm;-54 dBm;-65 dBm
+-69 dBm;-54 dBm;-65 dBm;-53 dBm
+-54 dBm;-71 dBm;-53 dBm;-61 dBm
+-63 dBm;-53 dBm;-64 dBm;-65 dBm
+-56 dBm;-62 dBm;-55 dBm;-54 dBm
+-70 dBm;-54 dBm;-64 dBm;-62 dBm
+-54 dBm;-55 dBm;-54 dBm;-64 dBm
+-63 dBm;-53 dBm;-54 dBm;-54 dBm
+-55 dBm;-54 dBm;-54 dBm;-63 dBm
+-70 dBm;-54 dBm;-63 dBm;-67 dBm
+-55 dBm;-71 dBm;-54 dBm;-54 dBm
+-62 dBm;-55 dBm;-64 dBm;-63 dBm
+-55 dBm;-62 dBm;-54 dBm;-67 dBm
+-70 dBm;-70 dBm;-54 dBm;-54 dBm
+-55 dBm;-55 dBm;-54 dBm;-54 dBm
+-63 dBm;-61 dBm;-55 dBm;-63 dBm
+-54 dBm;-71 dBm;-54 dBm;-54 dBm
+-70 dBm;-71 dBm;-54 dBm;-65 dBm
+-54 dBm;-53 dBm;-64 dBm;-66 dBm
+-64 dBm;-61 dBm;-54 dBm;-62 dBm
+-54 dBm;-53 dBm;-67 dBm;-54 dBm
+-69 dBm;-71 dBm;-55 dBm;-55 dBm
+-55 dBm;-54 dBm;-63 dBm;-63 dBm
+-64 dBm;-61 dBm;-54 dBm;-63 dBm
+-55 dBm;-53 dBm;-65 dBm;-54 dBm
+-69 dBm;-54 dBm;-54 dBm;-54 dBm
+-54 dBm;-71 dBm;-63 dBm;-54 dBm
+-54 dBm;-70 dBm;-53 dBm;-54 dBm
+-55 dBm;-70 dBm;-64 dBm;-54 dBm
+-64 dBm;-70 dBm;-54 dBm;-64 dBm
+-54 dBm;-70 dBm;-54 dBm;-54 dBm
+-53 dBm;-55 dBm;-63 dBm;-63 dBm
+-54 dBm;-62 dBm;-55 dBm;-54 dBm
+-53 dBm;-54 dBm;-64 dBm;-54 dBm
+-54 dBm;-52 dBm;-54 dBm;-63 dBm
+-54 dBm;-69 dBm;-54 dBm;-54 dBm
+-69 dBm;-53 dBm;-53 dBm;-64 dBm
+-53 dBm;-62 dBm;-54 dBm;-54 dBm
+-63 dBm;-69 dBm;-54 dBm;-54 dBm
+-54 dBm;-53 dBm;-70 dBm;-54 dBm
+-70 dBm;-61 dBm;-64 dBm;-55 dBm
+-54 dBm;-57 dBm;-53 dBm;-54 dBm
+-63 dBm;-62 dBm;-64 dBm;-55 dBm
+-55 dBm;-54 dBm;-53 dBm;-62 dBm
+-71 dBm;-56 dBm;-53 dBm;-54 dBm
+-55 dBm;-55 dBm;-53 dBm;-63 dBm
+-63 dBm;-55 dBm;-53 dBm;-55 dBm
+-54 dBm;-53 dBm;-53 dBm;-62 dBm
+-71 dBm;-69 dBm;-53 dBm;-54 dBm
+-54 dBm;-53 dBm;-65 dBm;-63 dBm
+-64 dBm;-62 dBm;-55 dBm;-54 dBm
+-55 dBm;-54 dBm;-65 dBm;-64 dBm
+-54 dBm;-70 dBm;-52 dBm;-62 dBm
+-54 dBm;-54 dBm;-62 dBm;-62 dBm
+-63 dBm;-63 dBm;-64 dBm;-54 dBm
+-54 dBm;-52 dBm;-52 dBm;-54 dBm
+-70 dBm;-69 dBm;-52 dBm;-62 dBm
+-55 dBm;-53 dBm;-53 dBm;-53 dBm
+-54 dBm;-61 dBm;-52 dBm;-61 dBm
+-55 dBm;-61 dBm;-53 dBm;-63 dBm
+-54 dBm;-61 dBm;-63 dBm;-55 dBm
+-54 dBm;-60 dBm;-66 dBm;-64 dBm
+-54 dBm;-61 dBm;-54 dBm;-54 dBm
+-64 dBm;-50 dBm;-64 dBm;-54 dBm
+-54 dBm;-69 dBm;-52 dBm;-64 dBm
+-71 dBm;-68 dBm;-67 dBm;-54 dBm
+-71 dBm;-49 dBm;-54 dBm;-62 dBm
+-71 dBm;-62 dBm;-66 dBm;-54 dBm
+-54 dBm;-56 dBm;-55 dBm;-63 dBm
+-63 dBm;-55 dBm;-65 dBm;-54 dBm
+-55 dBm;-69 dBm;-65 dBm;-61 dBm
+-71 dBm;-55 dBm;-54 dBm;-63 dBm
+-55 dBm;-53 dBm;-63 dBm;-55 dBm
+-56 dBm;-69 dBm;-63 dBm;-60 dBm
+-54 dBm;-61 dBm;-53 dBm;-54 dBm
+-54 dBm;-52 dBm;-65 dBm;-63 dBm
+-52 dBm;-70 dBm;-54 dBm;-54 dBm
+-56 dBm;-51 dBm;-63 dBm;-62 dBm
+-63 dBm;-62 dBm;-53 dBm;-55 dBm
+-55 dBm;-53 dBm;-64 dBm;-63 dBm
+-70 dBm;-52 dBm;-53 dBm;-54 dBm
+-56 dBm;-70 dBm;-63 dBm;-61 dBm
+-55 dBm;-62 dBm;-64 dBm;-62 dBm
+-55 dBm;-70 dBm;-53 dBm;-54 dBm
+-63 dBm;-52 dBm;-65 dBm;-54 dBm
+-52 dBm;-61 dBm;-64 dBm;-61 dBm
+-68 dBm;-54 dBm;-52 dBm;-64 dBm
+-51 dBm;-71 dBm;-52 dBm;-55 dBm
+-53 dBm;-55 dBm;-52 dBm;-62 dBm
+-65 dBm;-62 dBm;-62 dBm;-54 dBm
+-53 dBm;-54 dBm;-54 dBm;-64 dBm
+-69 dBm;-54 dBm;-53 dBm;-64 dBm
+-54 dBm;-71 dBm;-64 dBm;-54 dBm
+-64 dBm;-54 dBm;-53 dBm;-61 dBm
+-55 dBm;-60 dBm;-64 dBm;-54 dBm
+-70 dBm;-54 dBm;-63 dBm;-64 dBm
+-55 dBm;-71 dBm;-52 dBm;-64 dBm
+-65 dBm;-53 dBm;-52 dBm;-53 dBm
+-52 dBm;-63 dBm;-52 dBm;-61 dBm
+-69 dBm;-71 dBm;-52 dBm;-63 dBm
+-53 dBm;-55 dBm;-63 dBm;-54 dBm
+-53 dBm;-62 dBm;-53 dBm;-63 dBm
+-53 dBm;-54 dBm;-64 dBm;-64 dBm
+-53 dBm;-53 dBm;-52 dBm;-54 dBm
+-53 dBm;-53 dBm;-51 dBm;-61 dBm
+-53 dBm;-54 dBm;-52 dBm;-52 dBm
+-53 dBm;-53 dBm;-64 dBm;-54 dBm
+-64 dBm;-53 dBm;-52 dBm;-54 dBm
+-54 dBm;-54 dBm;-64 dBm;-63 dBm
+-70 dBm;-70 dBm;-64 dBm;-53 dBm
+-54 dBm;-54 dBm;-61 dBm;-62 dBm
+-66 dBm;-62 dBm;-51 dBm;-62 dBm
+-53 dBm;-55 dBm;-53 dBm;-54 dBm
+-54 dBm;-70 dBm;-65 dBm;-60 dBm
+-68 dBm;-54 dBm;-53 dBm;-64 dBm
+-53 dBm;-63 dBm;-64 dBm;-54 dBm
+-63 dBm;-54 dBm;-53 dBm;-61 dBm
+-65 dBm;-55 dBm;-63 dBm;-54 dBm
+-50 dBm;-54 dBm;-53 dBm;-65 dBm
+-50 dBm;-55 dBm;-54 dBm;-61 dBm
+-50 dBm;-54 dBm;-53 dBm;-64 dBm
+-49 dBm;-54 dBm;-53 dBm;-62 dBm
+-50 dBm;-71 dBm;-66 dBm;-63 dBm
+-51 dBm;-53 dBm;-53 dBm;-55 dBm
+-68 dBm;-62 dBm;-63 dBm;-61 dBm
+-68 dBm;-71 dBm;-53 dBm;-53 dBm
+-50 dBm;-54 dBm;-54 dBm;-64 dBm
+-63 dBm;-63 dBm;-64 dBm;-54 dBm
+-51 dBm;-62 dBm;-54 dBm;-62 dBm
+-51 dBm;-52 dBm;-64 dBm;-55 dBm
+-70 dBm;-71 dBm;-54 dBm;-63 dBm
+-52 dBm;-54 dBm;-63 dBm;-54 dBm
+-63 dBm;-63 dBm;-54 dBm;-62 dBm
+-52 dBm;-54 dBm;-65 dBm;-63 dBm
+-69 dBm;-53 dBm;-54 dBm;-54 dBm
+-53 dBm;-53 dBm;-54 dBm;-62 dBm
+-63 dBm;-53 dBm;-54 dBm;-62 dBm
+-51 dBm;-53 dBm;-53 dBm;-62 dBm
+-52 dBm;-71 dBm;-54 dBm;-64 dBm
+-52 dBm;-71 dBm;-53 dBm;-54 dBm
+-64 dBm;-52 dBm;-63 dBm;-62 dBm
+-52 dBm;-64 dBm;-54 dBm;-54 dBm
+-71 dBm;-55 dBm;-64 dBm;-64 dBm
+-51 dBm;-70 dBm;-53 dBm;-54 dBm
+-64 dBm;-54 dBm;-63 dBm;-54 dBm
+-53 dBm;-63 dBm;-55 dBm;-62 dBm
+-69 dBm;-70 dBm;-64 dBm;-55 dBm
+-52 dBm;-54 dBm;-52 dBm;-64 dBm
+-63 dBm;-61 dBm;-54 dBm;-54 dBm
+-54 dBm;-54 dBm;-63 dBm;-61 dBm
+-71 dBm;-70 dBm;-55 dBm;-54 dBm
+-55 dBm;-54 dBm;-67 dBm;-63 dBm
+-62 dBm;-63 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-63 dBm;-62 dBm
+-70 dBm;-70 dBm;-54 dBm;-62 dBm
+-70 dBm;-54 dBm;-66 dBm;-54 dBm
+-54 dBm;-63 dBm;-63 dBm;-64 dBm
+-54 dBm;-54 dBm;-54 dBm;-54 dBm
+-55 dBm;-70 dBm;-63 dBm;-61 dBm
+-54 dBm;-53 dBm;-54 dBm;-64 dBm
+-54 dBm;-62 dBm;-63 dBm;-64 dBm
+-53 dBm;-55 dBm;-63 dBm;-54 dBm
+-54 dBm;-54 dBm;-62 dBm;-50 dBm
+-63 dBm;-54 dBm;-55 dBm;-49 dBm
+-54 dBm;-70 dBm;-63 dBm;-51 dBm
+-54 dBm;-54 dBm;-54 dBm;-60 dBm
+-53 dBm;-62 dBm;-63 dBm;-64 dBm
+-71 dBm;-54 dBm;-53 dBm;-55 dBm
+-71 dBm;-69 dBm;-63 dBm;-62 dBm
+-71 dBm;-54 dBm;-55 dBm;-64 dBm
+-71 dBm;-62 dBm;-63 dBm;-55 dBm
+-55 dBm;-54 dBm;-54 dBm;-61 dBm
+-63 dBm;-54 dBm;-54 dBm;-64 dBm
+-54 dBm;-62 dBm;-54 dBm;-54 dBm
+-71 dBm;-54 dBm;-63 dBm;-54 dBm
+-55 dBm;-69 dBm;-55 dBm;-53 dBm
+-63 dBm;-54 dBm;-63 dBm;-54 dBm
+-55 dBm;-54 dBm;-55 dBm;-64 dBm
+-54 dBm;-61 dBm;-63 dBm;-54 dBm
+-54 dBm;-55 dBm;-54 dBm;-54 dBm
+-54 dBm;-70 dBm;-62 dBm;-54 dBm
+-54 dBm;-55 dBm;-54 dBm;-61 dBm
+-69 dBm;-61 dBm;-54 dBm;-64 dBm
+-53 dBm;-55 dBm;-53 dBm;-64 dBm
+-54 dBm;-71 dBm;-55 dBm;-54 dBm
+-63 dBm;-53 dBm;-54 dBm;-51 dBm
+-54 dBm;-62 dBm;-54 dBm;-61 dBm
+-70 dBm;-54 dBm;-54 dBm;-61 dBm
+-55 dBm;-54 dBm;-54 dBm;-64 dBm
+-63 dBm;-61 dBm;-63 dBm;-54 dBm
+-53 dBm;-54 dBm;-54 dBm;-63 dBm
+-71 dBm;-70 dBm;-63 dBm;-64 dBm
+-71 dBm;-54 dBm;-54 dBm;-54 dBm
+-54 dBm;-62 dBm;-63 dBm;-61 dBm
+-54 dBm;-54 dBm;-54 dBm;-64 dBm
+-55 dBm;-69 dBm;-62 dBm;-55 dBm
+-54 dBm;-54 dBm;-53 dBm;-62 dBm
+-54 dBm;-62 dBm;-54 dBm;-55 dBm
+-63 dBm;-54 dBm;-62 dBm;-64 dBm
+-54 dBm;-69 dBm;-63 dBm;-65 dBm
+-71 dBm;-54 dBm;-55 dBm;-61 dBm
+-54 dBm;-62 dBm;-54 dBm;-54 dBm
+-64 dBm;-70 dBm;-62 dBm;-62 dBm
+-54 dBm;-54 dBm;-54 dBm;-54 dBm
+-70 dBm;-63 dBm;-64 dBm;-64 dBm
+-54 dBm;-53 dBm;-54 dBm;-54 dBm
+-53 dBm;-69 dBm;-63 dBm;-62 dBm
+-53 dBm;-53 dBm;-55 dBm;-54 dBm
+-55 dBm;-63 dBm;-63 dBm;-64 dBm
+-54 dBm;-54 dBm;-53 dBm;-54 dBm
+-54 dBm;-52 dBm;-64 dBm;-54 dBm
+-64 dBm;-54 dBm;-55 dBm;-54 dBm
+-55 dBm;-53 dBm;-63 dBm;-62 dBm
+-70 dBm;-54 dBm;-54 dBm;-64 dBm
+-53 dBm;-54 dBm;-63 dBm;-54 dBm
+-63 dBm;-69 dBm;-54 dBm;-61 dBm
+-54 dBm;-54 dBm;-63 dBm;-54 dBm
+-70 dBm;-61 dBm;-55 dBm;-64 dBm
+-53 dBm;-55 dBm;-63 dBm;-54 dBm
+-63 dBm;-54 dBm;-63 dBm;-61 dBm
+-54 dBm;-55 dBm;-54 dBm;-64 dBm
+-54 dBm;-70 dBm;-54 dBm;-54 dBm
+-55 dBm;-54 dBm;-55 dBm;-61 dBm
+-55 dBm;-62 dBm;-54 dBm;-64 dBm
+-54 dBm;-55 dBm;-55 dBm;-54 dBm
+-69 dBm;-53 dBm;-63 dBm;-61 dBm
+-54 dBm;-54 dBm;-54 dBm;-64 dBm
+-64 dBm;-70 dBm;-63 dBm;-53 dBm
+-54 dBm;-54 dBm;-54 dBm;-62 dBm
+-55 dBm;-54 dBm;-63 dBm;-62 dBm
+-55 dBm;-61 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-63 dBm;-65 dBm
+-55 dBm;-53 dBm;-54 dBm;-54 dBm
+-55 dBm;-70 dBm;-63 dBm;-60 dBm
+-55 dBm;-53 dBm;-54 dBm;-64 dBm
+-70 dBm;-55 dBm;-62 dBm;-53 dBm
+-70 dBm;-63 dBm;-54 dBm;-61 dBm
+-54 dBm;-54 dBm;-54 dBm;-65 dBm
+-64 dBm;-71 dBm;-63 dBm;-54 dBm
+-54 dBm;-54 dBm;-54 dBm;-62 dBm
+-54 dBm;-61 dBm;-63 dBm;-53 dBm
+-54 dBm;-51 dBm;-54 dBm;-64 dBm
+-70 dBm;-70 dBm;-64 dBm;-54 dBm
+-55 dBm;-70 dBm;-54 dBm;-61 dBm
+-55 dBm;-69 dBm;-63 dBm;-65 dBm
+-54 dBm;-70 dBm;-54 dBm;-54 dBm
+-54 dBm;-68 dBm;-54 dBm;-62 dBm
+-54 dBm;-70 dBm;-55 dBm;-55 dBm
+-63 dBm;-62 dBm;-54 dBm;-65 dBm
+-54 dBm;-61 dBm;-54 dBm;-54 dBm
+-70 dBm;-53 dBm;-53 dBm;-62 dBm
+-54 dBm;-70 dBm;-54 dBm;-64 dBm
+-55 dBm;-53 dBm;-54 dBm;-55 dBm
+-54 dBm;-62 dBm;-63 dBm;-62 dBm
+-63 dBm;-54 dBm;-55 dBm;-62 dBm
+-54 dBm;-70 dBm;-64 dBm;-55 dBm
+-70 dBm;-54 dBm;-64 dBm;-64 dBm
+-55 dBm;-62 dBm;-54 dBm;-54 dBm
+-63 dBm;-55 dBm;-54 dBm;-63 dBm
+-54 dBm;-69 dBm;-63 dBm;-54 dBm
+-54 dBm;-54 dBm;-55 dBm;-55 dBm
+-54 dBm;-61 dBm;-63 dBm;-64 dBm
+-70 dBm;-54 dBm;-54 dBm;-55 dBm
+-55 dBm;-70 dBm;-63 dBm;-62 dBm
+-63 dBm;-54 dBm;-55 dBm;-64 dBm
+-54 dBm;-62 dBm;-64 dBm;-55 dBm
+-71 dBm;-55 dBm;-54 dBm;-63 dBm
+-71 dBm;-70 dBm;-63 dBm;-64 dBm
+-54 dBm;-55 dBm;-54 dBm;-54 dBm
+-63 dBm;-62 dBm;-53 dBm;-64 dBm
+-55 dBm;-69 dBm;-64 dBm;-51 dBm
+-70 dBm;-54 dBm;-54 dBm;-62 dBm
+-54 dBm;-62 dBm;-63 dBm;-54 dBm
+-63 dBm;-54 dBm;-54 dBm;-65 dBm
+-54 dBm;-70 dBm;-63 dBm;-55 dBm
+-70 dBm;-54 dBm;-59 dBm;-62 dBm
+-53 dBm;-61 dBm;-55 dBm;-63 dBm
+-53 dBm;-54 dBm;-63 dBm;-55 dBm
+-53 dBm;-55 dBm;-54 dBm;-65 dBm
+-54 dBm;-53 dBm;-63 dBm;-55 dBm
+-63 dBm;-54 dBm;-54 dBm;-61 dBm
+-55 dBm;-54 dBm;-63 dBm;-54 dBm
+-70 dBm;-70 dBm;-64 dBm;-65 dBm
+-54 dBm;-54 dBm;-65 dBm;-55 dBm
+-62 dBm;-61 dBm;-65 dBm;-62 dBm
+-54 dBm;-70 dBm;-54 dBm;-64 dBm
+-53 dBm;-54 dBm;-63 dBm;-54 dBm
+-54 dBm;-61 dBm;-52 dBm;-62 dBm
+-53 dBm;-54 dBm;-64 dBm;-53 dBm
+-54 dBm;-69 dBm;-52 dBm;-63 dBm
+-53 dBm;-54 dBm;-63 dBm;-65 dBm
+-70 dBm;-59 dBm;-54 dBm;-54 dBm
+-55 dBm;-70 dBm;-63 dBm;-61 dBm
+-63 dBm;-54 dBm;-52 dBm;-55 dBm
+-54 dBm;-62 dBm;-63 dBm;-52 dBm
+-70 dBm;-54 dBm;-55 dBm;-64 dBm
+-54 dBm;-69 dBm;-63 dBm;-55 dBm
+-63 dBm;-54 dBm;-53 dBm;-62 dBm
+-53 dBm;-61 dBm;-63 dBm;-55 dBm
+-69 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-54 dBm;-63 dBm;-61 dBm
+-64 dBm;-70 dBm;-63 dBm;-65 dBm
+-54 dBm;-52 dBm;-55 dBm;-55 dBm
+-68 dBm;-61 dBm;-67 dBm;-61 dBm
+-54 dBm;-54 dBm;-55 dBm;-54 dBm
+-55 dBm;-70 dBm;-64 dBm;-64 dBm
+-55 dBm;-54 dBm;-63 dBm;-54 dBm
+-54 dBm;-63 dBm;-60 dBm;-62 dBm
+-55 dBm;-62 dBm;-53 dBm;-65 dBm
+-63 dBm;-54 dBm;-64 dBm;-54 dBm
+-54 dBm;-54 dBm;-53 dBm;-62 dBm
+-52 dBm;-55 dBm;-64 dBm;-64 dBm
+-70 dBm;-54 dBm;-54 dBm;-54 dBm
+-54 dBm;-54 dBm;-66 dBm;-62 dBm
+-63 dBm;-54 dBm;-54 dBm;-64 dBm
+-54 dBm;-53 dBm;-64 dBm;-54 dBm
+-69 dBm;-53 dBm;-55 dBm;-63 dBm
+-54 dBm;-54 dBm;-67 dBm;-54 dBm
+-63 dBm;-54 dBm;-54 dBm;-65 dBm
+-54 dBm;-70 dBm;-64 dBm;-54 dBm
+-70 dBm;-54 dBm;-54 dBm;-62 dBm
+-54 dBm;-61 dBm;-54 dBm;-64 dBm
+-54 dBm;-70 dBm;-54 dBm;-54 dBm
+-55 dBm;-55 dBm;-54 dBm;-62 dBm
+-54 dBm;-61 dBm;-55 dBm;-64 dBm
+-54 dBm;-55 dBm;-64 dBm;-55 dBm
+-64 dBm;-70 dBm;-54 dBm;-61 dBm
+-63 dBm;-54 dBm;-63 dBm;-63 dBm
+-53 dBm;-61 dBm;-54 dBm;-52 dBm
+-56 dBm;-54 dBm;-54 dBm;-61 dBm
+-55 dBm;-53 dBm;-63 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-66 dBm
+-73 dBm;-70 dBm;-55 dBm;-62 dBm
+-70 dBm;-69 dBm;-54 dBm;-52 dBm
+-55 dBm;-55 dBm;-54 dBm;-62 dBm
+-51 dBm;-62 dBm;-54 dBm;-54 dBm
+-54 dBm;-54 dBm;-64 dBm;-64 dBm
+-54 dBm;-70 dBm;-55 dBm;-55 dBm
+-53 dBm;-55 dBm;-64 dBm;-62 dBm
+-54 dBm;-54 dBm;-54 dBm;-55 dBm
+-54 dBm;-52 dBm;-53 dBm;-65 dBm
+-63 dBm;-55 dBm;-61 dBm;-65 dBm
+-55 dBm;-62 dBm;-52 dBm;-61 dBm
+-54 dBm;-54 dBm;-50 dBm;-54 dBm
+-55 dBm;-54 dBm;-54 dBm;-62 dBm
+-55 dBm;-52 dBm;-52 dBm;-63 dBm
+-70 dBm;-54 dBm;-51 dBm;-62 dBm
+-54 dBm;-54 dBm;-53 dBm;-52 dBm
+-56 dBm;-68 dBm;-63 dBm;-51 dBm
+-55 dBm;-54 dBm;-55 dBm;-61 dBm
+-64 dBm;-62 dBm;-64 dBm;-49 dBm
+-55 dBm;-54 dBm;-54 dBm;-53 dBm
+-69 dBm;-69 dBm;-63 dBm;-52 dBm
+-53 dBm;-52 dBm;-54 dBm;-62 dBm
+-50 dBm;-62 dBm;-64 dBm;-54 dBm
+-52 dBm;-54 dBm;-64 dBm;-60 dBm
+-50 dBm;-69 dBm;-54 dBm;-54 dBm
+-51 dBm;-54 dBm;-63 dBm;-61 dBm
+-52 dBm;-62 dBm;-54 dBm;-55 dBm
+-52 dBm;-70 dBm;-64 dBm;-62 dBm
+-51 dBm;-54 dBm;-54 dBm;-54 dBm
+-69 dBm;-62 dBm;-63 dBm;-60 dBm
+-64 dBm;-55 dBm;-54 dBm;-61 dBm
+-52 dBm;-70 dBm;-64 dBm;-62 dBm
+-53 dBm;-54 dBm;-55 dBm;-61 dBm
+-52 dBm;-62 dBm;-54 dBm;-55 dBm
+-70 dBm;-53 dBm;-54 dBm;-62 dBm
+-53 dBm;-70 dBm;-55 dBm;-62 dBm
+-64 dBm;-54 dBm;-54 dBm;-54 dBm
+-54 dBm;-62 dBm;-63 dBm;-62 dBm
+-70 dBm;-54 dBm;-63 dBm;-62 dBm
+-54 dBm;-69 dBm;-63 dBm;-54 dBm
+-63 dBm;-60 dBm;-54 dBm;-62 dBm
+-54 dBm;-70 dBm;-54 dBm;-61 dBm
+-55 dBm;-54 dBm;-53 dBm;-54 dBm
+-54 dBm;-62 dBm;-64 dBm;-61 dBm
+-54 dBm;-55 dBm;-54 dBm;-54 dBm
+-55 dBm;-55 dBm;-54 dBm;-61 dBm
+-69 dBm;-54 dBm;-54 dBm;-54 dBm
+-54 dBm;-70 dBm;-55 dBm;-62 dBm
+-63 dBm;-54 dBm;-56 dBm;-62 dBm
+-54 dBm;-62 dBm;-64 dBm;-54 dBm
+-69 dBm;-54 dBm;-54 dBm;-62 dBm
+-54 dBm;-70 dBm;-64 dBm;-62 dBm
+-66 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-62 dBm;-64 dBm;-61 dBm
+-54 dBm;-54 dBm;-55 dBm;-62 dBm
+-71 dBm;-70 dBm;-64 dBm;-54 dBm
+-55 dBm;-55 dBm;-53 dBm;-62 dBm
+-65 dBm;-62 dBm;-54 dBm;-62 dBm
+-54 dBm;-70 dBm;-64 dBm;-55 dBm
+-54 dBm;-55 dBm;-55 dBm;-61 dBm
+-54 dBm;-62 dBm;-64 dBm;-62 dBm
+-55 dBm;-70 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-54 dBm;-62 dBm
+-54 dBm;-62 dBm;-63 dBm;-64 dBm
+-71 dBm;-55 dBm;-53 dBm;-54 dBm
+-54 dBm;-71 dBm;-64 dBm;-63 dBm
+-64 dBm;-54 dBm;-55 dBm;-63 dBm
+-54 dBm;-62 dBm;-63 dBm;-54 dBm
+-69 dBm;-62 dBm;-54 dBm;-62 dBm
+-55 dBm;-71 dBm;-54 dBm;-63 dBm
+-55 dBm;-54 dBm;-64 dBm;-54 dBm
+-54 dBm;-62 dBm;-54 dBm;-62 dBm
+-54 dBm;-55 dBm;-64 dBm;-62 dBm
+-55 dBm;-69 dBm;-55 dBm;-63 dBm
+-52 dBm;-55 dBm;-63 dBm;-55 dBm
+-55 dBm;-62 dBm;-55 dBm;-61 dBm
+-54 dBm;-54 dBm;-64 dBm;-63 dBm
+-66 dBm;-54 dBm;-55 dBm;-63 dBm
+-55 dBm;-55 dBm;-63 dBm;-62 dBm
+-69 dBm;-55 dBm;-52 dBm;-54 dBm
+-69 dBm;-70 dBm;-65 dBm;-61 dBm
+-69 dBm;-53 dBm;-64 dBm;-63 dBm
+-54 dBm;-54 dBm;-55 dBm;-54 dBm
+-63 dBm;-61 dBm;-63 dBm;-61 dBm
+-54 dBm;-53 dBm;-55 dBm;-51 dBm
+-69 dBm;-68 dBm;-65 dBm;-53 dBm
+-54 dBm;-55 dBm;-54 dBm;-64 dBm
+-64 dBm;-61 dBm;-55 dBm;-54 dBm
+-64 dBm;-55 dBm;-64 dBm;-61 dBm
+-54 dBm;-55 dBm;-54 dBm;-62 dBm
+-70 dBm;-71 dBm;-54 dBm;-62 dBm
+-55 dBm;-54 dBm;-55 dBm;-53 dBm
+-64 dBm;-52 dBm;-63 dBm;-62 dBm
+-54 dBm;-62 dBm;-54 dBm;-52 dBm
+-69 dBm;-62 dBm;-64 dBm;-63 dBm
+-55 dBm;-54 dBm;-53 dBm;-62 dBm
+-55 dBm;-72 dBm;-64 dBm;-55 dBm
+-54 dBm;-55 dBm;-55 dBm;-62 dBm
+-63 dBm;-55 dBm;-65 dBm;-52 dBm
+-54 dBm;-61 dBm;-54 dBm;-62 dBm
+-70 dBm;-54 dBm;-63 dBm;-54 dBm
+-54 dBm;-55 dBm;-53 dBm;-62 dBm
+-63 dBm;-70 dBm;-64 dBm;-55 dBm
+-55 dBm;-54 dBm;-52 dBm;-63 dBm
+-70 dBm;-54 dBm;-64 dBm;-55 dBm
+-54 dBm;-55 dBm;-54 dBm;-62 dBm
+-54 dBm;-62 dBm;-65 dBm;-62 dBm
+-63 dBm;-55 dBm;-65 dBm;-62 dBm
+-54 dBm;-70 dBm;-55 dBm;-63 dBm
+-54 dBm;-54 dBm;-54 dBm;-63 dBm
+-69 dBm;-60 dBm;-63 dBm;-53 dBm
+-54 dBm;-55 dBm;-55 dBm;-62 dBm
+-55 dBm;-69 dBm;-64 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-63 dBm
+-54 dBm;-62 dBm;-64 dBm;-54 dBm
+-64 dBm;-70 dBm;-53 dBm;-62 dBm
+-54 dBm;-54 dBm;-64 dBm;-55 dBm
+-69 dBm;-61 dBm;-53 dBm;-63 dBm
+-54 dBm;-54 dBm;-55 dBm;-56 dBm
+-63 dBm;-70 dBm;-53 dBm;-62 dBm
+-70 dBm;-55 dBm;-64 dBm;-52 dBm
+-55 dBm;-62 dBm;-54 dBm;-63 dBm
+-54 dBm;-54 dBm;-65 dBm;-54 dBm
+-63 dBm;-55 dBm;-54 dBm;-62 dBm
+-55 dBm;-62 dBm;-54 dBm;-64 dBm
+-69 dBm;-54 dBm;-63 dBm;-54 dBm
+-54 dBm;-54 dBm;-55 dBm;-63 dBm
+-63 dBm;-55 dBm;-64 dBm;-55 dBm
+-63 dBm;-55 dBm;-55 dBm;-63 dBm
+-54 dBm;-55 dBm;-63 dBm;-55 dBm
+-70 dBm;-71 dBm;-54 dBm;-63 dBm
+-54 dBm;-55 dBm;-52 dBm;-55 dBm
+-55 dBm;-62 dBm;-49 dBm;-64 dBm
+-63 dBm;-54 dBm;-63 dBm;-63 dBm
+-55 dBm;-70 dBm;-50 dBm;-50 dBm
+-52 dBm;-54 dBm;-52 dBm;-54 dBm
+-69 dBm;-62 dBm;-63 dBm;-53 dBm
+-54 dBm;-54 dBm;-55 dBm;-50 dBm
+-52 dBm;-70 dBm;-55 dBm;-61 dBm
+-55 dBm;-55 dBm;-64 dBm;-55 dBm
+-55 dBm;-62 dBm;-64 dBm;-64 dBm
+-54 dBm;-61 dBm;-54 dBm;-63 dBm
+-55 dBm;-62 dBm;-55 dBm;-62 dBm
+-63 dBm;-53 dBm;-56 dBm;-56 dBm
+-54 dBm;-53 dBm;-55 dBm;-63 dBm
+-68 dBm;-71 dBm;-55 dBm;-54 dBm
+-69 dBm;-54 dBm;-63 dBm;-63 dBm
+-55 dBm;-62 dBm;-54 dBm;-52 dBm
+-55 dBm;-70 dBm;-65 dBm;-62 dBm
+-63 dBm;-55 dBm;-65 dBm;-63 dBm
+-54 dBm;-61 dBm;-55 dBm;-55 dBm
+-70 dBm;-61 dBm;-55 dBm;-62 dBm
+-54 dBm;-61 dBm;-66 dBm;-54 dBm
+-64 dBm;-62 dBm;-54 dBm;-54 dBm
+-54 dBm;-54 dBm;-64 dBm;-63 dBm
+-69 dBm;-55 dBm;-54 dBm;-53 dBm
+-54 dBm;-54 dBm;-67 dBm;-63 dBm
+-54 dBm;-54 dBm;-54 dBm;-54 dBm
+-63 dBm;-71 dBm;-65 dBm;-64 dBm
+-55 dBm;-71 dBm;-55 dBm;-54 dBm
+-68 dBm;-54 dBm;-63 dBm;-62 dBm
+-55 dBm;-54 dBm;-55 dBm;-63 dBm
+-63 dBm;-62 dBm;-65 dBm;-55 dBm
+-54 dBm;-54 dBm;-64 dBm;-62 dBm
+-69 dBm;-71 dBm;-55 dBm;-62 dBm
+-55 dBm;-54 dBm;-63 dBm;-55 dBm
+-54 dBm;-62 dBm;-55 dBm;-63 dBm
+-63 dBm;-55 dBm;-64 dBm;-55 dBm
+-55 dBm;-53 dBm;-53 dBm;-63 dBm
+-70 dBm;-54 dBm;-56 dBm;-54 dBm
+-55 dBm;-55 dBm;-55 dBm;-64 dBm
+-55 dBm;-53 dBm;-63 dBm;-54 dBm
+-54 dBm;-71 dBm;-53 dBm;-61 dBm
+-55 dBm;-55 dBm;-65 dBm;-53 dBm
+-55 dBm;-61 dBm;-65 dBm;-64 dBm
+-64 dBm;-55 dBm;-54 dBm;-54 dBm
+-54 dBm;-54 dBm;-64 dBm;-61 dBm
+-54 dBm;-70 dBm;-54 dBm;-54 dBm
+-69 dBm;-55 dBm;-64 dBm;-64 dBm
+-54 dBm;-61 dBm;-54 dBm;-54 dBm
+-64 dBm;-53 dBm;-63 dBm;-63 dBm
+-54 dBm;-71 dBm;-54 dBm;-54 dBm
+-69 dBm;-53 dBm;-53 dBm;-64 dBm
+-54 dBm;-61 dBm;-64 dBm;-55 dBm
+-55 dBm;-54 dBm;-55 dBm;-62 dBm
+-55 dBm;-69 dBm;-63 dBm;-54 dBm
+-55 dBm;-53 dBm;-55 dBm;-61 dBm
+-64 dBm;-62 dBm;-61 dBm;-55 dBm
+-54 dBm;-61 dBm;-54 dBm;-63 dBm
+-70 dBm;-62 dBm;-55 dBm;-54 dBm
+-54 dBm;-54 dBm;-54 dBm;-66 dBm
+-55 dBm;-70 dBm;-54 dBm;-54 dBm
+-54 dBm;-54 dBm;-64 dBm;-61 dBm
+-63 dBm;-61 dBm;-52 dBm;-55 dBm
+-54 dBm;-54 dBm;-64 dBm;-55 dBm
+-69 dBm;-54 dBm;-65 dBm;-63 dBm
+-54 dBm;-55 dBm;-61 dBm;-54 dBm
+-64 dBm;-54 dBm;-54 dBm;-61 dBm
+-55 dBm;-72 dBm;-63 dBm;-56 dBm
+-70 dBm;-55 dBm;-54 dBm;-64 dBm
+-54 dBm;-59 dBm;-64 dBm;-54 dBm
+-54 dBm;-54 dBm;-54 dBm;-61 dBm
+-63 dBm;-69 dBm;-64 dBm;-54 dBm
+-55 dBm;-55 dBm;-52 dBm;-64 dBm
+-70 dBm;-62 dBm;-65 dBm;-54 dBm
+-54 dBm;-54 dBm;-55 dBm;-63 dBm
+-55 dBm;-55 dBm;-54 dBm;-54 dBm
+-55 dBm;-54 dBm;-54 dBm;-63 dBm
+-55 dBm;-70 dBm;-54 dBm;-64 dBm
+-55 dBm;-52 dBm;-55 dBm;-61 dBm
+-63 dBm;-61 dBm;-64 dBm;-55 dBm
+-54 dBm;-55 dBm;-55 dBm;-63 dBm
+-53 dBm;-70 dBm;-64 dBm;-56 dBm
+-53 dBm;-54 dBm;-54 dBm;-66 dBm
+-53 dBm;-61 dBm;-65 dBm;-55 dBm
+-53 dBm;-61 dBm;-64 dBm;-62 dBm
+-69 dBm;-70 dBm;-54 dBm;-54 dBm
+-54 dBm;-54 dBm;-64 dBm;-52 dBm
+-54 dBm;-62 dBm;-54 dBm;-65 dBm
+-63 dBm;-54 dBm;-66 dBm;-54 dBm
+-55 dBm;-54 dBm;-55 dBm;-62 dBm
+-69 dBm;-55 dBm;-54 dBm;-54 dBm
+-54 dBm;-70 dBm;-64 dBm;-64 dBm
+-63 dBm;-55 dBm;-54 dBm;-55 dBm
+-55 dBm;-61 dBm;-68 dBm;-61 dBm
+-54 dBm;-70 dBm;-54 dBm;-65 dBm
+-54 dBm;-53 dBm;-64 dBm;-55 dBm
+-69 dBm;-61 dBm;-54 dBm;-62 dBm
+-54 dBm;-54 dBm;-63 dBm;-66 dBm
+-64 dBm;-71 dBm;-55 dBm;-66 dBm
+-55 dBm;-54 dBm;-65 dBm;-54 dBm
+-71 dBm;-61 dBm;-54 dBm;-61 dBm
+-54 dBm;-54 dBm;-64 dBm;-62 dBm
+-50 dBm;-54 dBm;-55 dBm;-52 dBm
+-52 dBm;-54 dBm;-64 dBm;-62 dBm
+-50 dBm;-54 dBm;-56 dBm;-55 dBm
+-63 dBm;-54 dBm;-54 dBm;-62 dBm
+-63 dBm;-70 dBm;-54 dBm;-55 dBm
+-54 dBm;-55 dBm;-63 dBm;-62 dBm
+-71 dBm;-61 dBm;-54 dBm;-62 dBm
+-54 dBm;-54 dBm;-64 dBm;-53 dBm
+-63 dBm;-70 dBm;-54 dBm;-62 dBm
+-56 dBm;-62 dBm;-54 dBm;-54 dBm
+-56 dBm;-54 dBm;-65 dBm;-62 dBm
+-70 dBm;-54 dBm;-53 dBm;-54 dBm
+-54 dBm;-55 dBm;-64 dBm;-55 dBm
+-54 dBm;-55 dBm;-52 dBm;-62 dBm
+-55 dBm;-54 dBm;-64 dBm;-55 dBm
+-54 dBm;-69 dBm;-54 dBm;-61 dBm
+-54 dBm;-53 dBm;-66 dBm;-61 dBm
+-63 dBm;-62 dBm;-66 dBm;-55 dBm
+-55 dBm;-55 dBm;-63 dBm;-62 dBm
+-70 dBm;-55 dBm;-55 dBm;-54 dBm
+-54 dBm;-55 dBm;-54 dBm;-63 dBm
+-67 dBm;-54 dBm;-62 dBm;-55 dBm
+-53 dBm;-70 dBm;-54 dBm;-61 dBm
+-69 dBm;-69 dBm;-64 dBm;-61 dBm
+-54 dBm;-69 dBm;-55 dBm;-55 dBm
+-66 dBm;-69 dBm;-63 dBm;-56 dBm
+-54 dBm;-70 dBm;-54 dBm;-61 dBm
+-69 dBm;-54 dBm;-65 dBm;-54 dBm
+-54 dBm;-62 dBm;-65 dBm;-61 dBm
+-65 dBm;-55 dBm;-61 dBm;-54 dBm
+-55 dBm;-70 dBm;-54 dBm;-62 dBm
+-71 dBm;-54 dBm;-64 dBm;-61 dBm
+-54 dBm;-62 dBm;-54 dBm;-54 dBm
+-63 dBm;-55 dBm;-62 dBm;-61 dBm
+-54 dBm;-70 dBm;-54 dBm;-55 dBm
+-70 dBm;-53 dBm;-63 dBm;-54 dBm
+-55 dBm;-62 dBm;-52 dBm;-62 dBm
+-64 dBm;-62 dBm;-63 dBm;-54 dBm
+-54 dBm;-61 dBm;-55 dBm;-62 dBm
+-69 dBm;-54 dBm;-61 dBm;-55 dBm
+-54 dBm;-54 dBm;-62 dBm;-62 dBm
+-63 dBm;-55 dBm;-54 dBm;-54 dBm
+-55 dBm;-55 dBm;-63 dBm;-62 dBm
+-70 dBm;-55 dBm;-54 dBm;-62 dBm
+-55 dBm;-70 dBm;-62 dBm;-54 dBm
+-64 dBm;-55 dBm;-54 dBm;-62 dBm
+-54 dBm;-61 dBm;-64 dBm;-62 dBm
+-69 dBm;-55 dBm;-54 dBm;-54 dBm
+-55 dBm;-70 dBm;-61 dBm;-62 dBm
+-55 dBm;-54 dBm;-61 dBm;-61 dBm
+-54 dBm;-55 dBm;-60 dBm;-53 dBm
+-55 dBm;-70 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-54 dBm;-62 dBm
+-54 dBm;-61 dBm;-64 dBm;-54 dBm
+-63 dBm;-54 dBm;-54 dBm;-62 dBm
+-54 dBm;-54 dBm;-62 dBm;-54 dBm
+-70 dBm;-54 dBm;-55 dBm;-62 dBm
+-54 dBm;-53 dBm;-63 dBm;-62 dBm
+-63 dBm;-54 dBm;-54 dBm;-54 dBm
+-54 dBm;-70 dBm;-62 dBm;-63 dBm
+-71 dBm;-54 dBm;-54 dBm;-61 dBm
+-54 dBm;-61 dBm;-63 dBm;-54 dBm
+-64 dBm;-54 dBm;-54 dBm;-62 dBm
+-54 dBm;-69 dBm;-62 dBm;-54 dBm
+-54 dBm;-55 dBm;-55 dBm;-62 dBm
+-54 dBm;-62 dBm;-63 dBm;-54 dBm
+-71 dBm;-70 dBm;-54 dBm;-62 dBm
+-54 dBm;-55 dBm;-61 dBm;-54 dBm
+-63 dBm;-62 dBm;-55 dBm;-62 dBm
+-55 dBm;-54 dBm;-54 dBm;-53 dBm
+-54 dBm;-55 dBm;-54 dBm;-63 dBm
+-69 dBm;-54 dBm;-55 dBm;-62 dBm
+-54 dBm;-55 dBm;-54 dBm;-58 dBm
+-54 dBm;-54 dBm;-54 dBm;-53 dBm
+-55 dBm;-70 dBm;-55 dBm;-62 dBm
+-55 dBm;-54 dBm;-64 dBm;-54 dBm
+-64 dBm;-62 dBm;-55 dBm;-63 dBm
+-54 dBm;-54 dBm;-62 dBm;-54 dBm
+-55 dBm;-70 dBm;-54 dBm;-61 dBm
+-54 dBm;-70 dBm;-64 dBm;-55 dBm
+-55 dBm;-54 dBm;-53 dBm;-62 dBm
+-70 dBm;-60 dBm;-62 dBm;-55 dBm
+-54 dBm;-54 dBm;-62 dBm;-62 dBm
+-64 dBm;-69 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-63 dBm;-62 dBm
+-55 dBm;-62 dBm;-54 dBm;-54 dBm
+-55 dBm;-54 dBm;-63 dBm;-62 dBm
+-55 dBm;-70 dBm;-54 dBm;-53 dBm
+-70 dBm;-54 dBm;-64 dBm;-62 dBm
+-55 dBm;-63 dBm;-62 dBm;-53 dBm
+-67 dBm;-62 dBm;-54 dBm;-63 dBm
+-54 dBm;-54 dBm;-64 dBm;-54 dBm
+-69 dBm;-54 dBm;-64 dBm;-63 dBm
+-54 dBm;-55 dBm;-63 dBm;-54 dBm
+-68 dBm;-69 dBm;-62 dBm;-61 dBm
+-71 dBm;-54 dBm;-55 dBm;-62 dBm
+-54 dBm;-61 dBm;-62 dBm;-62 dBm
+-64 dBm;-53 dBm;-56 dBm;-61 dBm
+-54 dBm;-70 dBm;-52 dBm;-55 dBm
+-71 dBm;-54 dBm;-55 dBm;-63 dBm
+-54 dBm;-54 dBm;-55 dBm;-55 dBm
+-63 dBm;-62 dBm;-55 dBm;-62 dBm
+-55 dBm;-53 dBm;-64 dBm;-54 dBm
+-71 dBm;-53 dBm;-55 dBm;-62 dBm
+-54 dBm;-69 dBm;-64 dBm;-55 dBm
+-54 dBm;-53 dBm;-55 dBm;-62 dBm
+-55 dBm;-62 dBm;-54 dBm;-62 dBm
+-54 dBm;-54 dBm;-64 dBm;-54 dBm
+-63 dBm;-68 dBm;-54 dBm;-62 dBm
+-55 dBm;-54 dBm;-63 dBm;-55 dBm
+-70 dBm;-61 dBm;-63 dBm;-62 dBm
+-55 dBm;-55 dBm;-61 dBm;-54 dBm
+-64 dBm;-69 dBm;-54 dBm;-62 dBm
+-54 dBm;-55 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-63 dBm;-62 dBm
+-70 dBm;-62 dBm;-53 dBm;-55 dBm
+-54 dBm;-56 dBm;-63 dBm;-54 dBm
+-64 dBm;-54 dBm;-54 dBm;-61 dBm
+-70 dBm;-56 dBm;-54 dBm;-53 dBm
+-54 dBm;-55 dBm;-63 dBm;-62 dBm
+-63 dBm;-55 dBm;-54 dBm;-55 dBm
+-54 dBm;-55 dBm;-64 dBm;-61 dBm
+-70 dBm;-66 dBm;-52 dBm;-61 dBm
+-55 dBm;-52 dBm;-63 dBm;-62 dBm
+-63 dBm;-63 dBm;-55 dBm;-52 dBm
+-55 dBm;-52 dBm;-63 dBm;-61 dBm
+-70 dBm;-64 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-62 dBm;-61 dBm
+-63 dBm;-61 dBm;-53 dBm;-61 dBm
+-54 dBm;-55 dBm;-63 dBm;-55 dBm
+-54 dBm;-67 dBm;-54 dBm;-61 dBm
+-54 dBm;-55 dBm;-50 dBm;-54 dBm
+-63 dBm;-61 dBm;-53 dBm;-52 dBm
+-55 dBm;-56 dBm;-64 dBm;-54 dBm
+-70 dBm;-69 dBm;-54 dBm;-62 dBm
+-54 dBm;-55 dBm;-62 dBm;-49 dBm
+-64 dBm;-60 dBm;-62 dBm;-50 dBm
+-55 dBm;-52 dBm;-55 dBm;-50 dBm
+-54 dBm;-54 dBm;-63 dBm;-62 dBm
+-54 dBm;-56 dBm;-55 dBm;-54 dBm
+-53 dBm;-54 dBm;-63 dBm;-63 dBm
+-54 dBm;-54 dBm;-54 dBm;-54 dBm
+-69 dBm;-63 dBm;-64 dBm;-62 dBm
+-54 dBm;-54 dBm;-54 dBm;-54 dBm
+-63 dBm;-70 dBm;-62 dBm;-63 dBm
+-54 dBm;-54 dBm;-54 dBm;-55 dBm
+-70 dBm;-64 dBm;-64 dBm;-62 dBm
+-55 dBm;-71 dBm;-54 dBm;-61 dBm
+-54 dBm;-52 dBm;-54 dBm;-62 dBm
+-54 dBm;-62 dBm;-64 dBm;-61 dBm
+-63 dBm;-54 dBm;-63 dBm;-55 dBm
+-55 dBm;-69 dBm;-53 dBm;-62 dBm
+-70 dBm;-53 dBm;-64 dBm;-54 dBm
+-55 dBm;-62 dBm;-53 dBm;-63 dBm
+-64 dBm;-55 dBm;-63 dBm;-54 dBm
+-55 dBm;-71 dBm;-54 dBm;-62 dBm
+-70 dBm;-54 dBm;-63 dBm;-55 dBm
+-55 dBm;-63 dBm;-53 dBm;-61 dBm
+-63 dBm;-54 dBm;-64 dBm;-61 dBm
+-54 dBm;-68 dBm;-54 dBm;-55 dBm
+-70 dBm;-54 dBm;-64 dBm;-62 dBm
+-54 dBm;-62 dBm;-55 dBm;-56 dBm
+-63 dBm;-54 dBm;-63 dBm;-63 dBm
+-54 dBm;-69 dBm;-54 dBm;-54 dBm
+-71 dBm;-55 dBm;-64 dBm;-62 dBm
+-54 dBm;-61 dBm;-55 dBm;-54 dBm
+-55 dBm;-54 dBm;-64 dBm;-62 dBm
+-55 dBm;-68 dBm;-54 dBm;-56 dBm
+-54 dBm;-55 dBm;-63 dBm;-62 dBm
+-55 dBm;-62 dBm;-55 dBm;-55 dBm
+-54 dBm;-55 dBm;-63 dBm;-63 dBm
+-63 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-53 dBm;-55 dBm;-61 dBm
+-71 dBm;-69 dBm;-54 dBm;-55 dBm
+-54 dBm;-55 dBm;-56 dBm;-63 dBm
+-55 dBm;-63 dBm;-55 dBm;-62 dBm
+-54 dBm;-54 dBm;-63 dBm;-54 dBm
+-54 dBm;-54 dBm;-55 dBm;-61 dBm
+-54 dBm;-54 dBm;-63 dBm;-52 dBm
+-63 dBm;-55 dBm;-56 dBm;-62 dBm
+-54 dBm;-54 dBm;-64 dBm;-55 dBm
+-70 dBm;-69 dBm;-52 dBm;-62 dBm
+-54 dBm;-55 dBm;-63 dBm;-54 dBm
+-63 dBm;-63 dBm;-54 dBm;-63 dBm
+-54 dBm;-54 dBm;-63 dBm;-56 dBm
+-70 dBm;-62 dBm;-55 dBm;-62 dBm
+-70 dBm;-54 dBm;-61 dBm;-55 dBm
+-70 dBm;-54 dBm;-50 dBm;-62 dBm
+-70 dBm;-69 dBm;-54 dBm;-55 dBm
+-69 dBm;-54 dBm;-52 dBm;-61 dBm
+-54 dBm;-63 dBm;-47 dBm;-63 dBm
+-63 dBm;-55 dBm;-64 dBm;-63 dBm
+-63 dBm;-53 dBm;-55 dBm;-56 dBm
+-63 dBm;-55 dBm;-63 dBm;-61 dBm
+-55 dBm;-54 dBm;-54 dBm;-55 dBm
+-70 dBm;-68 dBm;-64 dBm;-62 dBm
+-53 dBm;-54 dBm;-54 dBm;-55 dBm
+-53 dBm;-63 dBm;-55 dBm;-62 dBm
+-54 dBm;-55 dBm;-63 dBm;-55 dBm
+-64 dBm;-68 dBm;-56 dBm;-62 dBm
+-54 dBm;-55 dBm;-54 dBm;-54 dBm
+-56 dBm;-62 dBm;-55 dBm;-62 dBm
+-70 dBm;-53 dBm;-62 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-62 dBm
+-55 dBm;-54 dBm;-63 dBm;-55 dBm
+-55 dBm;-54 dBm;-63 dBm;-62 dBm
+-63 dBm;-70 dBm;-61 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-63 dBm
+-53 dBm;-54 dBm;-64 dBm;-62 dBm
+-55 dBm;-62 dBm;-53 dBm;-54 dBm
+-54 dBm;-55 dBm;-63 dBm;-63 dBm
+-54 dBm;-70 dBm;-55 dBm;-54 dBm
+-70 dBm;-61 dBm;-64 dBm;-62 dBm
+-54 dBm;-55 dBm;-55 dBm;-55 dBm
+-54 dBm;-70 dBm;-64 dBm;-55 dBm
+-54 dBm;-70 dBm;-55 dBm;-63 dBm
+-64 dBm;-55 dBm;-63 dBm;-55 dBm
+-54 dBm;-62 dBm;-54 dBm;-63 dBm
+-69 dBm;-70 dBm;-63 dBm;-54 dBm
+-55 dBm;-54 dBm;-52 dBm;-62 dBm
+-63 dBm;-64 dBm;-62 dBm;-61 dBm
+-55 dBm;-54 dBm;-54 dBm;-62 dBm
+-71 dBm;-54 dBm;-63 dBm;-54 dBm
+-54 dBm;-53 dBm;-54 dBm;-62 dBm
+-62 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-55 dBm;-62 dBm;-63 dBm
+-71 dBm;-69 dBm;-54 dBm;-62 dBm
+-54 dBm;-54 dBm;-63 dBm;-54 dBm
+-55 dBm;-62 dBm;-54 dBm;-63 dBm
+-55 dBm;-53 dBm;-63 dBm;-54 dBm
+-54 dBm;-54 dBm;-54 dBm;-64 dBm
+-54 dBm;-54 dBm;-63 dBm;-54 dBm
+-64 dBm;-54 dBm;-53 dBm;-62 dBm
+-54 dBm;-54 dBm;-64 dBm;-54 dBm
+-70 dBm;-70 dBm;-55 dBm;-63 dBm
+-54 dBm;-54 dBm;-63 dBm;-54 dBm
+-64 dBm;-62 dBm;-54 dBm;-62 dBm
+-55 dBm;-69 dBm;-55 dBm;-55 dBm
+-70 dBm;-54 dBm;-63 dBm;-55 dBm
+-54 dBm;-62 dBm;-64 dBm;-54 dBm
+-63 dBm;-52 dBm;-54 dBm;-61 dBm
+-54 dBm;-53 dBm;-63 dBm;-54 dBm
+-68 dBm;-54 dBm;-55 dBm;-63 dBm
+-68 dBm;-55 dBm;-54 dBm;-54 dBm
+-69 dBm;-53 dBm;-64 dBm;-62 dBm
+-69 dBm;-53 dBm;-55 dBm;-53 dBm
+-53 dBm;-69 dBm;-63 dBm;-63 dBm
+-68 dBm;-53 dBm;-55 dBm;-53 dBm
+-64 dBm;-61 dBm;-63 dBm;-61 dBm
+-55 dBm;-55 dBm;-55 dBm;-54 dBm
+-55 dBm;-70 dBm;-66 dBm;-63 dBm
+-63 dBm;-55 dBm;-55 dBm;-55 dBm
+-55 dBm;-62 dBm;-55 dBm;-62 dBm
+-69 dBm;-55 dBm;-55 dBm;-54 dBm
+-54 dBm;-69 dBm;-63 dBm;-63 dBm
+-63 dBm;-55 dBm;-55 dBm;-55 dBm
+-54 dBm;-62 dBm;-64 dBm;-62 dBm
+-54 dBm;-53 dBm;-54 dBm;-56 dBm
+-54 dBm;-55 dBm;-63 dBm;-64 dBm
+-54 dBm;-56 dBm;-55 dBm;-54 dBm
+-53 dBm;-70 dBm;-64 dBm;-62 dBm
+-54 dBm;-56 dBm;-64 dBm;-54 dBm
+-53 dBm;-62 dBm;-54 dBm;-63 dBm
+-55 dBm;-54 dBm;-54 dBm;-55 dBm
+-55 dBm;-71 dBm;-53 dBm;-61 dBm
+-69 dBm;-55 dBm;-54 dBm;-62 dBm
+-54 dBm;-62 dBm;-63 dBm;-54 dBm
+-64 dBm;-70 dBm;-55 dBm;-63 dBm
+-53 dBm;-55 dBm;-64 dBm;-54 dBm
+-69 dBm;-61 dBm;-54 dBm;-62 dBm
+-54 dBm;-48 dBm;-63 dBm;-55 dBm
+-55 dBm;-53 dBm;-54 dBm;-64 dBm
+-54 dBm;-69 dBm;-64 dBm;-55 dBm
+-54 dBm;-55 dBm;-64 dBm;-63 dBm
+-53 dBm;-62 dBm;-61 dBm;-54 dBm
+-63 dBm;-55 dBm;-54 dBm;-53 dBm
+-53 dBm;-70 dBm;-54 dBm;-61 dBm
+-70 dBm;-55 dBm;-63 dBm;-53 dBm
+-54 dBm;-62 dBm;-55 dBm;-54 dBm
+-64 dBm;-54 dBm;-66 dBm;-62 dBm
+-64 dBm;-70 dBm;-55 dBm;-54 dBm
+-52 dBm;-54 dBm;-63 dBm;-63 dBm
+-69 dBm;-61 dBm;-55 dBm;-54 dBm
+-54 dBm;-55 dBm;-64 dBm;-62 dBm
+-53 dBm;-69 dBm;-55 dBm;-56 dBm
+-55 dBm;-54 dBm;-64 dBm;-63 dBm
+-63 dBm;-59 dBm;-64 dBm;-55 dBm
+-54 dBm;-55 dBm;-61 dBm;-61 dBm
+-54 dBm;-70 dBm;-54 dBm;-55 dBm
+-55 dBm;-54 dBm;-52 dBm;-63 dBm
+-54 dBm;-63 dBm;-54 dBm;-54 dBm
+-55 dBm;-55 dBm;-55 dBm;-62 dBm
+-68 dBm;-70 dBm;-64 dBm;-54 dBm
+-55 dBm;-54 dBm;-54 dBm;-54 dBm
+-62 dBm;-62 dBm;-65 dBm;-64 dBm
+-55 dBm;-54 dBm;-65 dBm;-55 dBm
+-68 dBm;-54 dBm;-61 dBm;-62 dBm
+-53 dBm;-62 dBm;-55 dBm;-55 dBm
+-63 dBm;-54 dBm;-64 dBm;-63 dBm
+-55 dBm;-55 dBm;-54 dBm;-55 dBm
+-54 dBm;-54 dBm;-65 dBm;-62 dBm
+-55 dBm;-54 dBm;-55 dBm;-54 dBm
+-63 dBm;-54 dBm;-64 dBm;-64 dBm
+-55 dBm;-70 dBm;-54 dBm;-55 dBm
+-55 dBm;-54 dBm;-55 dBm;-62 dBm
+-64 dBm;-61 dBm;-63 dBm;-63 dBm
+-55 dBm;-61 dBm;-54 dBm;-61 dBm
+-65 dBm;-69 dBm;-53 dBm;-55 dBm
+-55 dBm;-55 dBm;-53 dBm;-63 dBm
+-63 dBm;-61 dBm;-53 dBm;-54 dBm
+-55 dBm;-54 dBm;-54 dBm;-61 dBm
+-54 dBm;-70 dBm;-54 dBm;-55 dBm
+-64 dBm;-55 dBm;-64 dBm;-63 dBm
+-56 dBm;-61 dBm;-55 dBm;-55 dBm
+-55 dBm;-54 dBm;-62 dBm;-55 dBm
+-55 dBm;-69 dBm;-52 dBm;-62 dBm
+-63 dBm;-55 dBm;-64 dBm;-54 dBm
+-55 dBm;-61 dBm;-55 dBm;-63 dBm
+-69 dBm;-54 dBm;-62 dBm;-54 dBm
+-54 dBm;-55 dBm;-55 dBm;-62 dBm
+-64 dBm;-55 dBm;-63 dBm;-63 dBm
+-54 dBm;-54 dBm;-55 dBm;-54 dBm
+-52 dBm;-54 dBm;-61 dBm;-62 dBm
+-55 dBm;-68 dBm;-55 dBm;-54 dBm
+-55 dBm;-54 dBm;-64 dBm;-64 dBm
+-52 dBm;-62 dBm;-55 dBm;-55 dBm
+-71 dBm;-54 dBm;-61 dBm;-62 dBm
+-54 dBm;-70 dBm;-55 dBm;-56 dBm
+-65 dBm;-62 dBm;-66 dBm;-63 dBm
+-54 dBm;-54 dBm;-55 dBm;-54 dBm
+-70 dBm;-54 dBm;-62 dBm;-62 dBm
+-54 dBm;-54 dBm;-55 dBm;-55 dBm
+-63 dBm;-70 dBm;-66 dBm;-64 dBm
+-55 dBm;-55 dBm;-54 dBm;-55 dBm
+-54 dBm;-62 dBm;-63 dBm;-62 dBm
+-55 dBm;-54 dBm;-55 dBm;-55 dBm
+-54 dBm;-70 dBm;-65 dBm;-64 dBm
+-55 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-62 dBm;-62 dBm;-62 dBm
+-71 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-70 dBm;-65 dBm;-63 dBm
+-54 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-61 dBm;-62 dBm;-63 dBm
+-64 dBm;-54 dBm;-56 dBm;-56 dBm
+-54 dBm;-54 dBm;-63 dBm;-64 dBm
+-69 dBm;-54 dBm;-54 dBm;-54 dBm
+-55 dBm;-55 dBm;-62 dBm;-62 dBm
+-63 dBm;-55 dBm;-55 dBm;-55 dBm
+-55 dBm;-70 dBm;-54 dBm;-54 dBm
+-55 dBm;-54 dBm;-64 dBm;-64 dBm
+-54 dBm;-61 dBm;-54 dBm;-54 dBm
+-52 dBm;-54 dBm;-61 dBm;-62 dBm
+-54 dBm;-70 dBm;-54 dBm;-55 dBm
+-56 dBm;-54 dBm;-54 dBm;-64 dBm
+-71 dBm;-62 dBm;-63 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-63 dBm
+-63 dBm;-55 dBm;-62 dBm;-55 dBm
+-55 dBm;-55 dBm;-54 dBm;-64 dBm
+-68 dBm;-70 dBm;-56 dBm;-54 dBm
+-54 dBm;-70 dBm;-62 dBm;-62 dBm
+-54 dBm;-54 dBm;-64 dBm;-53 dBm
+-56 dBm;-61 dBm;-54 dBm;-64 dBm
+-55 dBm;-54 dBm;-61 dBm;-55 dBm
+-54 dBm;-70 dBm;-55 dBm;-61 dBm
+-63 dBm;-54 dBm;-63 dBm;-54 dBm
+-54 dBm;-62 dBm;-54 dBm;-64 dBm
+-54 dBm;-55 dBm;-62 dBm;-55 dBm
+-68 dBm;-70 dBm;-56 dBm;-62 dBm
+-54 dBm;-54 dBm;-54 dBm;-54 dBm
+-63 dBm;-62 dBm;-55 dBm;-65 dBm
+-55 dBm;-55 dBm;-54 dBm;-55 dBm
+-69 dBm;-70 dBm;-63 dBm;-62 dBm
+-54 dBm;-55 dBm;-64 dBm;-54 dBm
+-64 dBm;-63 dBm;-55 dBm;-65 dBm
+-54 dBm;-55 dBm;-62 dBm;-55 dBm
+-53 dBm;-69 dBm;-54 dBm;-62 dBm
+-53 dBm;-55 dBm;-63 dBm;-53 dBm
+-53 dBm;-63 dBm;-54 dBm;-64 dBm
+-68 dBm;-54 dBm;-62 dBm;-55 dBm
+-54 dBm;-54 dBm;-55 dBm;-62 dBm
+-54 dBm;-62 dBm;-64 dBm;-54 dBm
+-53 dBm;-55 dBm;-53 dBm;-64 dBm
+-63 dBm;-68 dBm;-54 dBm;-55 dBm
+-55 dBm;-53 dBm;-54 dBm;-55 dBm
+-68 dBm;-61 dBm;-62 dBm;-62 dBm
+-53 dBm;-55 dBm;-54 dBm;-56 dBm
+-55 dBm;-69 dBm;-54 dBm;-65 dBm
+-63 dBm;-53 dBm;-64 dBm;-55 dBm
+-54 dBm;-62 dBm;-63 dBm;-62 dBm
+-68 dBm;-54 dBm;-55 dBm;-62 dBm
+-55 dBm;-54 dBm;-62 dBm;-64 dBm
+-54 dBm;-68 dBm;-55 dBm;-56 dBm
+-64 dBm;-54 dBm;-64 dBm;-63 dBm
+-54 dBm;-61 dBm;-55 dBm;-54 dBm
+-55 dBm;-54 dBm;-62 dBm;-54 dBm
+-55 dBm;-67 dBm;-54 dBm;-65 dBm
+-69 dBm;-54 dBm;-64 dBm;-55 dBm
+-54 dBm;-62 dBm;-54 dBm;-63 dBm
+-63 dBm;-55 dBm;-62 dBm;-55 dBm
+-54 dBm;-72 dBm;-53 dBm;-64 dBm
+-54 dBm;-54 dBm;-63 dBm;-56 dBm
+-55 dBm;-62 dBm;-63 dBm;-63 dBm
+-54 dBm;-55 dBm;-54 dBm;-65 dBm
+-69 dBm;-69 dBm;-54 dBm;-55 dBm
+-54 dBm;-55 dBm;-62 dBm;-62 dBm
+-63 dBm;-61 dBm;-54 dBm;-55 dBm
+-54 dBm;-56 dBm;-53 dBm;-65 dBm
+-70 dBm;-69 dBm;-55 dBm;-55 dBm
+-55 dBm;-55 dBm;-64 dBm;-62 dBm
+-63 dBm;-62 dBm;-54 dBm;-62 dBm
+-56 dBm;-68 dBm;-62 dBm;-54 dBm
+-54 dBm;-54 dBm;-54 dBm;-65 dBm
+-70 dBm;-62 dBm;-63 dBm;-53 dBm
+-54 dBm;-54 dBm;-54 dBm;-62 dBm
+-55 dBm;-69 dBm;-63 dBm;-55 dBm
+-55 dBm;-54 dBm;-53 dBm;-65 dBm
+-63 dBm;-62 dBm;-63 dBm;-54 dBm
+-55 dBm;-54 dBm;-54 dBm;-61 dBm
+-70 dBm;-69 dBm;-62 dBm;-55 dBm
+-53 dBm;-69 dBm;-55 dBm;-65 dBm
+-64 dBm;-55 dBm;-63 dBm;-55 dBm
+-54 dBm;-50 dBm;-53 dBm;-63 dBm
+-69 dBm;-48 dBm;-62 dBm;-54 dBm
+-55 dBm;-50 dBm;-53 dBm;-65 dBm
+-54 dBm;-51 dBm;-63 dBm;-55 dBm
+-54 dBm;-51 dBm;-63 dBm;-62 dBm
+-63 dBm;-62 dBm;-55 dBm;-54 dBm
+-54 dBm;-55 dBm;-62 dBm;-65 dBm
+-69 dBm;-55 dBm;-55 dBm;-65 dBm
+-55 dBm;-69 dBm;-63 dBm;-61 dBm
+-64 dBm;-54 dBm;-54 dBm;-55 dBm
+-54 dBm;-63 dBm;-62 dBm;-60 dBm
+-69 dBm;-69 dBm;-61 dBm;-61 dBm
+-54 dBm;-55 dBm;-61 dBm;-62 dBm
+-54 dBm;-61 dBm;-61 dBm;-55 dBm
+-64 dBm;-69 dBm;-54 dBm;-65 dBm
+-54 dBm;-54 dBm;-64 dBm;-61 dBm
+-55 dBm;-54 dBm;-54 dBm;-54 dBm
+-55 dBm;-62 dBm;-62 dBm;-62 dBm
+-55 dBm;-54 dBm;-61 dBm;-55 dBm
+-52 dBm;-54 dBm;-60 dBm;-65 dBm
+-55 dBm;-54 dBm;-54 dBm;-55 dBm
+-69 dBm;-55 dBm;-54 dBm;-55 dBm
+-54 dBm;-54 dBm;-63 dBm;-63 dBm
+-63 dBm;-69 dBm;-54 dBm;-65 dBm
+-55 dBm;-54 dBm;-61 dBm;-54 dBm
+-70 dBm;-62 dBm;-55 dBm;-62 dBm
+-54 dBm;-62 dBm;-63 dBm;-55 dBm
+-63 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-70 dBm;-62 dBm;-61 dBm
+-69 dBm;-55 dBm;-54 dBm;-62 dBm
+-55 dBm;-62 dBm;-55 dBm;-62 dBm
+-55 dBm;-62 dBm;-63 dBm;-53 dBm
+-63 dBm;-55 dBm;-54 dBm;-65 dBm
+-53 dBm;-70 dBm;-62 dBm;-64 dBm
+-54 dBm;-54 dBm;-54 dBm;-61 dBm
+-70 dBm;-62 dBm;-63 dBm;-54 dBm
+-53 dBm;-54 dBm;-54 dBm;-63 dBm
+-63 dBm;-70 dBm;-61 dBm;-62 dBm
+-55 dBm;-55 dBm;-54 dBm;-62 dBm
+-54 dBm;-62 dBm;-63 dBm;-54 dBm
+-54 dBm;-54 dBm;-53 dBm;-65 dBm
+-55 dBm;-55 dBm;-61 dBm;-54 dBm
+-70 dBm;-62 dBm;-61 dBm;-62 dBm
+-53 dBm;-55 dBm;-61 dBm;-54 dBm
+-54 dBm;-69 dBm;-54 dBm;-65 dBm
+-63 dBm;-52 dBm;-64 dBm;-54 dBm
+-55 dBm;-51 dBm;-55 dBm;-61 dBm
+-69 dBm;-50 dBm;-61 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-65 dBm
+-63 dBm;-54 dBm;-62 dBm;-54 dBm
+-55 dBm;-61 dBm;-55 dBm;-62 dBm
+-70 dBm;-55 dBm;-61 dBm;-55 dBm
+-54 dBm;-69 dBm;-55 dBm;-65 dBm
+-55 dBm;-55 dBm;-63 dBm;-55 dBm
+-67 dBm;-62 dBm;-55 dBm;-55 dBm
+-55 dBm;-54 dBm;-54 dBm;-54 dBm
+-71 dBm;-69 dBm;-61 dBm;-54 dBm
+-70 dBm;-54 dBm;-55 dBm;-55 dBm
+-54 dBm;-61 dBm;-54 dBm;-55 dBm
+-63 dBm;-56 dBm;-62 dBm;-55 dBm
+-54 dBm;-55 dBm;-54 dBm;-55 dBm
+-70 dBm;-69 dBm;-63 dBm;-62 dBm
+-54 dBm;-56 dBm;-55 dBm;-54 dBm
+-64 dBm;-55 dBm;-62 dBm;-65 dBm
+-55 dBm;-55 dBm;-55 dBm;-55 dBm
+-69 dBm;-62 dBm;-54 dBm;-62 dBm
+-55 dBm;-55 dBm;-54 dBm;-54 dBm
+-64 dBm;-69 dBm;-55 dBm;-65 dBm
+-55 dBm;-55 dBm;-64 dBm;-54 dBm
+-70 dBm;-61 dBm;-55 dBm;-62 dBm
+-55 dBm;-54 dBm;-62 dBm;-55 dBm
+-63 dBm;-54 dBm;-55 dBm;-65 dBm
+-54 dBm;-69 dBm;-64 dBm;-65 dBm
+-71 dBm;-55 dBm;-55 dBm;-55 dBm
+-55 dBm;-61 dBm;-62 dBm;-62 dBm
+-63 dBm;-55 dBm;-54 dBm;-55 dBm
+-54 dBm;-69 dBm;-64 dBm;-64 dBm
+-71 dBm;-55 dBm;-54 dBm;-54 dBm
+-54 dBm;-69 dBm;-62 dBm;-61 dBm
+-63 dBm;-61 dBm;-55 dBm;-54 dBm
+-54 dBm;-54 dBm;-63 dBm;-65 dBm
+-54 dBm;-69 dBm;-55 dBm;-55 dBm
+-56 dBm;-55 dBm;-62 dBm;-62 dBm
+-54 dBm;-61 dBm;-62 dBm;-55 dBm
+-55 dBm;-69 dBm;-55 dBm;-65 dBm
+-54 dBm;-54 dBm;-64 dBm;-65 dBm
+-70 dBm;-61 dBm;-55 dBm;-54 dBm
+-54 dBm;-55 dBm;-62 dBm;-62 dBm
+-64 dBm;-54 dBm;-54 dBm;-62 dBm
+-53 dBm;-55 dBm;-55 dBm;-55 dBm
+-54 dBm;-55 dBm;-63 dBm;-65 dBm
+-54 dBm;-54 dBm;-54 dBm;-55 dBm
+-54 dBm;-55 dBm;-62 dBm;-61 dBm
+-54 dBm;-55 dBm;-54 dBm;-65 dBm
+-70 dBm;-69 dBm;-54 dBm;-54 dBm
+-53 dBm;-54 dBm;-55 dBm;-63 dBm
+-63 dBm;-61 dBm;-69 dBm;-55 dBm
+-54 dBm;-52 dBm;-54 dBm;-65 dBm
+-55 dBm;-54 dBm;-63 dBm;-54 dBm
+-55 dBm;-54 dBm;-54 dBm;-62 dBm
+-54 dBm;-55 dBm;-67 dBm;-55 dBm
+-54 dBm;-54 dBm;-55 dBm;-65 dBm
+-70 dBm;-69 dBm;-63 dBm;-65 dBm
+-55 dBm;-55 dBm;-55 dBm;-61 dBm
+-54 dBm;-61 dBm;-63 dBm;-54 dBm
+-54 dBm;-53 dBm;-55 dBm;-63 dBm
+-55 dBm;-54 dBm;-62 dBm;-55 dBm
+-64 dBm;-70 dBm;-55 dBm;-65 dBm
+-54 dBm;-53 dBm;-55 dBm;-54 dBm
+-70 dBm;-70 dBm;-64 dBm;-62 dBm
+-54 dBm;-54 dBm;-55 dBm;-55 dBm
+-64 dBm;-59 dBm;-62 dBm;-65 dBm
+-55 dBm;-55 dBm;-55 dBm;-55 dBm
+-69 dBm;-71 dBm;-64 dBm;-63 dBm
+-54 dBm;-55 dBm;-54 dBm;-54 dBm
+-63 dBm;-63 dBm;-63 dBm;-65 dBm
+-55 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-70 dBm;-63 dBm;-62 dBm
+-54 dBm;-54 dBm;-55 dBm;-55 dBm
+-54 dBm;-62 dBm;-61 dBm;-65 dBm
+-54 dBm;-54 dBm;-54 dBm;-56 dBm
+-70 dBm;-54 dBm;-64 dBm;-62 dBm
+-54 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-54 dBm;-62 dBm;-65 dBm
+-54 dBm;-70 dBm;-55 dBm;-54 dBm
+-64 dBm;-55 dBm;-55 dBm;-63 dBm
+-64 dBm;-62 dBm;-64 dBm;-54 dBm
+-54 dBm;-54 dBm;-55 dBm;-55 dBm
+-54 dBm;-71 dBm;-54 dBm;-65 dBm
+-54 dBm;-55 dBm;-62 dBm;-55 dBm
+-55 dBm;-62 dBm;-55 dBm;-63 dBm
+-68 dBm;-55 dBm;-63 dBm;-54 dBm
+-54 dBm;-70 dBm;-55 dBm;-65 dBm
+-64 dBm;-54 dBm;-62 dBm;-56 dBm
+-56 dBm;-62 dBm;-53 dBm;-62 dBm
+-54 dBm;-54 dBm;-55 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-65 dBm
+-69 dBm;-56 dBm;-63 dBm;-55 dBm
+-55 dBm;-54 dBm;-54 dBm;-61 dBm
+-63 dBm;-55 dBm;-62 dBm;-54 dBm
+-54 dBm;-55 dBm;-54 dBm;-66 dBm
+-69 dBm;-70 dBm;-63 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-61 dBm
+-54 dBm;-62 dBm;-62 dBm;-55 dBm
+-54 dBm;-55 dBm;-54 dBm;-65 dBm
+-54 dBm;-70 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-55 dBm;-62 dBm
+-54 dBm;-62 dBm;-63 dBm;-55 dBm
+-63 dBm;-55 dBm;-54 dBm;-65 dBm
+-53 dBm;-71 dBm;-63 dBm;-55 dBm
+-70 dBm;-54 dBm;-55 dBm;-62 dBm
+-54 dBm;-61 dBm;-62 dBm;-61 dBm
+-69 dBm;-55 dBm;-55 dBm;-54 dBm
+-55 dBm;-54 dBm;-63 dBm;-54 dBm
+-64 dBm;-70 dBm;-55 dBm;-54 dBm
+-54 dBm;-55 dBm;-63 dBm;-52 dBm
+-70 dBm;-59 dBm;-55 dBm;-53 dBm
+-54 dBm;-54 dBm;-63 dBm;-50 dBm
+-54 dBm;-71 dBm;-55 dBm;-52 dBm
+-63 dBm;-54 dBm;-63 dBm;-65 dBm
+-54 dBm;-62 dBm;-54 dBm;-54 dBm
+-70 dBm;-55 dBm;-63 dBm;-52 dBm
+-54 dBm;-71 dBm;-55 dBm;-50 dBm
+-54 dBm;-54 dBm;-55 dBm;-53 dBm
+-63 dBm;-62 dBm;-63 dBm;-54 dBm
+-56 dBm;-54 dBm;-54 dBm;-61 dBm
+-70 dBm;-71 dBm;-63 dBm;-54 dBm
+-55 dBm;-55 dBm;-55 dBm;-66 dBm
+-54 dBm;-62 dBm;-63 dBm;-66 dBm
+-55 dBm;-55 dBm;-54 dBm;-55 dBm
+-63 dBm;-55 dBm;-63 dBm;-63 dBm
+-53 dBm;-70 dBm;-50 dBm;-65 dBm
+-70 dBm;-55 dBm;-49 dBm;-54 dBm
+-59 dBm;-61 dBm;-54 dBm;-62 dBm
+-51 dBm;-55 dBm;-52 dBm;-54 dBm
+-53 dBm;-70 dBm;-53 dBm;-66 dBm
+-49 dBm;-54 dBm;-55 dBm;-76 dBm
+-53 dBm;-62 dBm;-52 dBm;-62 dBm
+-63 dBm;-54 dBm;-63 dBm;-55 dBm
+-63 dBm;-70 dBm;-54 dBm;-66 dBm
+-53 dBm;-54 dBm;-63 dBm;-55 dBm
+-63 dBm;-62 dBm;-55 dBm;-62 dBm
+-54 dBm;-55 dBm;-63 dBm;-52 dBm
+-70 dBm;-54 dBm;-54 dBm;-52 dBm
+-53 dBm;-71 dBm;-63 dBm;-66 dBm
+-63 dBm;-54 dBm;-53 dBm;-55 dBm
+-55 dBm;-62 dBm;-64 dBm;-62 dBm
+-54 dBm;-54 dBm;-54 dBm;-55 dBm
+-70 dBm;-62 dBm;-64 dBm;-53 dBm
+-54 dBm;-55 dBm;-55 dBm;-66 dBm
+-63 dBm;-55 dBm;-64 dBm;-66 dBm
+-55 dBm;-54 dBm;-54 dBm;-54 dBm
+-69 dBm;-55 dBm;-52 dBm;-55 dBm
+-54 dBm;-54 dBm;-63 dBm;-62 dBm
+-55 dBm;-71 dBm;-54 dBm;-54 dBm
+-64 dBm;-55 dBm;-64 dBm;-51 dBm
+-53 dBm;-62 dBm;-54 dBm;-54 dBm
+-69 dBm;-73 dBm;-64 dBm;-52 dBm
+-54 dBm;-54 dBm;-54 dBm;-52 dBm
+-54 dBm;-62 dBm;-63 dBm;-65 dBm
+-63 dBm;-54 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-64 dBm;-62 dBm
+-54 dBm;-72 dBm;-54 dBm;-54 dBm
+-54 dBm;-56 dBm;-64 dBm;-66 dBm
+-69 dBm;-62 dBm;-54 dBm;-53 dBm
+-64 dBm;-62 dBm;-63 dBm;-62 dBm
+-54 dBm;-55 dBm;-55 dBm;-54 dBm
+-69 dBm;-62 dBm;-64 dBm;-66 dBm
+-54 dBm;-62 dBm;-55 dBm;-55 dBm
+-54 dBm;-55 dBm;-64 dBm;-63 dBm
+-54 dBm;-70 dBm;-55 dBm;-54 dBm
+-63 dBm;-55 dBm;-64 dBm;-66 dBm
+-54 dBm;-62 dBm;-54 dBm;-54 dBm
+-54 dBm;-54 dBm;-63 dBm;-62 dBm
+-54 dBm;-70 dBm;-54 dBm;-55 dBm
+-54 dBm;-55 dBm;-63 dBm;-65 dBm
+-69 dBm;-62 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-63 dBm;-62 dBm
+-63 dBm;-70 dBm;-54 dBm;-55 dBm
+-51 dBm;-48 dBm;-63 dBm;-66 dBm
+-55 dBm;-61 dBm;-54 dBm;-54 dBm
+-63 dBm;-70 dBm;-63 dBm;-63 dBm
+-69 dBm;-55 dBm;-55 dBm;-54 dBm
+-54 dBm;-61 dBm;-55 dBm;-66 dBm
+-63 dBm;-56 dBm;-55 dBm;-54 dBm
+-55 dBm;-71 dBm;-55 dBm;-63 dBm
+-54 dBm;-54 dBm;-55 dBm;-55 dBm
+-55 dBm;-61 dBm;-63 dBm;-66 dBm
+-69 dBm;-55 dBm;-54 dBm;-55 dBm
+-54 dBm;-54 dBm;-63 dBm;-62 dBm
+-63 dBm;-55 dBm;-56 dBm;-55 dBm
+-55 dBm;-55 dBm;-64 dBm;-66 dBm
+-68 dBm;-55 dBm;-54 dBm;-66 dBm
+-55 dBm;-55 dBm;-63 dBm;-55 dBm
+-64 dBm;-70 dBm;-55 dBm;-63 dBm
+-54 dBm;-55 dBm;-64 dBm;-54 dBm
+-54 dBm;-62 dBm;-55 dBm;-66 dBm
+-54 dBm;-55 dBm;-63 dBm;-55 dBm
+-69 dBm;-71 dBm;-55 dBm;-62 dBm
+-55 dBm;-54 dBm;-64 dBm;-54 dBm
+-63 dBm;-62 dBm;-55 dBm;-66 dBm
+-55 dBm;-55 dBm;-63 dBm;-55 dBm
+-68 dBm;-70 dBm;-54 dBm;-62 dBm
+-55 dBm;-55 dBm;-63 dBm;-55 dBm
+-63 dBm;-62 dBm;-54 dBm;-66 dBm
+-54 dBm;-55 dBm;-55 dBm;-66 dBm
+-69 dBm;-55 dBm;-64 dBm;-60 dBm
+-55 dBm;-70 dBm;-55 dBm;-54 dBm
+-63 dBm;-56 dBm;-63 dBm;-62 dBm
+-54 dBm;-62 dBm;-64 dBm;-56 dBm
+-68 dBm;-70 dBm;-54 dBm;-54 dBm
+-54 dBm;-54 dBm;-64 dBm;-62 dBm
+-63 dBm;-61 dBm;-56 dBm;-55 dBm
+-53 dBm;-62 dBm;-64 dBm;-66 dBm
+-69 dBm;-62 dBm;-63 dBm;-54 dBm
+-55 dBm;-63 dBm;-54 dBm;-62 dBm
+-63 dBm;-54 dBm;-64 dBm;-66 dBm
+-55 dBm;-71 dBm;-65 dBm;-66 dBm
+-69 dBm;-55 dBm;-55 dBm;-55 dBm
+-54 dBm;-63 dBm;-63 dBm;-62 dBm
+-55 dBm;-55 dBm;-64 dBm;-52 dBm
+-54 dBm;-71 dBm;-55 dBm;-53 dBm
+-55 dBm;-55 dBm;-60 dBm;-51 dBm
+-54 dBm;-61 dBm;-55 dBm;-52 dBm
+-63 dBm;-70 dBm;-64 dBm;-54 dBm
+-54 dBm;-55 dBm;-55 dBm;-55 dBm
+-55 dBm;-62 dBm;-55 dBm;-55 dBm
+-54 dBm;-55 dBm;-64 dBm;-61 dBm
+-54 dBm;-70 dBm;-54 dBm;-56 dBm
+-54 dBm;-54 dBm;-63 dBm;-62 dBm
+-54 dBm;-61 dBm;-54 dBm;-54 dBm
+-69 dBm;-62 dBm;-63 dBm;-55 dBm
+-53 dBm;-62 dBm;-54 dBm;-63 dBm
+-67 dBm;-54 dBm;-64 dBm;-56 dBm
+-55 dBm;-55 dBm;-55 dBm;-62 dBm
+-70 dBm;-55 dBm;-66 dBm;-54 dBm
+-56 dBm;-70 dBm;-55 dBm;-63 dBm
+-55 dBm;-54 dBm;-64 dBm;-53 dBm
+-55 dBm;-61 dBm;-55 dBm;-53 dBm
+-67 dBm;-54 dBm;-55 dBm;-61 dBm
+-54 dBm;-70 dBm;-62 dBm;-54 dBm
+-70 dBm;-55 dBm;-55 dBm;-63 dBm
+-55 dBm;-62 dBm;-54 dBm;-55 dBm
+-62 dBm;-54 dBm;-48 dBm;-60 dBm
+-55 dBm;-62 dBm;-50 dBm;-55 dBm
+-70 dBm;-55 dBm;-53 dBm;-63 dBm
+-55 dBm;-70 dBm;-53 dBm;-55 dBm
+-64 dBm;-55 dBm;-51 dBm;-62 dBm
+-54 dBm;-61 dBm;-63 dBm;-55 dBm
+-70 dBm;-55 dBm;-55 dBm;-55 dBm
+-54 dBm;-71 dBm;-64 dBm;-54 dBm
+-63 dBm;-54 dBm;-55 dBm;-63 dBm
+-55 dBm;-62 dBm;-55 dBm;-54 dBm
+-69 dBm;-54 dBm;-54 dBm;-63 dBm
+-55 dBm;-70 dBm;-63 dBm;-55 dBm
+-63 dBm;-55 dBm;-54 dBm;-62 dBm
+-55 dBm;-62 dBm;-63 dBm;-54 dBm
+-63 dBm;-55 dBm;-55 dBm;-63 dBm
+-69 dBm;-70 dBm;-64 dBm;-54 dBm
+-54 dBm;-54 dBm;-55 dBm;-61 dBm
+-63 dBm;-61 dBm;-65 dBm;-55 dBm
+-53 dBm;-61 dBm;-55 dBm;-63 dBm
+-70 dBm;-54 dBm;-63 dBm;-55 dBm
+-54 dBm;-69 dBm;-56 dBm;-63 dBm
+-63 dBm;-55 dBm;-64 dBm;-55 dBm
+-55 dBm;-61 dBm;-64 dBm;-63 dBm
+-69 dBm;-55 dBm;-61 dBm;-56 dBm
+-56 dBm;-53 dBm;-55 dBm;-62 dBm
+-63 dBm;-51 dBm;-63 dBm;-55 dBm
+-54 dBm;-60 dBm;-55 dBm;-63 dBm
+-69 dBm;-54 dBm;-64 dBm;-55 dBm
+-55 dBm;-70 dBm;-54 dBm;-62 dBm
+-64 dBm;-55 dBm;-55 dBm;-55 dBm
+-55 dBm;-61 dBm;-63 dBm;-63 dBm
+-69 dBm;-55 dBm;-54 dBm;-55 dBm
+-55 dBm;-70 dBm;-55 dBm;-62 dBm
+-63 dBm;-55 dBm;-55 dBm;-55 dBm
+-55 dBm;-62 dBm;-55 dBm;-55 dBm
+-69 dBm;-70 dBm;-55 dBm;-64 dBm
+-55 dBm;-55 dBm;-64 dBm;-54 dBm
+-54 dBm;-61 dBm;-65 dBm;-62 dBm
+-55 dBm;-54 dBm;-63 dBm;-52 dBm
+-63 dBm;-70 dBm;-55 dBm;-63 dBm
+-55 dBm;-54 dBm;-64 dBm;-63 dBm
+-54 dBm;-62 dBm;-55 dBm;-54 dBm
+-55 dBm;-62 dBm;-54 dBm;-61 dBm
+-69 dBm;-62 dBm;-54 dBm;-55 dBm
+-54 dBm;-55 dBm;-63 dBm;-64 dBm
+-64 dBm;-71 dBm;-55 dBm;-54 dBm
+-54 dBm;-54 dBm;-65 dBm;-62 dBm
+-68 dBm;-62 dBm;-55 dBm;-55 dBm
+-56 dBm;-54 dBm;-54 dBm;-63 dBm
+-63 dBm;-54 dBm;-56 dBm;-54 dBm
+-54 dBm;-54 dBm;-63 dBm;-62 dBm
+-54 dBm;-54 dBm;-54 dBm;-55 dBm
+-53 dBm;-53 dBm;-64 dBm;-54 dBm
+-54 dBm;-60 dBm;-55 dBm;-63 dBm
+-69 dBm;-53 dBm;-63 dBm;-60 dBm
+-54 dBm;-71 dBm;-55 dBm;-54 dBm
+-55 dBm;-54 dBm;-64 dBm;-62 dBm
+-62 dBm;-62 dBm;-54 dBm;-54 dBm
+-54 dBm;-54 dBm;-64 dBm;-63 dBm
+-54 dBm;-54 dBm;-55 dBm;-55 dBm
+-54 dBm;-54 dBm;-64 dBm;-62 dBm
+-54 dBm;-55 dBm;-55 dBm;-54 dBm
+-54 dBm;-56 dBm;-62 dBm;-64 dBm
+-54 dBm;-54 dBm;-54 dBm;-55 dBm
+-54 dBm;-54 dBm;-64 dBm;-62 dBm
+-69 dBm;-55 dBm;-54 dBm;-54 dBm
+-55 dBm;-69 dBm;-63 dBm;-64 dBm
+-54 dBm;-55 dBm;-55 dBm;-54 dBm
+-54 dBm;-62 dBm;-64 dBm;-62 dBm
+-56 dBm;-53 dBm;-55 dBm;-52 dBm
+-63 dBm;-54 dBm;-64 dBm;-64 dBm
+-56 dBm;-71 dBm;-55 dBm;-54 dBm
+-69 dBm;-55 dBm;-55 dBm;-62 dBm
+-55 dBm;-62 dBm;-63 dBm;-52 dBm
+-63 dBm;-54 dBm;-55 dBm;-63 dBm
+-55 dBm;-72 dBm;-65 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-62 dBm
+-69 dBm;-62 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-63 dBm;-63 dBm
+-63 dBm;-71 dBm;-54 dBm;-55 dBm
+-54 dBm;-55 dBm;-65 dBm;-62 dBm
+-55 dBm;-62 dBm;-54 dBm;-55 dBm
+-55 dBm;-62 dBm;-63 dBm;-64 dBm
+-54 dBm;-71 dBm;-56 dBm;-54 dBm
+-55 dBm;-55 dBm;-65 dBm;-62 dBm
+-71 dBm;-62 dBm;-65 dBm;-55 dBm
+-54 dBm;-55 dBm;-55 dBm;-63 dBm
+-63 dBm;-71 dBm;-63 dBm;-55 dBm
+-54 dBm;-55 dBm;-55 dBm;-62 dBm
+-70 dBm;-62 dBm;-65 dBm;-54 dBm
+-55 dBm;-55 dBm;-55 dBm;-65 dBm
+-54 dBm;-71 dBm;-63 dBm;-54 dBm
+-63 dBm;-54 dBm;-54 dBm;-62 dBm
+-54 dBm;-62 dBm;-65 dBm;-54 dBm
+-70 dBm;-55 dBm;-54 dBm;-53 dBm
+-54 dBm;-71 dBm;-64 dBm;-64 dBm
+-63 dBm;-55 dBm;-54 dBm;-54 dBm
+-54 dBm;-62 dBm;-65 dBm;-62 dBm
+-70 dBm;-54 dBm;-55 dBm;-52 dBm
+-54 dBm;-54 dBm;-63 dBm;-64 dBm
+-55 dBm;-54 dBm;-54 dBm;-55 dBm
+-54 dBm;-55 dBm;-66 dBm;-62 dBm
+-54 dBm;-55 dBm;-55 dBm;-52 dBm
+-63 dBm;-71 dBm;-63 dBm;-64 dBm
+-54 dBm;-55 dBm;-55 dBm;-54 dBm
+-69 dBm;-62 dBm;-65 dBm;-61 dBm
+-54 dBm;-54 dBm;-54 dBm;-54 dBm
+-53 dBm;-71 dBm;-63 dBm;-64 dBm
+-52 dBm;-55 dBm;-54 dBm;-54 dBm
+-52 dBm;-62 dBm;-65 dBm;-62 dBm
+-52 dBm;-54 dBm;-54 dBm;-56 dBm
+-50 dBm;-70 dBm;-63 dBm;-64 dBm
+-64 dBm;-55 dBm;-55 dBm;-54 dBm
+-54 dBm;-62 dBm;-54 dBm;-61 dBm
+-54 dBm;-55 dBm;-65 dBm;-63 dBm
+-54 dBm;-71 dBm;-55 dBm;-55 dBm
+-54 dBm;-54 dBm;-63 dBm;-64 dBm
+-52 dBm;-61 dBm;-54 dBm;-54 dBm
+-55 dBm;-54 dBm;-65 dBm;-55 dBm
+-70 dBm;-54 dBm;-54 dBm;-54 dBm
+-54 dBm;-62 dBm;-63 dBm;-62 dBm
+-63 dBm;-55 dBm;-55 dBm;-54 dBm
+-55 dBm;-54 dBm;-65 dBm;-55 dBm
+-70 dBm;-70 dBm;-54 dBm;-52 dBm
+-54 dBm;-55 dBm;-55 dBm;-52 dBm
+-56 dBm;-62 dBm;-63 dBm;-61 dBm
+-54 dBm;-55 dBm;-54 dBm;-54 dBm
+-54 dBm;-54 dBm;-61 dBm;-54 dBm
+-63 dBm;-70 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-63 dBm;-55 dBm
+-53 dBm;-62 dBm;-52 dBm;-62 dBm
+-55 dBm;-54 dBm;-65 dBm;-62 dBm
+-55 dBm;-70 dBm;-55 dBm;-61 dBm
+-54 dBm;-55 dBm;-63 dBm;-54 dBm
+-70 dBm;-60 dBm;-55 dBm;-64 dBm
+-54 dBm;-55 dBm;-65 dBm;-54 dBm
+-64 dBm;-70 dBm;-54 dBm;-62 dBm
+-54 dBm;-55 dBm;-61 dBm;-64 dBm
+-69 dBm;-62 dBm;-55 dBm;-54 dBm
+-54 dBm;-54 dBm;-65 dBm;-62 dBm
+-64 dBm;-70 dBm;-54 dBm;-64 dBm
+-54 dBm;-55 dBm;-63 dBm;-55 dBm
+-70 dBm;-61 dBm;-54 dBm;-61 dBm
+-55 dBm;-55 dBm;-55 dBm;-54 dBm
+-63 dBm;-54 dBm;-66 dBm;-55 dBm
+-54 dBm;-55 dBm;-54 dBm;-64 dBm
+-54 dBm;-54 dBm;-63 dBm;-55 dBm
+-54 dBm;-54 dBm;-55 dBm;-62 dBm
+-55 dBm;-55 dBm;-65 dBm;-62 dBm
+-55 dBm;-71 dBm;-54 dBm;-54 dBm
+-70 dBm;-55 dBm;-62 dBm;-64 dBm
+-54 dBm;-62 dBm;-55 dBm;-65 dBm
+-63 dBm;-55 dBm;-65 dBm;-54 dBm
+-54 dBm;-55 dBm;-65 dBm;-62 dBm
+-69 dBm;-70 dBm;-55 dBm;-62 dBm
+-54 dBm;-54 dBm;-63 dBm;-62 dBm
+-64 dBm;-61 dBm;-55 dBm;-54 dBm
+-55 dBm;-54 dBm;-65 dBm;-64 dBm
+-71 dBm;-55 dBm;-55 dBm;-52 dBm
+-70 dBm;-55 dBm;-63 dBm;-54 dBm
+-54 dBm;-55 dBm;-55 dBm;-59 dBm
+-63 dBm;-55 dBm;-65 dBm;-61 dBm
+-55 dBm;-56 dBm;-55 dBm;-55 dBm
+-70 dBm;-56 dBm;-64 dBm;-64 dBm
+-54 dBm;-73 dBm;-54 dBm;-64 dBm
+-63 dBm;-55 dBm;-65 dBm;-55 dBm
+-54 dBm;-61 dBm;-55 dBm;-62 dBm
+-70 dBm;-54 dBm;-63 dBm;-55 dBm
+-54 dBm;-55 dBm;-53 dBm;-61 dBm
+-64 dBm;-69 dBm;-66 dBm;-55 dBm
+-54 dBm;-55 dBm;-55 dBm;-56 dBm
+-70 dBm;-62 dBm;-63 dBm;-61 dBm
+-55 dBm;-55 dBm;-55 dBm;-62 dBm
+-63 dBm;-71 dBm;-65 dBm;-61 dBm
+-54 dBm;-54 dBm;-55 dBm;-52 dBm
+-71 dBm;-61 dBm;-63 dBm;-62 dBm
+-55 dBm;-55 dBm;-54 dBm;-54 dBm
+-62 dBm;-55 dBm;-65 dBm;-61 dBm
+-55 dBm;-71 dBm;-55 dBm;-54 dBm
+-69 dBm;-55 dBm;-63 dBm;-62 dBm
+-69 dBm;-62 dBm;-54 dBm;-55 dBm
+-69 dBm;-54 dBm;-65 dBm;-52 dBm
+-70 dBm;-54 dBm;-65 dBm;-52 dBm
+-70 dBm;-55 dBm;-55 dBm;-60 dBm
+-55 dBm;-54 dBm;-62 dBm;-54 dBm
+-63 dBm;-53 dBm;-56 dBm;-61 dBm
+-54 dBm;-50 dBm;-65 dBm;-61 dBm
+-73 dBm;-68 dBm;-54 dBm;-55 dBm
+-54 dBm;-54 dBm;-63 dBm;-62 dBm
+-60 dBm;-61 dBm;-55 dBm;-55 dBm
+-54 dBm;-55 dBm;-65 dBm;-62 dBm
+-54 dBm;-62 dBm;-54 dBm;-54 dBm
+-55 dBm;-70 dBm;-63 dBm;-62 dBm
+-72 dBm;-54 dBm;-54 dBm;-54 dBm
+-55 dBm;-50 dBm;-55 dBm;-62 dBm
+-63 dBm;-52 dBm;-54 dBm;-54 dBm
+-54 dBm;-52 dBm;-56 dBm;-61 dBm
+-71 dBm;-55 dBm;-54 dBm;-54 dBm
+-54 dBm;-54 dBm;-65 dBm;-54 dBm
+-62 dBm;-53 dBm;-53 dBm;-55 dBm
+-54 dBm;-62 dBm;-54 dBm;-61 dBm
+-70 dBm;-62 dBm;-54 dBm;-61 dBm
+-56 dBm;-62 dBm;-64 dBm;-55 dBm
+-65 dBm;-54 dBm;-54 dBm;-50 dBm
+-54 dBm;-69 dBm;-65 dBm;-53 dBm
+-70 dBm;-55 dBm;-55 dBm;-53 dBm
+-54 dBm;-62 dBm;-63 dBm;-54 dBm
+-64 dBm;-62 dBm;-54 dBm;-54 dBm
+-54 dBm;-51 dBm;-65 dBm;-51 dBm
+-71 dBm;-54 dBm;-55 dBm;-52 dBm
+-55 dBm;-52 dBm;-54 dBm;-52 dBm
+-63 dBm;-62 dBm;-63 dBm;-62 dBm
+-55 dBm;-55 dBm;-55 dBm;-55 dBm
+-69 dBm;-52 dBm;-55 dBm;-63 dBm
+-55 dBm;-55 dBm;-65 dBm;-54 dBm
+-64 dBm;-53 dBm;-55 dBm;-62 dBm
+-54 dBm;-54 dBm;-65 dBm;-63 dBm
+-70 dBm;-55 dBm;-55 dBm;-61 dBm
+-55 dBm;-55 dBm;-65 dBm;-53 dBm
+-63 dBm;-54 dBm;-55 dBm;-60 dBm
+-55 dBm;-62 dBm;-63 dBm;-53 dBm
+-70 dBm;-55 dBm;-55 dBm;-54 dBm
+-55 dBm;-68 dBm;-66 dBm;-51 dBm
+-63 dBm;-68 dBm;-55 dBm;-52 dBm
+-55 dBm;-54 dBm;-62 dBm;-54 dBm
+-55 dBm;-62 dBm;-55 dBm;-53 dBm
+-55 dBm;-54 dBm;-66 dBm;-54 dBm
+-70 dBm;-69 dBm;-55 dBm;-52 dBm
+-55 dBm;-54 dBm;-54 dBm;-53 dBm
+-63 dBm;-61 dBm;-62 dBm;-52 dBm
+-54 dBm;-54 dBm;-54 dBm;-51 dBm
+-70 dBm;-70 dBm;-65 dBm;-51 dBm
+-55 dBm;-54 dBm;-54 dBm;-51 dBm
+-55 dBm;-62 dBm;-61 dBm;-52 dBm
+-55 dBm;-54 dBm;-55 dBm;-59 dBm
+-63 dBm;-69 dBm;-65 dBm;-51 dBm
+-55 dBm;-52 dBm;-55 dBm;-53 dBm
+-70 dBm;-61 dBm;-61 dBm;-62 dBm
+-55 dBm;-70 dBm;-53 dBm;-52 dBm
+-63 dBm;-55 dBm;-65 dBm;-51 dBm
+-55 dBm;-61 dBm;-61 dBm;-54 dBm
+-70 dBm;-55 dBm;-61 dBm;-51 dBm
+-55 dBm;-70 dBm;-54 dBm;-51 dBm
+-63 dBm;-55 dBm;-61 dBm;-52 dBm
+-54 dBm;-62 dBm;-66 dBm;-53 dBm
+-70 dBm;-55 dBm;-65 dBm;-52 dBm
+-54 dBm;-71 dBm;-54 dBm;-55 dBm
+-63 dBm;-55 dBm;-62 dBm;-62 dBm
+-54 dBm;-61 dBm;-63 dBm;-61 dBm
+-54 dBm;-55 dBm;-55 dBm;-55 dBm
+-63 dBm;-72 dBm;-66 dBm;-55 dBm
+-55 dBm;-55 dBm;-54 dBm;-51 dBm
+-70 dBm;-61 dBm;-63 dBm;-52 dBm
+-55 dBm;-55 dBm;-55 dBm;-52 dBm
+-64 dBm;-72 dBm;-65 dBm;-53 dBm
+-55 dBm;-55 dBm;-54 dBm;-54 dBm
+-71 dBm;-62 dBm;-63 dBm;-52 dBm
+-54 dBm;-54 dBm;-54 dBm;-52 dBm
+-63 dBm;-71 dBm;-66 dBm;-53 dBm
+-55 dBm;-56 dBm;-55 dBm;-53 dBm
+-71 dBm;-62 dBm;-54 dBm;-62 dBm
+-54 dBm;-54 dBm;-61 dBm;-55 dBm
+-63 dBm;-70 dBm;-62 dBm;-55 dBm
+-55 dBm;-55 dBm;-55 dBm;-62 dBm
+-70 dBm;-62 dBm;-65 dBm;-61 dBm
+-55 dBm;-55 dBm;-52 dBm;-62 dBm
+-63 dBm;-69 dBm;-52 dBm;-51 dBm
+-55 dBm;-55 dBm;-52 dBm;-51 dBm
+-55 dBm;-55 dBm;-54 dBm;-54 dBm
+-55 dBm;-55 dBm;-53 dBm;-62 dBm
+-55 dBm;-55 dBm;-53 dBm;-54 dBm
+-70 dBm;-55 dBm;-52 dBm;-62 dBm
+-55 dBm;-62 dBm;-55 dBm;-62 dBm
+-63 dBm;-61 dBm;-62 dBm;-61 dBm
+-55 dBm;-55 dBm;-52 dBm;-61 dBm
+-69 dBm;-67 dBm;-51 dBm;-54 dBm
+-55 dBm;-55 dBm;-52 dBm;-54 dBm
+-63 dBm;-61 dBm;-66 dBm;-54 dBm
+-55 dBm;-55 dBm;-54 dBm;-53 dBm
+-70 dBm;-55 dBm;-62 dBm;-62 dBm
+-55 dBm;-61 dBm;-55 dBm;-62 dBm
+-63 dBm;-62 dBm;-66 dBm;-55 dBm
+-55 dBm;-55 dBm;-55 dBm;-60 dBm
+-70 dBm;-50 dBm;-62 dBm;-63 dBm
+-55 dBm;-54 dBm;-55 dBm;-55 dBm
+-63 dBm;-55 dBm;-66 dBm;-62 dBm
+-55 dBm;-56 dBm;-55 dBm;-54 dBm
+-69 dBm;-62 dBm;-61 dBm;-54 dBm
+-55 dBm;-51 dBm;-52 dBm;-53 dBm
+-63 dBm;-60 dBm;-65 dBm;-54 dBm
+-55 dBm;-55 dBm;-54 dBm;-55 dBm
+-55 dBm;-62 dBm;-63 dBm;-54 dBm
+-70 dBm;-55 dBm;-53 dBm;-62 dBm
+-55 dBm;-72 dBm;-66 dBm;-55 dBm
+-63 dBm;-71 dBm;-54 dBm;-61 dBm
+-55 dBm;-50 dBm;-62 dBm;-54 dBm
+-55 dBm;-53 dBm;-54 dBm;-52 dBm
+-56 dBm;-53 dBm;-65 dBm;-52 dBm
+-55 dBm;-53 dBm;-54 dBm;-52 dBm
+-71 dBm;-53 dBm;-62 dBm;-54 dBm
+-55 dBm;-53 dBm;-55 dBm;-53 dBm
+-63 dBm;-60 dBm;-65 dBm;-49 dBm
+-55 dBm;-55 dBm;-55 dBm;-51 dBm
+-70 dBm;-71 dBm;-61 dBm;-53 dBm
+-55 dBm;-54 dBm;-55 dBm;-60 dBm
+-63 dBm;-63 dBm;-66 dBm;-55 dBm
+-55 dBm;-55 dBm;-55 dBm;-55 dBm
+-54 dBm;-71 dBm;-63 dBm;-62 dBm
+-70 dBm;-54 dBm;-55 dBm;-55 dBm
+-54 dBm;-62 dBm;-66 dBm;-62 dBm
+-63 dBm;-55 dBm;-55 dBm;-62 dBm
+-55 dBm;-71 dBm;-63 dBm;-54 dBm
+-69 dBm;-55 dBm;-55 dBm;-62 dBm
+-55 dBm;-61 dBm;-66 dBm;-54 dBm
+-63 dBm;-55 dBm;-66 dBm;-62 dBm
+-55 dBm;-71 dBm;-52 dBm;-61 dBm
+-55 dBm;-54 dBm;-63 dBm;-54 dBm
+-55 dBm;-62 dBm;-54 dBm;-62 dBm
+-69 dBm;-55 dBm;-66 dBm;-55 dBm
+-54 dBm;-55 dBm;-55 dBm;-62 dBm
+-64 dBm;-70 dBm;-62 dBm;-55 dBm
+-56 dBm;-54 dBm;-54 dBm;-62 dBm
+-55 dBm;-62 dBm;-67 dBm;-54 dBm
+-70 dBm;-55 dBm;-56 dBm;-61 dBm
+-55 dBm;-71 dBm;-63 dBm;-55 dBm
+-63 dBm;-55 dBm;-55 dBm;-62 dBm
+-55 dBm;-62 dBm;-54 dBm;-55 dBm
+-70 dBm;-54 dBm;-66 dBm;-53 dBm
+-55 dBm;-70 dBm;-54 dBm;-54 dBm
+-63 dBm;-54 dBm;-63 dBm;-61 dBm
+-53 dBm;-61 dBm;-55 dBm;-54 dBm
+-54 dBm;-54 dBm;-66 dBm;-54 dBm
+-54 dBm;-69 dBm;-52 dBm;-51 dBm
+-54 dBm;-52 dBm;-54 dBm;-53 dBm
+-53 dBm;-54 dBm;-54 dBm;-52 dBm
+-54 dBm;-61 dBm;-53 dBm;-52 dBm
+-54 dBm;-62 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-52 dBm;-54 dBm
+-54 dBm;-62 dBm;-64 dBm;-53 dBm
+-71 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-71 dBm;-55 dBm;-59 dBm
+-63 dBm;-54 dBm;-66 dBm;-55 dBm
+-54 dBm;-61 dBm;-66 dBm;-62 dBm
+-54 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-54 dBm;-62 dBm;-61 dBm
+-54 dBm;-55 dBm;-54 dBm;-52 dBm
+-54 dBm;-55 dBm;-55 dBm;-53 dBm
+-54 dBm;-54 dBm;-66 dBm;-56 dBm
+-55 dBm;-55 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-63 dBm;-62 dBm
+-54 dBm;-70 dBm;-63 dBm;-49 dBm
+-69 dBm;-54 dBm;-49 dBm;-54 dBm
+-55 dBm;-63 dBm;-55 dBm;-53 dBm
+-54 dBm;-62 dBm;-53 dBm;-54 dBm
+-63 dBm;-53 dBm;-53 dBm;-52 dBm
+-54 dBm;-54 dBm;-53 dBm;-53 dBm
+-71 dBm;-54 dBm;-67 dBm;-59 dBm
+-53 dBm;-54 dBm;-66 dBm;-52 dBm
+-63 dBm;-53 dBm;-53 dBm;-61 dBm
+-55 dBm;-54 dBm;-51 dBm;-55 dBm
+-71 dBm;-70 dBm;-55 dBm;-59 dBm
+-54 dBm;-54 dBm;-56 dBm;-54 dBm
+-63 dBm;-62 dBm;-52 dBm;-62 dBm
+-55 dBm;-70 dBm;-53 dBm;-55 dBm
+-70 dBm;-54 dBm;-63 dBm;-61 dBm
+-55 dBm;-62 dBm;-55 dBm;-55 dBm
+-63 dBm;-54 dBm;-63 dBm;-61 dBm
+-54 dBm;-70 dBm;-55 dBm;-50 dBm
+-55 dBm;-54 dBm;-55 dBm;-53 dBm
+-55 dBm;-61 dBm;-63 dBm;-56 dBm
+-70 dBm;-55 dBm;-51 dBm;-62 dBm
+-55 dBm;-69 dBm;-52 dBm;-54 dBm
+-63 dBm;-53 dBm;-63 dBm;-52 dBm
+-55 dBm;-61 dBm;-55 dBm;-61 dBm
+-70 dBm;-55 dBm;-63 dBm;-51 dBm
+-54 dBm;-54 dBm;-49 dBm;-52 dBm
+-63 dBm;-61 dBm;-53 dBm;-54 dBm
+-55 dBm;-70 dBm;-54 dBm;-54 dBm
+-69 dBm;-54 dBm;-63 dBm;-55 dBm
+-55 dBm;-62 dBm;-49 dBm;-52 dBm
+-63 dBm;-63 dBm;-53 dBm;-55 dBm
+-55 dBm;-62 dBm;-51 dBm;-54 dBm
+-71 dBm;-55 dBm;-54 dBm;-53 dBm
+-54 dBm;-55 dBm;-64 dBm;-52 dBm
+-54 dBm;-55 dBm;-54 dBm;-54 dBm
+-63 dBm;-70 dBm;-63 dBm;-54 dBm
+-56 dBm;-55 dBm;-55 dBm;-61 dBm
+-55 dBm;-62 dBm;-63 dBm;-49 dBm
+-63 dBm;-54 dBm;-55 dBm;-52 dBm
+-55 dBm;-70 dBm;-62 dBm;-62 dBm
+-54 dBm;-54 dBm;-55 dBm;-55 dBm
+-70 dBm;-62 dBm;-69 dBm;-62 dBm
+-55 dBm;-54 dBm;-55 dBm;-61 dBm
+-64 dBm;-53 dBm;-64 dBm;-61 dBm
+-54 dBm;-54 dBm;-54 dBm;-61 dBm
+-54 dBm;-70 dBm;-69 dBm;-55 dBm
+-70 dBm;-54 dBm;-55 dBm;-60 dBm
+-54 dBm;-62 dBm;-63 dBm;-54 dBm
+-63 dBm;-55 dBm;-55 dBm;-53 dBm
+-55 dBm;-70 dBm;-62 dBm;-52 dBm
+-70 dBm;-70 dBm;-54 dBm;-53 dBm
+-54 dBm;-55 dBm;-63 dBm;-61 dBm
+-63 dBm;-62 dBm;-55 dBm;-61 dBm
+-53 dBm;-55 dBm;-62 dBm;-53 dBm
+-71 dBm;-70 dBm;-54 dBm;-51 dBm
+-55 dBm;-54 dBm;-63 dBm;-52 dBm
+-63 dBm;-61 dBm;-55 dBm;-54 dBm
+-54 dBm;-61 dBm;-63 dBm;-60 dBm
+-70 dBm;-54 dBm;-55 dBm;-61 dBm
+-69 dBm;-69 dBm;-63 dBm;-61 dBm
+-55 dBm;-54 dBm;-55 dBm;-55 dBm
+-63 dBm;-63 dBm;-62 dBm;-62 dBm
+-55 dBm;-54 dBm;-55 dBm;-56 dBm
+-70 dBm;-69 dBm;-64 dBm;-61 dBm
+-55 dBm;-55 dBm;-53 dBm;-50 dBm
+-64 dBm;-62 dBm;-54 dBm;-52 dBm
+-55 dBm;-54 dBm;-55 dBm;-56 dBm
+-70 dBm;-69 dBm;-65 dBm;-62 dBm
+-55 dBm;-54 dBm;-55 dBm;-55 dBm
+-63 dBm;-62 dBm;-64 dBm;-54 dBm
+-55 dBm;-54 dBm;-55 dBm;-62 dBm
+-70 dBm;-56 dBm;-63 dBm;-55 dBm
+-54 dBm;-55 dBm;-53 dBm;-62 dBm
+-64 dBm;-54 dBm;-64 dBm;-54 dBm
+-54 dBm;-54 dBm;-55 dBm;-63 dBm
+-54 dBm;-55 dBm;-63 dBm;-53 dBm
+-55 dBm;-69 dBm;-55 dBm;-55 dBm
+-70 dBm;-55 dBm;-64 dBm;-53 dBm
+-54 dBm;-57 dBm;-55 dBm;-53 dBm
+-63 dBm;-55 dBm;-63 dBm;-53 dBm
+-55 dBm;-62 dBm;-55 dBm;-51 dBm
+-71 dBm;-62 dBm;-63 dBm;-53 dBm
+-55 dBm;-55 dBm;-54 dBm;-62 dBm
+-54 dBm;-69 dBm;-54 dBm;-62 dBm
+-55 dBm;-54 dBm;-55 dBm;-62 dBm
+-71 dBm;-62 dBm;-55 dBm;-54 dBm
+-54 dBm;-61 dBm;-54 dBm;-61 dBm
+-55 dBm;-62 dBm;-63 dBm;-54 dBm
+-55 dBm;-54 dBm;-53 dBm;-62 dBm
+-62 dBm;-69 dBm;-63 dBm;-63 dBm
+-55 dBm;-56 dBm;-54 dBm;-54 dBm
+-72 dBm;-59 dBm;-54 dBm;-52 dBm
+-54 dBm;-54 dBm;-63 dBm;-55 dBm
+-62 dBm;-62 dBm;-54 dBm;-63 dBm
+-55 dBm;-55 dBm;-64 dBm;-55 dBm
+-71 dBm;-67 dBm;-53 dBm;-62 dBm
+-55 dBm;-55 dBm;-64 dBm;-52 dBm
+-62 dBm;-63 dBm;-54 dBm;-53 dBm
+-55 dBm;-63 dBm;-63 dBm;-56 dBm
+-70 dBm;-63 dBm;-54 dBm;-55 dBm
+-54 dBm;-68 dBm;-54 dBm;-62 dBm
+-61 dBm;-55 dBm;-63 dBm;-54 dBm
+-55 dBm;-62 dBm;-54 dBm;-59 dBm
+-69 dBm;-62 dBm;-64 dBm;-62 dBm
+-55 dBm;-62 dBm;-54 dBm;-50 dBm
+-61 dBm;-55 dBm;-54 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-62 dBm
+-70 dBm;-61 dBm;-53 dBm;-54 dBm
+-55 dBm;-55 dBm;-54 dBm;-61 dBm
+-61 dBm;-50 dBm;-63 dBm;-56 dBm
+-55 dBm;-54 dBm;-55 dBm;-55 dBm
+-69 dBm;-66 dBm;-64 dBm;-63 dBm
+-54 dBm;-55 dBm;-53 dBm;-52 dBm
+-62 dBm;-62 dBm;-63 dBm;-53 dBm
+-55 dBm;-54 dBm;-63 dBm;-54 dBm
+-69 dBm;-64 dBm;-54 dBm;-52 dBm
+-54 dBm;-52 dBm;-63 dBm;-54 dBm
+-63 dBm;-56 dBm;-55 dBm;-54 dBm
+-55 dBm;-52 dBm;-63 dBm;-55 dBm
+-69 dBm;-53 dBm;-54 dBm;-53 dBm
+-62 dBm;-54 dBm;-64 dBm;-54 dBm
+-54 dBm;-52 dBm;-55 dBm;-61 dBm
+-55 dBm;-62 dBm;-64 dBm;-55 dBm
+-55 dBm;-54 dBm;-54 dBm;-62 dBm
+-69 dBm;-55 dBm;-64 dBm;-55 dBm
+-55 dBm;-55 dBm;-54 dBm;-62 dBm
+-73 dBm;-62 dBm;-64 dBm;-62 dBm
+-54 dBm;-53 dBm;-54 dBm;-53 dBm
+-54 dBm;-54 dBm;-64 dBm;-62 dBm
+-61 dBm;-64 dBm;-54 dBm;-55 dBm
+-53 dBm;-55 dBm;-52 dBm;-61 dBm
+-55 dBm;-62 dBm;-55 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-62 dBm
+-69 dBm;-54 dBm;-64 dBm;-52 dBm
+-54 dBm;-68 dBm;-55 dBm;-61 dBm
+-61 dBm;-55 dBm;-64 dBm;-56 dBm
+-60 dBm;-65 dBm;-54 dBm;-62 dBm
+-69 dBm;-54 dBm;-63 dBm;-55 dBm
+-55 dBm;-63 dBm;-54 dBm;-61 dBm
+-62 dBm;-54 dBm;-64 dBm;-55 dBm
+-54 dBm;-68 dBm;-54 dBm;-62 dBm
+-69 dBm;-55 dBm;-54 dBm;-55 dBm
+-55 dBm;-55 dBm;-54 dBm;-61 dBm
+-61 dBm;-63 dBm;-54 dBm;-54 dBm
+-54 dBm;-62 dBm;-55 dBm;-62 dBm
+-71 dBm;-61 dBm;-53 dBm;-55 dBm
+-55 dBm;-54 dBm;-63 dBm;-61 dBm
+-63 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-69 dBm;-64 dBm;-62 dBm
+-69 dBm;-52 dBm;-54 dBm;-55 dBm
+-54 dBm;-51 dBm;-55 dBm;-62 dBm
+-55 dBm;-53 dBm;-55 dBm;-54 dBm
+-63 dBm;-52 dBm;-63 dBm;-62 dBm
+-55 dBm;-52 dBm;-55 dBm;-55 dBm
+-70 dBm;-52 dBm;-55 dBm;-61 dBm
+-54 dBm;-51 dBm;-64 dBm;-55 dBm
+-62 dBm;-61 dBm;-54 dBm;-62 dBm
+-55 dBm;-55 dBm;-63 dBm;-53 dBm
+-69 dBm;-62 dBm;-54 dBm;-63 dBm
+-55 dBm;-61 dBm;-64 dBm;-55 dBm
+-61 dBm;-52 dBm;-54 dBm;-62 dBm
+-55 dBm;-49 dBm;-63 dBm;-56 dBm
+-71 dBm;-51 dBm;-54 dBm;-62 dBm
+-55 dBm;-53 dBm;-64 dBm;-54 dBm
+-62 dBm;-51 dBm;-54 dBm;-62 dBm
+-55 dBm;-52 dBm;-51 dBm;-54 dBm
+-70 dBm;-52 dBm;-64 dBm;-62 dBm
+-55 dBm;-52 dBm;-54 dBm;-54 dBm
+-55 dBm;-51 dBm;-55 dBm;-62 dBm
+-63 dBm;-61 dBm;-63 dBm;-62 dBm
+-55 dBm;-61 dBm;-54 dBm;-55 dBm
+-55 dBm;-52 dBm;-64 dBm;-62 dBm
+-71 dBm;-53 dBm;-65 dBm;-55 dBm
+-71 dBm;-53 dBm;-54 dBm;-62 dBm
+-71 dBm;-53 dBm;-63 dBm;-55 dBm
+-54 dBm;-52 dBm;-54 dBm;-62 dBm
+-62 dBm;-52 dBm;-54 dBm;-55 dBm
+-55 dBm;-68 dBm;-64 dBm;-61 dBm
+-54 dBm;-55 dBm;-54 dBm;-54 dBm
+-62 dBm;-63 dBm;-63 dBm;-61 dBm
+-62 dBm;-62 dBm;-54 dBm;-54 dBm
+-55 dBm;-62 dBm;-64 dBm;-55 dBm
+-71 dBm;-53 dBm;-52 dBm;-61 dBm
+-54 dBm;-53 dBm;-53 dBm;-54 dBm
+-63 dBm;-54 dBm;-54 dBm;-55 dBm
+-55 dBm;-69 dBm;-54 dBm;-61 dBm
+-66 dBm;-53 dBm;-53 dBm;-53 dBm
+-55 dBm;-61 dBm;-53 dBm;-61 dBm
+-63 dBm;-54 dBm;-54 dBm;-55 dBm
+-55 dBm;-69 dBm;-63 dBm;-61 dBm
+-66 dBm;-55 dBm;-64 dBm;-55 dBm
+-54 dBm;-62 dBm;-52 dBm;-61 dBm
+-63 dBm;-62 dBm;-53 dBm;-62 dBm
+-55 dBm;-62 dBm;-63 dBm;-54 dBm
+-67 dBm;-53 dBm;-64 dBm;-62 dBm
+-54 dBm;-54 dBm;-64 dBm;-55 dBm
+-62 dBm;-53 dBm;-54 dBm;-62 dBm
+-63 dBm;-53 dBm;-63 dBm;-54 dBm
+-55 dBm;-53 dBm;-54 dBm;-62 dBm
+-54 dBm;-69 dBm;-64 dBm;-54 dBm
+-55 dBm;-49 dBm;-55 dBm;-62 dBm
+-55 dBm;-51 dBm;-63 dBm;-55 dBm
+-55 dBm;-51 dBm;-51 dBm;-61 dBm
+-71 dBm;-50 dBm;-52 dBm;-54 dBm
+-55 dBm;-52 dBm;-63 dBm;-61 dBm
+-63 dBm;-51 dBm;-63 dBm;-55 dBm
+-63 dBm;-59 dBm;-64 dBm;-62 dBm
+-55 dBm;-62 dBm;-63 dBm;-55 dBm
+-54 dBm;-62 dBm;-55 dBm;-61 dBm
+-54 dBm;-55 dBm;-54 dBm;-55 dBm
+-72 dBm;-68 dBm;-54 dBm;-62 dBm
+-55 dBm;-53 dBm;-54 dBm;-62 dBm
+-64 dBm;-59 dBm;-54 dBm;-54 dBm
+-51 dBm;-61 dBm;-54 dBm;-61 dBm
+-63 dBm;-62 dBm;-54 dBm;-53 dBm
+-56 dBm;-53 dBm;-55 dBm;-63 dBm
+-55 dBm;-53 dBm;-56 dBm;-55 dBm
+-55 dBm;-54 dBm;-65 dBm;-62 dBm
+-63 dBm;-54 dBm;-54 dBm;-55 dBm
+-63 dBm;-53 dBm;-62 dBm;-63 dBm
+-54 dBm;-52 dBm;-54 dBm;-62 dBm
+-70 dBm;-53 dBm;-64 dBm;-55 dBm
+-54 dBm;-55 dBm;-64 dBm;-62 dBm
+-63 dBm;-53 dBm;-61 dBm;-55 dBm
+-55 dBm;-62 dBm;-55 dBm;-62 dBm
+-70 dBm;-63 dBm;-62 dBm;-54 dBm
+-55 dBm;-62 dBm;-53 dBm;-62 dBm
+-69 dBm;-55 dBm;-51 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-55 dBm
+-71 dBm;-63 dBm;-62 dBm;-63 dBm
+-55 dBm;-63 dBm;-61 dBm;-55 dBm
+-62 dBm;-54 dBm;-61 dBm;-55 dBm
+-55 dBm;-54 dBm;-55 dBm;-62 dBm
+-55 dBm;-61 dBm;-54 dBm;-54 dBm
+-70 dBm;-62 dBm;-63 dBm;-63 dBm
+-55 dBm;-55 dBm;-55 dBm;-55 dBm
+-63 dBm;-63 dBm;-62 dBm;-62 dBm
+-54 dBm;-54 dBm;-56 dBm;-55 dBm
+-70 dBm;-51 dBm;-64 dBm;-63 dBm
+-54 dBm;-53 dBm;-55 dBm;-55 dBm
+-63 dBm;-62 dBm;-55 dBm;-62 dBm
+-54 dBm;-55 dBm;-62 dBm;-55 dBm
+-69 dBm;-52 dBm;-56 dBm;-55 dBm
+-54 dBm;-64 dBm;-54 dBm;-64 dBm
+-63 dBm;-55 dBm;-63 dBm;-55 dBm
+-54 dBm;-62 dBm;-55 dBm;-62 dBm
+-69 dBm;-62 dBm;-63 dBm;-54 dBm
+-54 dBm;-54 dBm;-54 dBm;-55 dBm
+-54 dBm;-63 dBm;-62 dBm;-63 dBm
+-62 dBm;-55 dBm;-55 dBm;-54 dBm
+-54 dBm;-53 dBm;-54 dBm;-63 dBm
+-70 dBm;-54 dBm;-62 dBm;-54 dBm
+-71 dBm;-54 dBm;-56 dBm;-63 dBm
+-54 dBm;-54 dBm;-64 dBm;-54 dBm
+-63 dBm;-61 dBm;-54 dBm;-62 dBm
+-54 dBm;-52 dBm;-62 dBm;-54 dBm
+-69 dBm;-52 dBm;-54 dBm;-63 dBm
+-55 dBm;-64 dBm;-63 dBm;-55 dBm
+-64 dBm;-55 dBm;-55 dBm;-62 dBm
+-54 dBm;-63 dBm;-62 dBm;-54 dBm
+-53 dBm;-55 dBm;-54 dBm;-63 dBm
+-54 dBm;-63 dBm;-63 dBm;-54 dBm
+-55 dBm;-51 dBm;-52 dBm;-62 dBm
+-54 dBm;-51 dBm;-51 dBm;-55 dBm
+-54 dBm;-53 dBm;-61 dBm;-63 dBm
+-54 dBm;-54 dBm;-55 dBm;-55 dBm
+-70 dBm;-62 dBm;-55 dBm;-62 dBm
+-55 dBm;-51 dBm;-51 dBm;-54 dBm
+-64 dBm;-52 dBm;-54 dBm;-63 dBm
+-54 dBm;-52 dBm;-63 dBm;-54 dBm
+-54 dBm;-53 dBm;-55 dBm;-62 dBm
+-52 dBm;-64 dBm;-61 dBm;-54 dBm
+-55 dBm;-52 dBm;-55 dBm;-63 dBm
+-70 dBm;-52 dBm;-63 dBm;-54 dBm
+-70 dBm;-53 dBm;-51 dBm;-63 dBm
+-55 dBm;-60 dBm;-52 dBm;-53 dBm
+-54 dBm;-60 dBm;-53 dBm;-63 dBm
+-55 dBm;-61 dBm;-53 dBm;-54 dBm
+-63 dBm;-52 dBm;-56 dBm;-62 dBm
+-54 dBm;-53 dBm;-53 dBm;-54 dBm
+-53 dBm;-55 dBm;-55 dBm;-63 dBm
+-54 dBm;-69 dBm;-50 dBm;-55 dBm
+-54 dBm;-54 dBm;-63 dBm;-62 dBm
+-54 dBm;-54 dBm;-55 dBm;-55 dBm
+-70 dBm;-61 dBm;-52 dBm;-60 dBm
+-54 dBm;-69 dBm;-51 dBm;-55 dBm
+-54 dBm;-56 dBm;-52 dBm;-54 dBm
+-64 dBm;-63 dBm;-53 dBm;-64 dBm
+-54 dBm;-55 dBm;-55 dBm;-55 dBm
+-54 dBm;-68 dBm;-53 dBm;-54 dBm
+-54 dBm;-55 dBm;-54 dBm;-62 dBm
+-54 dBm;-59 dBm;-51 dBm;-54 dBm
+-55 dBm;-62 dBm;-53 dBm;-63 dBm
+-70 dBm;-54 dBm;-63 dBm;-54 dBm
+-55 dBm;-68 dBm;-55 dBm;-62 dBm
+-63 dBm;-62 dBm;-62 dBm;-54 dBm
+-55 dBm;-62 dBm;-51 dBm;-64 dBm
+-54 dBm;-55 dBm;-51 dBm;-55 dBm
+-53 dBm;-55 dBm;-51 dBm;-63 dBm
+-55 dBm;-55 dBm;-53 dBm;-62 dBm
+-63 dBm;-54 dBm;-51 dBm;-61 dBm
+-55 dBm;-64 dBm;-52 dBm;-55 dBm
+-55 dBm;-65 dBm;-53 dBm;-64 dBm
+-54 dBm;-54 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-52 dBm;-61 dBm
+-70 dBm;-61 dBm;-54 dBm;-55 dBm
+-55 dBm;-55 dBm;-53 dBm;-64 dBm
+-54 dBm;-51 dBm;-51 dBm;-55 dBm
+-63 dBm;-52 dBm;-53 dBm;-62 dBm
+-56 dBm;-54 dBm;-63 dBm;-55 dBm
+-70 dBm;-53 dBm;-50 dBm;-63 dBm
+-70 dBm;-50 dBm;-54 dBm;-55 dBm
+-54 dBm;-53 dBm;-52 dBm;-62 dBm
+-63 dBm;-54 dBm;-53 dBm;-55 dBm
+-54 dBm;-54 dBm;-63 dBm;-64 dBm
+-69 dBm;-51 dBm;-54 dBm;-54 dBm
+-55 dBm;-53 dBm;-64 dBm;-62 dBm
+-54 dBm;-52 dBm;-55 dBm;-55 dBm
+-63 dBm;-51 dBm;-62 dBm;-64 dBm
+-54 dBm;-69 dBm;-51 dBm;-54 dBm
+-70 dBm;-55 dBm;-54 dBm;-62 dBm
+-54 dBm;-56 dBm;-53 dBm;-54 dBm
+-63 dBm;-62 dBm;-52 dBm;-64 dBm
+-54 dBm;-62 dBm;-54 dBm;-64 dBm
+-53 dBm;-61 dBm;-53 dBm;-55 dBm
+-54 dBm;-61 dBm;-53 dBm;-62 dBm
+-70 dBm;-62 dBm;-53 dBm;-55 dBm
+-64 dBm;-62 dBm;-53 dBm;-64 dBm
+-54 dBm;-54 dBm;-53 dBm;-55 dBm
+-54 dBm;-69 dBm;-49 dBm;-61 dBm
+-70 dBm;-53 dBm;-53 dBm;-55 dBm
+-54 dBm;-54 dBm;-63 dBm;-54 dBm
+-55 dBm;-55 dBm;-56 dBm;-64 dBm
+-54 dBm;-54 dBm;-61 dBm;-55 dBm
+-55 dBm;-54 dBm;-55 dBm;-61 dBm
+-55 dBm;-61 dBm;-53 dBm;-55 dBm
+-54 dBm;-62 dBm;-53 dBm;-64 dBm
+-63 dBm;-53 dBm;-53 dBm;-55 dBm
+-53 dBm;-69 dBm;-55 dBm;-61 dBm
+-70 dBm;-55 dBm;-52 dBm;-62 dBm
+-54 dBm;-62 dBm;-54 dBm;-55 dBm
+-63 dBm;-59 dBm;-51 dBm;-54 dBm
+-55 dBm;-69 dBm;-53 dBm;-64 dBm
+-68 dBm;-55 dBm;-64 dBm;-64 dBm
+-54 dBm;-61 dBm;-58 dBm;-55 dBm
+-63 dBm;-52 dBm;-53 dBm;-62 dBm
+-54 dBm;-52 dBm;-54 dBm;-55 dBm
+-54 dBm;-52 dBm;-53 dBm;-64 dBm
+-54 dBm;-52 dBm;-51 dBm;-55 dBm
+-54 dBm;-54 dBm;-62 dBm;-62 dBm
+-54 dBm;-68 dBm;-54 dBm;-54 dBm
+-55 dBm;-50 dBm;-53 dBm;-64 dBm
+-69 dBm;-51 dBm;-50 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-61 dBm
+-64 dBm;-55 dBm;-60 dBm;-55 dBm
+-54 dBm;-53 dBm;-63 dBm;-64 dBm
+-54 dBm;-53 dBm;-54 dBm;-54 dBm
+-54 dBm;-54 dBm;-64 dBm;-61 dBm
+-54 dBm;-53 dBm;-63 dBm;-55 dBm
+-68 dBm;-52 dBm;-51 dBm;-64 dBm
+-54 dBm;-55 dBm;-53 dBm;-54 dBm
+-62 dBm;-62 dBm;-62 dBm;-63 dBm
+-54 dBm;-55 dBm;-63 dBm;-62 dBm
+-54 dBm;-54 dBm;-54 dBm;-61 dBm
+-55 dBm;-53 dBm;-62 dBm;-54 dBm
+-69 dBm;-56 dBm;-63 dBm;-64 dBm
+-55 dBm;-53 dBm;-51 dBm;-54 dBm
+-63 dBm;-52 dBm;-51 dBm;-62 dBm
+-54 dBm;-51 dBm;-53 dBm;-55 dBm
+-69 dBm;-54 dBm;-52 dBm;-64 dBm
+-54 dBm;-52 dBm;-53 dBm;-55 dBm
+-69 dBm;-54 dBm;-54 dBm;-61 dBm
+-64 dBm;-69 dBm;-51 dBm;-63 dBm
+-54 dBm;-51 dBm;-53 dBm;-55 dBm
+-69 dBm;-55 dBm;-53 dBm;-64 dBm
+-69 dBm;-53 dBm;-54 dBm;-55 dBm
+-53 dBm;-59 dBm;-52 dBm;-62 dBm
+-52 dBm;-61 dBm;-54 dBm;-54 dBm
+-51 dBm;-55 dBm;-51 dBm;-64 dBm
+-52 dBm;-69 dBm;-61 dBm;-53 dBm
+-53 dBm;-53 dBm;-63 dBm;-62 dBm
+-55 dBm;-53 dBm;-51 dBm;-54 dBm
+-54 dBm;-54 dBm;-54 dBm;-64 dBm
+-52 dBm;-55 dBm;-54 dBm;-55 dBm
+-63 dBm;-54 dBm;-54 dBm;-62 dBm
+-54 dBm;-55 dBm;-63 dBm;-54 dBm
+-69 dBm;-51 dBm;-54 dBm;-64 dBm
+-55 dBm;-51 dBm;-63 dBm;-53 dBm
+-64 dBm;-53 dBm;-53 dBm;-61 dBm
+-55 dBm;-55 dBm;-62 dBm;-54 dBm
+-69 dBm;-53 dBm;-53 dBm;-64 dBm
+-52 dBm;-53 dBm;-54 dBm;-53 dBm
+-63 dBm;-62 dBm;-52 dBm;-62 dBm
+-54 dBm;-62 dBm;-55 dBm;-55 dBm
+-69 dBm;-54 dBm;-52 dBm;-65 dBm
+-54 dBm;-67 dBm;-53 dBm;-54 dBm
+-63 dBm;-64 dBm;-63 dBm;-62 dBm
+-54 dBm;-55 dBm;-57 dBm;-62 dBm
+-68 dBm;-62 dBm;-54 dBm;-55 dBm
+-54 dBm;-54 dBm;-62 dBm;-65 dBm
+-54 dBm;-64 dBm;-52 dBm;-54 dBm
+-63 dBm;-55 dBm;-52 dBm;-61 dBm
+-54 dBm;-61 dBm;-52 dBm;-55 dBm
+-68 dBm;-69 dBm;-53 dBm;-65 dBm
+-54 dBm;-55 dBm;-53 dBm;-54 dBm
+-63 dBm;-63 dBm;-49 dBm;-62 dBm
+-54 dBm;-54 dBm;-63 dBm;-55 dBm
+-68 dBm;-68 dBm;-55 dBm;-54 dBm
+-68 dBm;-54 dBm;-61 dBm;-53 dBm
+-52 dBm;-62 dBm;-62 dBm;-53 dBm
+-54 dBm;-63 dBm;-61 dBm;-52 dBm
+-55 dBm;-55 dBm;-54 dBm;-55 dBm
+-53 dBm;-68 dBm;-63 dBm;-62 dBm
+-52 dBm;-55 dBm;-54 dBm;-54 dBm
+-53 dBm;-55 dBm;-62 dBm;-66 dBm
+-56 dBm;-62 dBm;-62 dBm;-55 dBm
+-54 dBm;-54 dBm;-53 dBm;-62 dBm
+-53 dBm;-69 dBm;-55 dBm;-54 dBm
+-52 dBm;-54 dBm;-53 dBm;-65 dBm
+-53 dBm;-61 dBm;-52 dBm;-55 dBm
+-63 dBm;-55 dBm;-51 dBm;-62 dBm
+-63 dBm;-68 dBm;-52 dBm;-65 dBm
+-64 dBm;-55 dBm;-52 dBm;-54 dBm
+-63 dBm;-61 dBm;-54 dBm;-62 dBm
+-55 dBm;-53 dBm;-51 dBm;-53 dBm
+-66 dBm;-70 dBm;-52 dBm;-65 dBm
+-55 dBm;-55 dBm;-54 dBm;-55 dBm
+-64 dBm;-61 dBm;-55 dBm;-62 dBm
+-55 dBm;-70 dBm;-54 dBm;-56 dBm
+-64 dBm;-54 dBm;-63 dBm;-65 dBm
+-56 dBm;-62 dBm;-55 dBm;-55 dBm
+-64 dBm;-54 dBm;-62 dBm;-61 dBm
+-54 dBm;-70 dBm;-51 dBm;-54 dBm
+-63 dBm;-55 dBm;-53 dBm;-66 dBm
+-54 dBm;-54 dBm;-52 dBm;-55 dBm
+-64 dBm;-62 dBm;-54 dBm;-61 dBm
+-64 dBm;-55 dBm;-53 dBm;-55 dBm
+-55 dBm;-70 dBm;-53 dBm;-65 dBm
+-54 dBm;-55 dBm;-54 dBm;-56 dBm
+-51 dBm;-61 dBm;-50 dBm;-62 dBm
+-63 dBm;-54 dBm;-50 dBm;-54 dBm
+-54 dBm;-69 dBm;-63 dBm;-65 dBm
+-54 dBm;-55 dBm;-54 dBm;-54 dBm
+-54 dBm;-62 dBm;-62 dBm;-62 dBm
+-55 dBm;-55 dBm;-54 dBm;-55 dBm
+-54 dBm;-55 dBm;-63 dBm;-55 dBm
+-55 dBm;-69 dBm;-52 dBm;-65 dBm
+-54 dBm;-55 dBm;-50 dBm;-54 dBm
+-50 dBm;-62 dBm;-62 dBm;-62 dBm
+-53 dBm;-55 dBm;-54 dBm;-54 dBm
+-64 dBm;-68 dBm;-63 dBm;-61 dBm
+-52 dBm;-54 dBm;-55 dBm;-54 dBm
+-64 dBm;-62 dBm;-51 dBm;-61 dBm
+-56 dBm;-55 dBm;-62 dBm;-55 dBm
+-53 dBm;-55 dBm;-56 dBm;-66 dBm
+-54 dBm;-54 dBm;-64 dBm;-54 dBm
+-65 dBm;-68 dBm;-54 dBm;-62 dBm
+-54 dBm;-54 dBm;-62 dBm;-54 dBm
+-63 dBm;-62 dBm;-54 dBm;-66 dBm
+-54 dBm;-54 dBm;-53 dBm;-54 dBm
+-69 dBm;-55 dBm;-53 dBm;-62 dBm
+-54 dBm;-54 dBm;-52 dBm;-54 dBm
+-63 dBm;-54 dBm;-53 dBm;-66 dBm
+-55 dBm;-55 dBm;-54 dBm;-60 dBm
+-69 dBm;-69 dBm;-52 dBm;-55 dBm
+-54 dBm;-53 dBm;-54 dBm;-55 dBm
+-56 dBm;-62 dBm;-63 dBm;-62 dBm
+-63 dBm;-54 dBm;-55 dBm;-55 dBm
+-54 dBm;-69 dBm;-53 dBm;-54 dBm
+-59 dBm;-54 dBm;-52 dBm;-62 dBm
+-69 dBm;-62 dBm;-51 dBm;-54 dBm
+-50 dBm;-54 dBm;-62 dBm;-55 dBm
+-51 dBm;-68 dBm;-55 dBm;-62 dBm
+-53 dBm;-55 dBm;-59 dBm;-55 dBm
+-53 dBm;-62 dBm;-63 dBm;-55 dBm
+-63 dBm;-54 dBm;-55 dBm;-61 dBm
+-63 dBm;-69 dBm;-62 dBm;-54 dBm
+-62 dBm;-55 dBm;-54 dBm;-62 dBm
+-63 dBm;-61 dBm;-53 dBm;-55 dBm
+-52 dBm;-55 dBm;-63 dBm;-62 dBm
+-52 dBm;-68 dBm;-59 dBm;-55 dBm
+-52 dBm;-55 dBm;-61 dBm;-62 dBm
+-53 dBm;-61 dBm;-50 dBm;-56 dBm
+-55 dBm;-55 dBm;-55 dBm;-62 dBm
+-53 dBm;-69 dBm;-54 dBm;-55 dBm
+-53 dBm;-54 dBm;-52 dBm;-62 dBm
+-54 dBm;-61 dBm;-54 dBm;-62 dBm
+-53 dBm;-54 dBm;-63 dBm;-55 dBm
+-52 dBm;-69 dBm;-64 dBm;-62 dBm
+-53 dBm;-54 dBm;-55 dBm;-55 dBm
+-68 dBm;-61 dBm;-62 dBm;-63 dBm
+-53 dBm;-56 dBm;-51 dBm;-54 dBm
+-53 dBm;-69 dBm;-51 dBm;-62 dBm
+-54 dBm;-69 dBm;-55 dBm;-55 dBm
+-52 dBm;-69 dBm;-64 dBm;-62 dBm
+-52 dBm;-69 dBm;-55 dBm;-54 dBm
+-53 dBm;-70 dBm;-62 dBm;-63 dBm
+-53 dBm;-69 dBm;-62 dBm;-54 dBm
+-53 dBm;-55 dBm;-61 dBm;-61 dBm
+-55 dBm;-62 dBm;-61 dBm;-61 dBm
+-55 dBm;-54 dBm;-51 dBm;-62 dBm
+-52 dBm;-69 dBm;-53 dBm;-54 dBm
+-53 dBm;-55 dBm;-52 dBm;-62 dBm
+-53 dBm;-62 dBm;-54 dBm;-54 dBm
+-63 dBm;-55 dBm;-52 dBm;-61 dBm
+-62 dBm;-69 dBm;-53 dBm;-55 dBm
+-51 dBm;-55 dBm;-52 dBm;-62 dBm
+-48 dBm;-61 dBm;-51 dBm;-54 dBm
+-67 dBm;-54 dBm;-53 dBm;-61 dBm
+-55 dBm;-55 dBm;-51 dBm;-54 dBm
+-55 dBm;-69 dBm;-63 dBm;-62 dBm
+-63 dBm;-54 dBm;-51 dBm;-61 dBm
+-50 dBm;-62 dBm;-52 dBm;-54 dBm
+-54 dBm;-55 dBm;-55 dBm;-61 dBm
+-54 dBm;-54 dBm;-61 dBm;-55 dBm
+-53 dBm;-68 dBm;-53 dBm;-62 dBm
+-54 dBm;-55 dBm;-52 dBm;-54 dBm
+-54 dBm;-62 dBm;-54 dBm;-63 dBm
+-53 dBm;-62 dBm;-55 dBm;-54 dBm
+-69 dBm;-69 dBm;-55 dBm;-56 dBm
+-54 dBm;-55 dBm;-55 dBm;-62 dBm
+-64 dBm;-61 dBm;-52 dBm;-54 dBm
+-54 dBm;-55 dBm;-54 dBm;-62 dBm
+-69 dBm;-69 dBm;-53 dBm;-54 dBm
+-53 dBm;-54 dBm;-54 dBm;-62 dBm
+-51 dBm;-62 dBm;-63 dBm;-54 dBm
+-52 dBm;-61 dBm;-54 dBm;-61 dBm
+-54 dBm;-54 dBm;-53 dBm;-63 dBm
+-54 dBm;-68 dBm;-51 dBm;-54 dBm
+-64 dBm;-67 dBm;-62 dBm;-55 dBm
+-69 dBm;-56 dBm;-54 dBm;-62 dBm
+-64 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-61 dBm;-53 dBm;-62 dBm
+-53 dBm;-55 dBm;-55 dBm;-56 dBm
+-53 dBm;-54 dBm;-53 dBm;-62 dBm
+-69 dBm;-54 dBm;-52 dBm;-63 dBm
+-54 dBm;-53 dBm;-63 dBm;-55 dBm
+-63 dBm;-54 dBm;-52 dBm;-62 dBm
+-52 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-69 dBm;-62 dBm;-63 dBm
+-55 dBm;-55 dBm;-54 dBm;-55 dBm
+-52 dBm;-62 dBm;-63 dBm;-61 dBm
+-52 dBm;-54 dBm;-54 dBm;-56 dBm
+-55 dBm;-69 dBm;-55 dBm;-63 dBm
+-63 dBm;-56 dBm;-62 dBm;-55 dBm
+-50 dBm;-62 dBm;-54 dBm;-62 dBm
+-53 dBm;-61 dBm;-64 dBm;-55 dBm
+-53 dBm;-61 dBm;-55 dBm;-63 dBm
+-52 dBm;-55 dBm;-52 dBm;-55 dBm
+-54 dBm;-55 dBm;-54 dBm;-63 dBm
+-53 dBm;-56 dBm;-52 dBm;-55 dBm
+-69 dBm;-55 dBm;-52 dBm;-63 dBm
+-63 dBm;-55 dBm;-55 dBm;-55 dBm
+-55 dBm;-55 dBm;-62 dBm;-62 dBm
+-51 dBm;-55 dBm;-54 dBm;-54 dBm
+-55 dBm;-69 dBm;-63 dBm;-63 dBm
+-54 dBm;-55 dBm;-63 dBm;-54 dBm
+-69 dBm;-62 dBm;-53 dBm;-61 dBm
+-55 dBm;-55 dBm;-62 dBm;-54 dBm
+-55 dBm;-68 dBm;-55 dBm;-63 dBm
+-63 dBm;-54 dBm;-63 dBm;-54 dBm
+-63 dBm;-62 dBm;-52 dBm;-62 dBm
+-54 dBm;-63 dBm;-54 dBm;-56 dBm
+-54 dBm;-54 dBm;-54 dBm;-64 dBm
+-63 dBm;-69 dBm;-51 dBm;-55 dBm
+-55 dBm;-54 dBm;-55 dBm;-62 dBm
+-54 dBm;-69 dBm;-62 dBm;-55 dBm
+-63 dBm;-62 dBm;-55 dBm;-64 dBm
+-63 dBm;-55 dBm;-54 dBm;-55 dBm
+-52 dBm;-68 dBm;-64 dBm;-62 dBm
+-51 dBm;-55 dBm;-54 dBm;-55 dBm
+-63 dBm;-62 dBm;-62 dBm;-64 dBm
+-64 dBm;-54 dBm;-55 dBm;-55 dBm
+-55 dBm;-54 dBm;-63 dBm;-62 dBm
+-52 dBm;-69 dBm;-54 dBm;-54 dBm
+-62 dBm;-55 dBm;-62 dBm;-64 dBm
+-55 dBm;-61 dBm;-55 dBm;-56 dBm
+-64 dBm;-55 dBm;-63 dBm;-62 dBm
+-55 dBm;-55 dBm;-55 dBm;-55 dBm
+-64 dBm;-68 dBm;-62 dBm;-64 dBm
+-51 dBm;-55 dBm;-55 dBm;-62 dBm
+-54 dBm;-63 dBm;-63 dBm;-61 dBm
+-64 dBm;-54 dBm;-55 dBm;-55 dBm
+-55 dBm;-69 dBm;-61 dBm;-62 dBm
+-63 dBm;-54 dBm;-61 dBm;-55 dBm
+-52 dBm;-62 dBm;-54 dBm;-64 dBm
+-55 dBm;-62 dBm;-63 dBm;-55 dBm
+-55 dBm;-61 dBm;-55 dBm;-62 dBm
+-63 dBm;-54 dBm;-63 dBm;-61 dBm
+-53 dBm;-69 dBm;-54 dBm;-55 dBm
+-54 dBm;-53 dBm;-55 dBm;-64 dBm
+-63 dBm;-62 dBm;-64 dBm;-54 dBm
+-55 dBm;-54 dBm;-55 dBm;-60 dBm
+-54 dBm;-54 dBm;-62 dBm;-55 dBm
+-51 dBm;-69 dBm;-55 dBm;-55 dBm
+-53 dBm;-54 dBm;-63 dBm;-64 dBm
+-53 dBm;-62 dBm;-55 dBm;-55 dBm
+-64 dBm;-54 dBm;-62 dBm;-61 dBm
+-54 dBm;-70 dBm;-55 dBm;-54 dBm
+-64 dBm;-54 dBm;-64 dBm;-54 dBm
+-55 dBm;-62 dBm;-54 dBm;-64 dBm
+-68 dBm;-54 dBm;-62 dBm;-55 dBm
+-50 dBm;-70 dBm;-54 dBm;-62 dBm
+-54 dBm;-55 dBm;-63 dBm;-61 dBm
+-54 dBm;-62 dBm;-54 dBm;-62 dBm
+-51 dBm;-55 dBm;-61 dBm;-54 dBm
+-51 dBm;-70 dBm;-55 dBm;-64 dBm
+-53 dBm;-54 dBm;-63 dBm;-54 dBm
+-51 dBm;-62 dBm;-54 dBm;-62 dBm
+-48 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-54 dBm;-62 dBm;-64 dBm
+-52 dBm;-54 dBm;-62 dBm;-54 dBm
+-63 dBm;-69 dBm;-55 dBm;-62 dBm
+-55 dBm;-54 dBm;-64 dBm;-55 dBm
+-55 dBm;-62 dBm;-55 dBm;-64 dBm
+-63 dBm;-55 dBm;-61 dBm;-55 dBm
+-55 dBm;-69 dBm;-53 dBm;-61 dBm
+-53 dBm;-69 dBm;-64 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-65 dBm
+-54 dBm;-62 dBm;-62 dBm;-53 dBm
+-68 dBm;-56 dBm;-55 dBm;-62 dBm
+-52 dBm;-61 dBm;-63 dBm;-55 dBm
+-52 dBm;-69 dBm;-53 dBm;-65 dBm
+-53 dBm;-55 dBm;-62 dBm;-55 dBm
+-53 dBm;-61 dBm;-56 dBm;-62 dBm
+-53 dBm;-54 dBm;-63 dBm;-54 dBm
+-55 dBm;-70 dBm;-64 dBm;-64 dBm
+-54 dBm;-54 dBm;-54 dBm;-54 dBm
+-53 dBm;-62 dBm;-62 dBm;-62 dBm
+-52 dBm;-54 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-55 dBm;-64 dBm
+-54 dBm;-55 dBm;-63 dBm;-54 dBm
+-69 dBm;-55 dBm;-56 dBm;-62 dBm
+-55 dBm;-54 dBm;-61 dBm;-55 dBm
+-63 dBm;-55 dBm;-54 dBm;-65 dBm
+-59 dBm;-55 dBm;-63 dBm;-54 dBm
+-52 dBm;-69 dBm;-54 dBm;-62 dBm
+-51 dBm;-56 dBm;-62 dBm;-54 dBm
+-54 dBm;-61 dBm;-54 dBm;-64 dBm
+-54 dBm;-55 dBm;-63 dBm;-54 dBm
+-53 dBm;-70 dBm;-54 dBm;-61 dBm
+-54 dBm;-55 dBm;-62 dBm;-62 dBm
+-54 dBm;-62 dBm;-55 dBm;-62 dBm
+-54 dBm;-55 dBm;-54 dBm;-55 dBm
+-68 dBm;-55 dBm;-63 dBm;-55 dBm
+-54 dBm;-56 dBm;-55 dBm;-55 dBm
+-63 dBm;-55 dBm;-62 dBm;-53 dBm
+-63 dBm;-54 dBm;-55 dBm;-64 dBm
+-54 dBm;-70 dBm;-63 dBm;-54 dBm
+-54 dBm;-54 dBm;-56 dBm;-61 dBm
+-67 dBm;-62 dBm;-61 dBm;-54 dBm
+-64 dBm;-55 dBm;-55 dBm;-64 dBm
+-53 dBm;-70 dBm;-55 dBm;-55 dBm
+-52 dBm;-55 dBm;-54 dBm;-63 dBm
+-53 dBm;-61 dBm;-63 dBm;-56 dBm
+-55 dBm;-55 dBm;-55 dBm;-65 dBm
+-54 dBm;-71 dBm;-62 dBm;-65 dBm
+-53 dBm;-54 dBm;-54 dBm;-55 dBm
+-52 dBm;-61 dBm;-54 dBm;-61 dBm
+-54 dBm;-55 dBm;-53 dBm;-55 dBm
+-54 dBm;-70 dBm;-55 dBm;-64 dBm
+-54 dBm;-54 dBm;-53 dBm;-55 dBm
+-53 dBm;-62 dBm;-64 dBm;-62 dBm
+-53 dBm;-56 dBm;-54 dBm;-54 dBm
+-54 dBm;-62 dBm;-63 dBm;-55 dBm
+-63 dBm;-54 dBm;-55 dBm;-52 dBm
+-56 dBm;-69 dBm;-63 dBm;-65 dBm
+-68 dBm;-54 dBm;-55 dBm;-54 dBm
+-55 dBm;-61 dBm;-62 dBm;-62 dBm
+-54 dBm;-61 dBm;-54 dBm;-55 dBm
+-63 dBm;-61 dBm;-54 dBm;-65 dBm
+-53 dBm;-55 dBm;-62 dBm;-55 dBm
+-51 dBm;-69 dBm;-55 dBm;-62 dBm
+-68 dBm;-54 dBm;-64 dBm;-54 dBm
+-54 dBm;-62 dBm;-55 dBm;-64 dBm
+-64 dBm;-53 dBm;-54 dBm;-54 dBm
+-55 dBm;-55 dBm;-62 dBm;-62 dBm
+-54 dBm;-54 dBm;-54 dBm;-54 dBm
+-53 dBm;-54 dBm;-55 dBm;-65 dBm
+-54 dBm;-54 dBm;-63 dBm;-54 dBm
+-55 dBm;-69 dBm;-54 dBm;-61 dBm
+-51 dBm;-55 dBm;-63 dBm;-54 dBm
+-53 dBm;-62 dBm;-54 dBm;-64 dBm
+-52 dBm;-53 dBm;-63 dBm;-55 dBm
+-56 dBm;-69 dBm;-54 dBm;-62 dBm
+-51 dBm;-68 dBm;-63 dBm;-54 dBm
+-55 dBm;-68 dBm;-63 dBm;-65 dBm
+-52 dBm;-55 dBm;-55 dBm;-54 dBm
+-63 dBm;-62 dBm;-55 dBm;-61 dBm
+-55 dBm;-70 dBm;-62 dBm;-54 dBm
+-54 dBm;-55 dBm;-55 dBm;-65 dBm
+-63 dBm;-62 dBm;-55 dBm;-54 dBm
+-54 dBm;-55 dBm;-63 dBm;-61 dBm
+-69 dBm;-70 dBm;-55 dBm;-54 dBm
+-54 dBm;-56 dBm;-55 dBm;-65 dBm
+-63 dBm;-62 dBm;-63 dBm;-55 dBm
+-55 dBm;-53 dBm;-54 dBm;-62 dBm
+-68 dBm;-70 dBm;-63 dBm;-54 dBm
+-53 dBm;-54 dBm;-55 dBm;-54 dBm
+-53 dBm;-61 dBm;-63 dBm;-54 dBm
+-54 dBm;-54 dBm;-56 dBm;-64 dBm
+-53 dBm;-55 dBm;-63 dBm;-66 dBm
+-54 dBm;-54 dBm;-55 dBm;-65 dBm
+-54 dBm;-54 dBm;-64 dBm;-61 dBm
+-53 dBm;-54 dBm;-53 dBm;-54 dBm
+-53 dBm;-54 dBm;-63 dBm;-61 dBm
+-63 dBm;-54 dBm;-54 dBm;-54 dBm
+-51 dBm;-70 dBm;-63 dBm;-55 dBm
+-52 dBm;-54 dBm;-54 dBm;-55 dBm
+-52 dBm;-62 dBm;-63 dBm;-65 dBm
+-63 dBm;-61 dBm;-55 dBm;-54 dBm
+-54 dBm;-62 dBm;-54 dBm;-61 dBm
+-55 dBm;-55 dBm;-63 dBm;-55 dBm
+-69 dBm;-52 dBm;-54 dBm;-65 dBm
+-55 dBm;-71 dBm;-55 dBm;-54 dBm
+-64 dBm;-54 dBm;-54 dBm;-62 dBm
+-52 dBm;-61 dBm;-55 dBm;-62 dBm
+-51 dBm;-55 dBm;-54 dBm;-55 dBm
+-56 dBm;-70 dBm;-55 dBm;-65 dBm
+-54 dBm;-54 dBm;-63 dBm;-54 dBm
+-55 dBm;-62 dBm;-54 dBm;-62 dBm
+-54 dBm;-55 dBm;-55 dBm;-55 dBm
+-54 dBm;-69 dBm;-54 dBm;-65 dBm
+-54 dBm;-69 dBm;-63 dBm;-52 dBm
+-69 dBm;-54 dBm;-54 dBm;-62 dBm
+-55 dBm;-61 dBm;-54 dBm;-54 dBm
+-63 dBm;-54 dBm;-63 dBm;-65 dBm
+-55 dBm;-54 dBm;-55 dBm;-56 dBm
+-64 dBm;-54 dBm;-54 dBm;-61 dBm
+-55 dBm;-54 dBm;-54 dBm;-55 dBm
+-63 dBm;-70 dBm;-54 dBm;-65 dBm
+-54 dBm;-55 dBm;-54 dBm;-55 dBm
+-54 dBm;-63 dBm;-55 dBm;-62 dBm
+-55 dBm;-61 dBm;-63 dBm;-54 dBm
+-63 dBm;-54 dBm;-54 dBm;-64 dBm
+-55 dBm;-54 dBm;-64 dBm;-55 dBm
+-68 dBm;-55 dBm;-55 dBm;-62 dBm
+-54 dBm;-55 dBm;-63 dBm;-55 dBm
+-63 dBm;-69 dBm;-55 dBm;-65 dBm
+-54 dBm;-69 dBm;-63 dBm;-55 dBm
+-69 dBm;-54 dBm;-56 dBm;-61 dBm
+-54 dBm;-54 dBm;-63 dBm;-63 dBm
+-63 dBm;-62 dBm;-55 dBm;-54 dBm
+-54 dBm;-55 dBm;-63 dBm;-65 dBm
+-69 dBm;-70 dBm;-54 dBm;-55 dBm
+-68 dBm;-54 dBm;-63 dBm;-61 dBm
+-55 dBm;-62 dBm;-56 dBm;-55 dBm
+-64 dBm;-55 dBm;-63 dBm;-55 dBm
+-55 dBm;-71 dBm;-52 dBm;-65 dBm
+-69 dBm;-56 dBm;-55 dBm;-54 dBm
+-55 dBm;-62 dBm;-56 dBm;-61 dBm
+-63 dBm;-61 dBm;-55 dBm;-55 dBm
+-54 dBm;-62 dBm;-63 dBm;-55 dBm
+-69 dBm;-62 dBm;-54 dBm;-65 dBm
+-65 dBm;-55 dBm;-63 dBm;-56 dBm
+-54 dBm;-70 dBm;-54 dBm;-61 dBm
+-63 dBm;-55 dBm;-64 dBm;-65 dBm
+-55 dBm;-70 dBm;-54 dBm;-56 dBm
+-70 dBm;-55 dBm;-63 dBm;-61 dBm
+-55 dBm;-52 dBm;-54 dBm;-51 dBm
+-63 dBm;-54 dBm;-63 dBm;-53 dBm
+-54 dBm;-61 dBm;-54 dBm;-52 dBm
+-70 dBm;-63 dBm;-63 dBm;-50 dBm
+-54 dBm;-62 dBm;-53 dBm;-53 dBm
+-63 dBm;-54 dBm;-63 dBm;-52 dBm
+-55 dBm;-69 dBm;-54 dBm;-65 dBm
+-70 dBm;-56 dBm;-64 dBm;-55 dBm
+-55 dBm;-62 dBm;-54 dBm;-63 dBm
+-62 dBm;-52 dBm;-64 dBm;-55 dBm
+-56 dBm;-68 dBm;-54 dBm;-65 dBm
+-70 dBm;-54 dBm;-63 dBm;-55 dBm
+-54 dBm;-71 dBm;-54 dBm;-62 dBm
+-55 dBm;-54 dBm;-63 dBm;-55 dBm
+-62 dBm;-62 dBm;-56 dBm;-65 dBm
+-55 dBm;-61 dBm;-64 dBm;-55 dBm
+-69 dBm;-61 dBm;-55 dBm;-61 dBm
+-55 dBm;-62 dBm;-63 dBm;-56 dBm
+-63 dBm;-55 dBm;-54 dBm;-65 dBm
+-55 dBm;-54 dBm;-63 dBm;-54 dBm
+-69 dBm;-55 dBm;-55 dBm;-62 dBm
+-54 dBm;-55 dBm;-63 dBm;-55 dBm
+-55 dBm;-54 dBm;-55 dBm;-65 dBm
+-56 dBm;-62 dBm;-64 dBm;-55 dBm
+-63 dBm;-70 dBm;-55 dBm;-61 dBm
+-55 dBm;-71 dBm;-69 dBm;-55 dBm
+-69 dBm;-55 dBm;-54 dBm;-65 dBm
+-54 dBm;-62 dBm;-64 dBm;-54 dBm
+-54 dBm;-54 dBm;-54 dBm;-62 dBm
+-63 dBm;-73 dBm;-55 dBm;-55 dBm
+-55 dBm;-54 dBm;-55 dBm;-66 dBm
+-69 dBm;-62 dBm;-54 dBm;-52 dBm
+-54 dBm;-55 dBm;-55 dBm;-62 dBm
+-63 dBm;-71 dBm;-55 dBm;-55 dBm
+-55 dBm;-55 dBm;-56 dBm;-65 dBm
+-54 dBm;-71 dBm;-63 dBm;-55 dBm
+-54 dBm;-62 dBm;-55 dBm;-62 dBm
+-68 dBm;-55 dBm;-64 dBm;-55 dBm
+-55 dBm;-71 dBm;-56 dBm;-65 dBm
+-63 dBm;-55 dBm;-63 dBm;-55 dBm
+-53 dBm;-61 dBm;-55 dBm;-62 dBm
+-54 dBm;-62 dBm;-56 dBm;-55 dBm
+-55 dBm;-55 dBm;-55 dBm;-66 dBm
+-54 dBm;-72 dBm;-64 dBm;-54 dBm
+-54 dBm;-55 dBm;-55 dBm;-62 dBm
+-69 dBm;-54 dBm;-64 dBm;-55 dBm
+-54 dBm;-62 dBm;-54 dBm;-65 dBm
+-63 dBm;-55 dBm;-64 dBm;-55 dBm
+-55 dBm;-55 dBm;-55 dBm;-62 dBm
+-69 dBm;-54 dBm;-63 dBm;-54 dBm
+-68 dBm;-54 dBm;-55 dBm;-65 dBm
+-55 dBm;-54 dBm;-64 dBm;-54 dBm
+-64 dBm;-69 dBm;-52 dBm;-62 dBm
+-54 dBm;-55 dBm;-63 dBm;-52 dBm
+-69 dBm;-62 dBm;-55 dBm;-52 dBm
+-55 dBm;-55 dBm;-64 dBm;-52 dBm
+-63 dBm;-70 dBm;-55 dBm;-65 dBm
+-54 dBm;-55 dBm;-53 dBm;-51 dBm
+-54 dBm;-62 dBm;-55 dBm;-54 dBm
+-69 dBm;-55 dBm;-55 dBm;-63 dBm
+-54 dBm;-70 dBm;-64 dBm;-55 dBm
+-63 dBm;-54 dBm;-55 dBm;-65 dBm
+-54 dBm;-62 dBm;-64 dBm;-49 dBm
+-54 dBm;-56 dBm;-54 dBm;-52 dBm
+-55 dBm;-70 dBm;-63 dBm;-53 dBm
+-69 dBm;-55 dBm;-55 dBm;-54 dBm
+-55 dBm;-62 dBm;-55 dBm;-62 dBm
+-63 dBm;-62 dBm;-55 dBm;-55 dBm
+-55 dBm;-54 dBm;-56 dBm;-65 dBm
+-69 dBm;-69 dBm;-54 dBm;-56 dBm
+-54 dBm;-70 dBm;-54 dBm;-61 dBm
+-63 dBm;-55 dBm;-64 dBm;-50 dBm
+-54 dBm;-61 dBm;-55 dBm;-52 dBm
+-69 dBm;-54 dBm;-64 dBm;-54 dBm
+-54 dBm;-55 dBm;-55 dBm;-51 dBm
+-63 dBm;-70 dBm;-54 dBm;-53 dBm
+-55 dBm;-54 dBm;-64 dBm;-53 dBm
+-69 dBm;-62 dBm;-55 dBm;-65 dBm
+-55 dBm;-55 dBm;-63 dBm;-55 dBm
+-55 dBm;-55 dBm;-55 dBm;-55 dBm
+-63 dBm;-61 dBm;-64 dBm;-62 dBm
+-54 dBm;-62 dBm;-55 dBm;-65 dBm
+-55 dBm;-62 dBm;-64 dBm;-55 dBm
+-54 dBm;-55 dBm;-55 dBm;-62 dBm
+-68 dBm;-55 dBm;-64 dBm;-55 dBm
+-54 dBm;-54 dBm;-55 dBm;-65 dBm
+-64 dBm;-54 dBm;-63 dBm;-55 dBm
+-54 dBm;-69 dBm;-55 dBm;-55 dBm
+-55 dBm;-55 dBm;-64 dBm;-50 dBm
+-55 dBm;-62 dBm;-55 dBm;-54 dBm
+-69 dBm;-54 dBm;-55 dBm;-52 dBm
+-56 dBm;-69 dBm;-54 dBm;-63 dBm
+-64 dBm;-56 dBm;-52 dBm;-54 dBm
+-55 dBm;-62 dBm;-55 dBm;-65 dBm
+-68 dBm;-54 dBm;-63 dBm;-55 dBm
+-68 dBm;-55 dBm;-55 dBm;-61 dBm
+-55 dBm;-69 dBm;-64 dBm;-54 dBm
+-64 dBm;-55 dBm;-54 dBm;-65 dBm
+-63 dBm;-62 dBm;-63 dBm;-55 dBm
+-69 dBm;-55 dBm;-54 dBm;-62 dBm
+-55 dBm;-70 dBm;-54 dBm;-55 dBm
+-67 dBm;-55 dBm;-64 dBm;-65 dBm
+-54 dBm;-62 dBm;-54 dBm;-55 dBm
+-63 dBm;-62 dBm;-63 dBm;-62 dBm
+-55 dBm;-55 dBm;-55 dBm;-54 dBm
+-69 dBm;-69 dBm;-64 dBm;-65 dBm
+-56 dBm;-68 dBm;-54 dBm;-54 dBm
+-63 dBm;-55 dBm;-63 dBm;-62 dBm
+-69 dBm;-61 dBm;-54 dBm;-54 dBm
+-56 dBm;-55 dBm;-64 dBm;-65 dBm
+-63 dBm;-71 dBm;-55 dBm;-55 dBm
+-54 dBm;-55 dBm;-54 dBm;-61 dBm
+-54 dBm;-61 dBm;-63 dBm;-54 dBm
+-69 dBm;-62 dBm;-53 dBm;-65 dBm
+-54 dBm;-54 dBm;-65 dBm;-65 dBm
+-63 dBm;-54 dBm;-55 dBm;-61 dBm
+-55 dBm;-54 dBm;-63 dBm;-55 dBm
+-69 dBm;-54 dBm;-54 dBm;-61 dBm
+-54 dBm;-54 dBm;-65 dBm;-55 dBm
+-64 dBm;-54 dBm;-55 dBm;-65 dBm
+-54 dBm;-54 dBm;-63 dBm;-55 dBm
+-54 dBm;-69 dBm;-54 dBm;-62 dBm
+-63 dBm;-68 dBm;-64 dBm;-55 dBm
+-54 dBm;-54 dBm;-55 dBm;-65 dBm
+-69 dBm;-61 dBm;-55 dBm;-55 dBm
+-54 dBm;-54 dBm;-63 dBm;-62 dBm
+-55 dBm;-62 dBm;-56 dBm;-54 dBm
+-55 dBm;-55 dBm;-65 dBm;-55 dBm
+-54 dBm;-55 dBm;-54 dBm;-55 dBm
+-54 dBm;-54 dBm;-62 dBm;-65 dBm
+-63 dBm;-55 dBm;-55 dBm;-55 dBm
+-55 dBm;-56 dBm;-65 dBm;-63 dBm
+-69 dBm;-68 dBm;-54 dBm;-54 dBm
+-55 dBm;-54 dBm;-62 dBm;-55 dBm
+-62 dBm;-62 dBm;-54 dBm;-65 dBm
+-54 dBm;-56 dBm;-65 dBm;-55 dBm
+-54 dBm;-69 dBm;-54 dBm;-61 dBm
+-55 dBm;-55 dBm;-63 dBm;-55 dBm
+-55 dBm;-62 dBm;-52 dBm;-65 dBm
+-69 dBm;-62 dBm;-65 dBm;-55 dBm
+-55 dBm;-54 dBm;-54 dBm;-63 dBm
+-54 dBm;-69 dBm;-63 dBm;-54 dBm
+-54 dBm;-56 dBm;-55 dBm;-55 dBm
+-55 dBm;-62 dBm;-65 dBm;-55 dBm
+-55 dBm;-55 dBm;-55 dBm;-56 dBm
+-63 dBm;-70 dBm;-54 dBm;-65 dBm
+-55 dBm;-55 dBm;-54 dBm;-50 dBm
+-54 dBm;-61 dBm;-63 dBm;-53 dBm
+-52 dBm;-63 dBm;-55 dBm;-53 dBm
+-55 dBm;-55 dBm;-65 dBm;-54 dBm
+-52 dBm;-70 dBm;-55 dBm;-63 dBm
+-69 dBm;-55 dBm;-64 dBm;-52 dBm
+-56 dBm;-62 dBm;-54 dBm;-65 dBm
+-62 dBm;-61 dBm;-65 dBm;-54 dBm
+-54 dBm;-54 dBm;-54 dBm;-62 dBm
+-55 dBm;-54 dBm;-62 dBm;-62 dBm
+-54 dBm;-70 dBm;-55 dBm;-61 dBm
+-54 dBm;-55 dBm;-65 dBm;-53 dBm
+-70 dBm;-62 dBm;-54 dBm;-53 dBm
+-54 dBm;-54 dBm;-62 dBm;-54 dBm
+-54 dBm;-55 dBm;-55 dBm;-61 dBm
+-54 dBm;-62 dBm;-56 dBm;-61 dBm
+-55 dBm;-55 dBm;-65 dBm;-63 dBm
+-63 dBm;-55 dBm;-55 dBm;-52 dBm
+-52 dBm;-69 dBm;-54 dBm;-65 dBm
+-69 dBm;-55 dBm;-55 dBm;-54 dBm
+-55 dBm;-61 dBm;-62 dBm;-61 dBm
+-63 dBm;-55 dBm;-54 dBm;-55 dBm
+-52 dBm;-54 dBm;-65 dBm;-65 dBm
+-55 dBm;-54 dBm;-55 dBm;-55 dBm
+-54 dBm;-54 dBm;-62 dBm;-62 dBm
+-69 dBm;-55 dBm;-54 dBm;-55 dBm
+-55 dBm;-54 dBm;-66 dBm;-65 dBm
+-63 dBm;-55 dBm;-66 dBm;-54 dBm
+-54 dBm;-73 dBm;-53 dBm;-62 dBm
+-70 dBm;-55 dBm;-61 dBm;-55 dBm
+-55 dBm;-61 dBm;-55 dBm;-66 dBm
+-64 dBm;-54 dBm;-65 dBm;-54 dBm
+-55 dBm;-55 dBm;-61 dBm;-61 dBm
+-70 dBm;-72 dBm;-54 dBm;-54 dBm
+-55 dBm;-55 dBm;-56 dBm;-65 dBm
+-63 dBm;-55 dBm;-62 dBm;-55 dBm
+-55 dBm;-62 dBm;-55 dBm;-55 dBm
+-70 dBm;-55 dBm;-66 dBm;-65 dBm
+-55 dBm;-55 dBm;-55 dBm;-55 dBm
+-69 dBm;-55 dBm;-62 dBm;-62 dBm
+-55 dBm;-68 dBm;-54 dBm;-52 dBm
+-68 dBm;-54 dBm;-66 dBm;-54 dBm
+-68 dBm;-62 dBm;-54 dBm;-65 dBm
+-55 dBm;-62 dBm;-55 dBm;-55 dBm
+-69 dBm;-62 dBm;-55 dBm;-61 dBm
+-54 dBm;-54 dBm;-51 dBm;-55 dBm
+-69 dBm;-55 dBm;-53 dBm;-66 dBm
+-54 dBm;-54 dBm;-55 dBm;-66 dBm
+-63 dBm;-54 dBm;-53 dBm;-54 dBm
+-54 dBm;-62 dBm;-54 dBm;-62 dBm
+-55 dBm;-54 dBm;-62 dBm;-55 dBm
+-70 dBm;-70 dBm;-54 dBm;-65 dBm
+-55 dBm;-55 dBm;-63 dBm;-65 dBm
+-62 dBm;-61 dBm;-55 dBm;-61 dBm
+-54 dBm;-54 dBm;-62 dBm;-54 dBm
+-69 dBm;-55 dBm;-54 dBm;-62 dBm
+-53 dBm;-69 dBm;-55 dBm;-62 dBm
+-63 dBm;-54 dBm;-56 dBm;-55 dBm
+-55 dBm;-62 dBm;-55 dBm;-61 dBm
+-70 dBm;-54 dBm;-62 dBm;-55 dBm
+-55 dBm;-54 dBm;-55 dBm;-62 dBm
+-55 dBm;-54 dBm;-62 dBm;-55 dBm
+-55 dBm;-54 dBm;-55 dBm;-61 dBm
+-54 dBm;-70 dBm;-62 dBm;-54 dBm
+-54 dBm;-55 dBm;-54 dBm;-54 dBm
+-55 dBm;-62 dBm;-64 dBm;-62 dBm
+-64 dBm;-62 dBm;-55 dBm;-62 dBm
+-55 dBm;-55 dBm;-61 dBm;-54 dBm
+-56 dBm;-70 dBm;-55 dBm;-62 dBm
+-69 dBm;-55 dBm;-55 dBm;-62 dBm
+-54 dBm;-62 dBm;-64 dBm;-53 dBm
+-63 dBm;-54 dBm;-53 dBm;-55 dBm
+-64 dBm;-54 dBm;-62 dBm;-61 dBm
+-55 dBm;-55 dBm;-54 dBm;-55 dBm
+-70 dBm;-70 dBm;-63 dBm;-62 dBm
+-54 dBm;-54 dBm;-54 dBm;-55 dBm
+-63 dBm;-62 dBm;-55 dBm;-62 dBm
+-54 dBm;-54 dBm;-62 dBm;-55 dBm
+-70 dBm;-69 dBm;-55 dBm;-61 dBm
+-55 dBm;-55 dBm;-63 dBm;-55 dBm
+-63 dBm;-62 dBm;-54 dBm;-62 dBm
+-70 dBm;-55 dBm;-61 dBm;-55 dBm
+-55 dBm;-70 dBm;-54 dBm;-62 dBm
+-63 dBm;-54 dBm;-63 dBm;-56 dBm
+-63 dBm;-62 dBm;-50 dBm;-61 dBm
+-54 dBm;-55 dBm;-48 dBm;-55 dBm
+-70 dBm;-69 dBm;-55 dBm;-62 dBm
+-69 dBm;-54 dBm;-50 dBm;-54 dBm
+-55 dBm;-61 dBm;-50 dBm;-61 dBm
+-64 dBm;-52 dBm;-53 dBm;-54 dBm
+-55 dBm;-71 dBm;-63 dBm;-62 dBm
+-70 dBm;-54 dBm;-55 dBm;-55 dBm
+-70 dBm;-61 dBm;-63 dBm;-62 dBm
+-54 dBm;-55 dBm;-55 dBm;-54 dBm
+-63 dBm;-54 dBm;-63 dBm;-62 dBm
+-55 dBm;-54 dBm;-63 dBm;-55 dBm
+-69 dBm;-55 dBm;-54 dBm;-61 dBm
+-54 dBm;-55 dBm;-62 dBm;-56 dBm
+-63 dBm;-55 dBm;-55 dBm;-63 dBm
+-54 dBm;-71 dBm;-63 dBm;-55 dBm
+-69 dBm;-54 dBm;-55 dBm;-61 dBm
+-54 dBm;-63 dBm;-62 dBm;-54 dBm
+-54 dBm;-53 dBm;-53 dBm;-63 dBm
+-54 dBm;-54 dBm;-63 dBm;-54 dBm
+-54 dBm;-62 dBm;-54 dBm;-61 dBm
+-53 dBm;-54 dBm;-62 dBm;-55 dBm
+-63 dBm;-71 dBm;-54 dBm;-63 dBm
+-56 dBm;-71 dBm;-64 dBm;-54 dBm
+-53 dBm;-71 dBm;-55 dBm;-62 dBm
+-54 dBm;-55 dBm;-62 dBm;-62 dBm
+-55 dBm;-61 dBm;-54 dBm;-55 dBm
+-54 dBm;-55 dBm;-54 dBm;-51 dBm
+-69 dBm;-55 dBm;-63 dBm;-56 dBm
+-54 dBm;-55 dBm;-55 dBm;-54 dBm
+-55 dBm;-55 dBm;-62 dBm;-63 dBm
+-54 dBm;-54 dBm;-55 dBm;-55 dBm
+-55 dBm;-71 dBm;-54 dBm;-62 dBm
+-55 dBm;-55 dBm;-55 dBm;-54 dBm
+-54 dBm;-62 dBm;-63 dBm;-63 dBm
+-63 dBm;-53 dBm;-55 dBm;-55 dBm
+-54 dBm;-55 dBm;-62 dBm;-62 dBm
+-70 dBm;-71 dBm;-54 dBm;-55 dBm
+-54 dBm;-54 dBm;-63 dBm;-63 dBm
+-63 dBm;-54 dBm;-54 dBm;-56 dBm
+-54 dBm;-62 dBm;-62 dBm;-62 dBm
+-54 dBm;-52 dBm;-55 dBm;-55 dBm
+-54 dBm;-55 dBm;-63 dBm;-63 dBm
+-53 dBm;-62 dBm;-55 dBm;-55 dBm
+-54 dBm;-53 dBm;-54 dBm;-62 dBm
+-54 dBm;-71 dBm;-54 dBm;-55 dBm
+-70 dBm;-54 dBm;-55 dBm;-63 dBm
+-53 dBm;-62 dBm;-55 dBm;-54 dBm
+-63 dBm;-54 dBm;-56 dBm;-61 dBm
+-54 dBm;-71 dBm;-55 dBm;-55 dBm
+-54 dBm;-54 dBm;-62 dBm;-55 dBm
+-55 dBm;-61 dBm;-55 dBm;-63 dBm
+-55 dBm;-62 dBm;-63 dBm;-55 dBm
+-54 dBm;-61 dBm;-55 dBm;-62 dBm
+-55 dBm;-54 dBm;-55 dBm;-61 dBm
+-70 dBm;-70 dBm;-55 dBm;-55 dBm
+-55 dBm;-52 dBm;-63 dBm;-63 dBm
+-63 dBm;-61 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-63 dBm;-62 dBm
+-54 dBm;-69 dBm;-55 dBm;-55 dBm
+-54 dBm;-54 dBm;-64 dBm;-63 dBm
+-54 dBm;-62 dBm;-55 dBm;-55 dBm
+-55 dBm;-55 dBm;-63 dBm;-63 dBm
+-52 dBm;-69 dBm;-55 dBm;-55 dBm
+-70 dBm;-54 dBm;-63 dBm;-63 dBm
+-55 dBm;-61 dBm;-54 dBm;-54 dBm
+-63 dBm;-54 dBm;-65 dBm;-61 dBm
+-54 dBm;-68 dBm;-55 dBm;-55 dBm
+-55 dBm;-52 dBm;-64 dBm;-64 dBm
+-55 dBm;-63 dBm;-56 dBm;-54 dBm
+-70 dBm;-55 dBm;-54 dBm;-62 dBm
+-55 dBm;-68 dBm;-62 dBm;-55 dBm
+-54 dBm;-54 dBm;-55 dBm;-63 dBm
+-55 dBm;-61 dBm;-63 dBm;-55 dBm
+-55 dBm;-55 dBm;-55 dBm;-62 dBm
+-63 dBm;-69 dBm;-54 dBm;-54 dBm
+-70 dBm;-54 dBm;-63 dBm;-54 dBm
+-52 dBm;-54 dBm;-55 dBm;-64 dBm
+-63 dBm;-69 dBm;-63 dBm;-55 dBm
+-55 dBm;-55 dBm;-55 dBm;-62 dBm
+-70 dBm;-62 dBm;-64 dBm;-54 dBm
+-70 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-69 dBm;-64 dBm;-64 dBm
+-52 dBm;-55 dBm;-63 dBm;-56 dBm
+-55 dBm;-61 dBm;-62 dBm;-61 dBm
+-55 dBm;-55 dBm;-63 dBm;-56 dBm
+-62 dBm;-69 dBm;-56 dBm;-64 dBm
+-63 dBm;-54 dBm;-64 dBm;-64 dBm
+-69 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-62 dBm;-63 dBm;-63 dBm
+-54 dBm;-55 dBm;-54 dBm;-62 dBm
+-54 dBm;-69 dBm;-64 dBm;-56 dBm
+-55 dBm;-55 dBm;-56 dBm;-52 dBm
+-56 dBm;-62 dBm;-64 dBm;-63 dBm
+-54 dBm;-55 dBm;-55 dBm;-55 dBm
+-71 dBm;-69 dBm;-64 dBm;-61 dBm
+-54 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-61 dBm;-63 dBm;-64 dBm
+-54 dBm;-54 dBm;-63 dBm;-55 dBm
+-54 dBm;-69 dBm;-55 dBm;-62 dBm
+-62 dBm;-55 dBm;-55 dBm;-55 dBm
+-54 dBm;-61 dBm;-63 dBm;-64 dBm
+-71 dBm;-55 dBm;-54 dBm;-55 dBm
+-55 dBm;-69 dBm;-64 dBm;-62 dBm
+-63 dBm;-55 dBm;-54 dBm;-55 dBm
+-62 dBm;-63 dBm;-64 dBm;-63 dBm
+-71 dBm;-54 dBm;-55 dBm;-54 dBm
+-55 dBm;-55 dBm;-62 dBm;-62 dBm
+-55 dBm;-69 dBm;-54 dBm;-55 dBm
+-71 dBm;-54 dBm;-63 dBm;-54 dBm
+-54 dBm;-62 dBm;-55 dBm;-63 dBm
+-54 dBm;-55 dBm;-61 dBm;-55 dBm
+-54 dBm;-56 dBm;-54 dBm;-55 dBm
+-55 dBm;-55 dBm;-64 dBm;-54 dBm
+-61 dBm;-56 dBm;-55 dBm;-61 dBm
+-54 dBm;-62 dBm;-64 dBm;-54 dBm
+-54 dBm;-55 dBm;-54 dBm;-64 dBm
+-72 dBm;-68 dBm;-55 dBm;-55 dBm
+-54 dBm;-55 dBm;-54 dBm;-61 dBm
+-62 dBm;-61 dBm;-55 dBm;-54 dBm
+-55 dBm;-55 dBm;-63 dBm;-64 dBm
+-64 dBm;-69 dBm;-54 dBm;-55 dBm
+-56 dBm;-55 dBm;-62 dBm;-62 dBm
+-62 dBm;-62 dBm;-54 dBm;-54 dBm
+-53 dBm;-56 dBm;-54 dBm;-63 dBm
+-62 dBm;-55 dBm;-64 dBm;-55 dBm
+-55 dBm;-54 dBm;-54 dBm;-62 dBm
+-71 dBm;-56 dBm;-64 dBm;-55 dBm
+-55 dBm;-55 dBm;-63 dBm;-64 dBm
+-55 dBm;-56 dBm;-54 dBm;-54 dBm
+-54 dBm;-69 dBm;-64 dBm;-63 dBm
+-60 dBm;-54 dBm;-53 dBm;-54 dBm
+-55 dBm;-63 dBm;-51 dBm;-64 dBm
+-72 dBm;-54 dBm;-52 dBm;-55 dBm
+-54 dBm;-55 dBm;-53 dBm;-62 dBm
+-62 dBm;-68 dBm;-54 dBm;-55 dBm
+-61 dBm;-54 dBm;-63 dBm;-55 dBm
+-54 dBm;-61 dBm;-55 dBm;-64 dBm
+-54 dBm;-55 dBm;-65 dBm;-63 dBm
+-72 dBm;-69 dBm;-54 dBm;-55 dBm
+-55 dBm;-55 dBm;-63 dBm;-55 dBm
+-62 dBm;-62 dBm;-55 dBm;-54 dBm
+-55 dBm;-54 dBm;-64 dBm;-54 dBm
+-54 dBm;-69 dBm;-54 dBm;-55 dBm
+-71 dBm;-54 dBm;-63 dBm;-62 dBm
+-71 dBm;-61 dBm;-55 dBm;-55 dBm
+-54 dBm;-55 dBm;-65 dBm;-64 dBm
+-68 dBm;-55 dBm;-55 dBm;-64 dBm
+-55 dBm;-68 dBm;-54 dBm;-55 dBm
+-69 dBm;-55 dBm;-55 dBm;-62 dBm
+-55 dBm;-55 dBm;-55 dBm;-52 dBm
+-54 dBm;-62 dBm;-55 dBm;-63 dBm
+-70 dBm;-55 dBm;-54 dBm;-52 dBm
+-55 dBm;-55 dBm;-63 dBm;-62 dBm
+-64 dBm;-69 dBm;-51 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-64 dBm
+-54 dBm;-62 dBm;-54 dBm;-55 dBm
+-54 dBm;-63 dBm;-65 dBm;-56 dBm
+-54 dBm;-54 dBm;-54 dBm;-55 dBm
+-55 dBm;-69 dBm;-63 dBm;-55 dBm
+-70 dBm;-69 dBm;-55 dBm;-61 dBm
+-55 dBm;-54 dBm;-65 dBm;-54 dBm
+-63 dBm;-62 dBm;-55 dBm;-63 dBm
+-55 dBm;-62 dBm;-63 dBm;-64 dBm
+-71 dBm;-62 dBm;-63 dBm;-55 dBm
+-55 dBm;-55 dBm;-55 dBm;-63 dBm
+-63 dBm;-68 dBm;-65 dBm;-55 dBm
+-55 dBm;-54 dBm;-54 dBm;-63 dBm
+-55 dBm;-62 dBm;-63 dBm;-54 dBm
+-54 dBm;-54 dBm;-55 dBm;-62 dBm
+-71 dBm;-55 dBm;-65 dBm;-54 dBm
+-54 dBm;-55 dBm;-63 dBm;-64 dBm
+-63 dBm;-69 dBm;-55 dBm;-55 dBm
+-62 dBm;-55 dBm;-64 dBm;-63 dBm
+-54 dBm;-62 dBm;-54 dBm;-54 dBm
+-69 dBm;-55 dBm;-63 dBm;-64 dBm
+-70 dBm;-68 dBm;-54 dBm;-55 dBm
+-54 dBm;-56 dBm;-65 dBm;-61 dBm
+-63 dBm;-61 dBm;-54 dBm;-55 dBm
+-55 dBm;-56 dBm;-63 dBm;-63 dBm
+-55 dBm;-69 dBm;-54 dBm;-55 dBm
+-69 dBm;-55 dBm;-65 dBm;-62 dBm
+-54 dBm;-62 dBm;-54 dBm;-54 dBm
+-63 dBm;-55 dBm;-63 dBm;-63 dBm
+-55 dBm;-69 dBm;-55 dBm;-56 dBm
+-55 dBm;-55 dBm;-64 dBm;-63 dBm
+-70 dBm;-59 dBm;-55 dBm;-54 dBm
+-54 dBm;-55 dBm;-63 dBm;-63 dBm
+-63 dBm;-69 dBm;-55 dBm;-55 dBm
+-54 dBm;-53 dBm;-65 dBm;-62 dBm
+-69 dBm;-59 dBm;-55 dBm;-53 dBm
+-54 dBm;-55 dBm;-54 dBm;-63 dBm
+-54 dBm;-72 dBm;-54 dBm;-53 dBm
+-63 dBm;-54 dBm;-54 dBm;-61 dBm
+-55 dBm;-61 dBm;-63 dBm;-55 dBm
+-69 dBm;-55 dBm;-55 dBm;-63 dBm
+-55 dBm;-71 dBm;-64 dBm;-54 dBm
+-63 dBm;-55 dBm;-55 dBm;-54 dBm
+-55 dBm;-61 dBm;-63 dBm;-63 dBm
+-54 dBm;-54 dBm;-54 dBm;-55 dBm
+-69 dBm;-69 dBm;-65 dBm;-61 dBm
+-56 dBm;-55 dBm;-54 dBm;-56 dBm
+-63 dBm;-63 dBm;-62 dBm;-63 dBm
+-55 dBm;-55 dBm;-54 dBm;-55 dBm
+-55 dBm;-70 dBm;-65 dBm;-62 dBm
+-69 dBm;-55 dBm;-55 dBm;-54 dBm
+-69 dBm;-59 dBm;-54 dBm;-61 dBm
+-56 dBm;-55 dBm;-54 dBm;-56 dBm
+-64 dBm;-68 dBm;-64 dBm;-61 dBm
+-62 dBm;-54 dBm;-55 dBm;-51 dBm
+-68 dBm;-62 dBm;-55 dBm;-51 dBm
+-63 dBm;-55 dBm;-65 dBm;-65 dBm
+-55 dBm;-55 dBm;-54 dBm;-51 dBm
+-70 dBm;-54 dBm;-63 dBm;-62 dBm
+-55 dBm;-54 dBm;-55 dBm;-54 dBm
+-63 dBm;-69 dBm;-64 dBm;-67 dBm
+-65 dBm;-55 dBm;-53 dBm;-55 dBm
+-54 dBm;-62 dBm;-54 dBm;-62 dBm
+-70 dBm;-55 dBm;-55 dBm;-50 dBm
+-55 dBm;-71 dBm;-56 dBm;-52 dBm
+-55 dBm;-55 dBm;-63 dBm;-67 dBm
+-54 dBm;-61 dBm;-55 dBm;-51 dBm
+-55 dBm;-50 dBm;-65 dBm;-61 dBm
+-62 dBm;-62 dBm;-55 dBm;-55 dBm
+-62 dBm;-55 dBm;-64 dBm;-70 dBm
+-54 dBm;-68 dBm;-54 dBm;-55 dBm
+-70 dBm;-55 dBm;-65 dBm;-60 dBm
+-70 dBm;-61 dBm;-53 dBm;-53 dBm
+-54 dBm;-54 dBm;-55 dBm;-67 dBm
+-55 dBm;-69 dBm;-63 dBm;-53 dBm
+-54 dBm;-54 dBm;-55 dBm;-60 dBm
+-62 dBm;-62 dBm;-64 dBm;-55 dBm
+-55 dBm;-55 dBm;-55 dBm;-67 dBm
+-63 dBm;-55 dBm;-64 dBm;-54 dBm
+-55 dBm;-70 dBm;-55 dBm;-59 dBm
+-55 dBm;-54 dBm;-65 dBm;-54 dBm
+-69 dBm;-62 dBm;-54 dBm;-68 dBm
+-55 dBm;-54 dBm;-63 dBm;-55 dBm
+-54 dBm;-50 dBm;-56 dBm;-54 dBm
+-63 dBm;-62 dBm;-65 dBm;-60 dBm
+-55 dBm;-54 dBm;-65 dBm;-54 dBm
+-54 dBm;-68 dBm;-60 dBm;-68 dBm
+-63 dBm;-53 dBm;-55 dBm;-54 dBm
+-55 dBm;-62 dBm;-63 dBm;-61 dBm
+-70 dBm;-56 dBm;-54 dBm;-55 dBm
+-54 dBm;-68 dBm;-65 dBm;-66 dBm
+-63 dBm;-54 dBm;-55 dBm;-54 dBm
+-70 dBm;-62 dBm;-63 dBm;-60 dBm
+-55 dBm;-55 dBm;-54 dBm;-54 dBm
+-54 dBm;-54 dBm;-65 dBm;-67 dBm
+-55 dBm;-55 dBm;-65 dBm;-54 dBm
+-54 dBm;-54 dBm;-55 dBm;-54 dBm
+-55 dBm;-69 dBm;-63 dBm;-60 dBm
+-63 dBm;-54 dBm;-55 dBm;-54 dBm
+-62 dBm;-61 dBm;-65 dBm;-67 dBm
+-55 dBm;-54 dBm;-54 dBm;-55 dBm
+-71 dBm;-55 dBm;-64 dBm;-61 dBm
+-54 dBm;-55 dBm;-55 dBm;-53 dBm
+-55 dBm;-59 dBm;-65 dBm;-67 dBm
+-64 dBm;-55 dBm;-55 dBm;-54 dBm
+-73 dBm;-68 dBm;-64 dBm;-62 dBm
+-54 dBm;-54 dBm;-54 dBm;-54 dBm
+-63 dBm;-62 dBm;-55 dBm;-67 dBm
+-56 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-55 dBm;-55 dBm;-63 dBm
+-72 dBm;-70 dBm;-54 dBm;-54 dBm
+-55 dBm;-54 dBm;-54 dBm;-67 dBm
+-63 dBm;-60 dBm;-65 dBm;-67 dBm
+-68 dBm;-61 dBm;-54 dBm;-54 dBm
+-55 dBm;-53 dBm;-64 dBm;-62 dBm
+-62 dBm;-66 dBm;-56 dBm;-54 dBm
+-50 dBm;-56 dBm;-65 dBm;-67 dBm
+-54 dBm;-61 dBm;-54 dBm;-54 dBm
+-54 dBm;-54 dBm;-64 dBm;-62 dBm
+-55 dBm;-54 dBm;-54 dBm;-54 dBm
+-55 dBm;-54 dBm;-64 dBm;-67 dBm
+-63 dBm;-54 dBm;-65 dBm;-67 dBm
+-55 dBm;-54 dBm;-54 dBm;-53 dBm
+-55 dBm;-66 dBm;-63 dBm;-60 dBm
+-55 dBm;-54 dBm;-56 dBm;-54 dBm
+-71 dBm;-61 dBm;-65 dBm;-66 dBm
+-55 dBm;-55 dBm;-54 dBm;-53 dBm
+-63 dBm;-66 dBm;-63 dBm;-61 dBm
+-52 dBm;-54 dBm;-54 dBm;-53 dBm
+-72 dBm;-54 dBm;-65 dBm;-67 dBm
+-54 dBm;-55 dBm;-55 dBm;-54 dBm
+-55 dBm;-62 dBm;-64 dBm;-62 dBm
+-63 dBm;-54 dBm;-55 dBm;-54 dBm
+-55 dBm;-67 dBm;-65 dBm;-68 dBm
+-55 dBm;-55 dBm;-55 dBm;-54 dBm
+-55 dBm;-62 dBm;-63 dBm;-61 dBm
+-55 dBm;-54 dBm;-55 dBm;-54 dBm
+-55 dBm;-55 dBm;-55 dBm;-53 dBm
+-54 dBm;-67 dBm;-65 dBm;-66 dBm
+-69 dBm;-55 dBm;-54 dBm;-53 dBm
+-55 dBm;-62 dBm;-63 dBm;-62 dBm
+-54 dBm;-55 dBm;-53 dBm;-53 dBm
+-63 dBm;-61 dBm;-65 dBm;-54 dBm
+-70 dBm;-55 dBm;-55 dBm;-53 dBm
+-54 dBm;-68 dBm;-63 dBm;-54 dBm
+-54 dBm;-55 dBm;-54 dBm;-67 dBm
+-53 dBm;-62 dBm;-65 dBm;-53 dBm
+-63 dBm;-55 dBm;-65 dBm;-61 dBm
+-54 dBm;-69 dBm;-58 dBm;-53 dBm
+-54 dBm;-54 dBm;-63 dBm;-67 dBm
+-70 dBm;-61 dBm;-63 dBm;-67 dBm
+-70 dBm;-54 dBm;-54 dBm;-64 dBm
+-55 dBm;-55 dBm;-65 dBm;-64 dBm
+-63 dBm;-69 dBm;-54 dBm;-52 dBm
+-70 dBm;-54 dBm;-55 dBm;-61 dBm
+-55 dBm;-61 dBm;-64 dBm;-52 dBm
+-55 dBm;-55 dBm;-54 dBm;-67 dBm
+-64 dBm;-70 dBm;-65 dBm;-53 dBm
+-55 dBm;-54 dBm;-54 dBm;-61 dBm
+-70 dBm;-62 dBm;-63 dBm;-53 dBm
+-54 dBm;-54 dBm;-55 dBm;-67 dBm
+-54 dBm;-62 dBm;-65 dBm;-53 dBm
+-54 dBm;-55 dBm;-55 dBm;-61 dBm
+-54 dBm;-55 dBm;-63 dBm;-55 dBm
+-63 dBm;-70 dBm;-55 dBm;-66 dBm
+-55 dBm;-54 dBm;-59 dBm;-56 dBm
+-70 dBm;-60 dBm;-54 dBm;-61 dBm
+-63 dBm;-61 dBm;-65 dBm;-55 dBm
+-54 dBm;-55 dBm;-55 dBm;-64 dBm
+-55 dBm;-55 dBm;-63 dBm;-55 dBm
+-69 dBm;-55 dBm;-54 dBm;-61 dBm
+-55 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-69 dBm;-52 dBm;-53 dBm
+-63 dBm;-55 dBm;-55 dBm;-64 dBm
+-54 dBm;-61 dBm;-65 dBm;-54 dBm
+-53 dBm;-62 dBm;-54 dBm;-62 dBm
+-54 dBm;-62 dBm;-63 dBm;-55 dBm
+-54 dBm;-55 dBm;-54 dBm;-63 dBm
+-54 dBm;-69 dBm;-65 dBm;-54 dBm
+-54 dBm;-54 dBm;-65 dBm;-62 dBm
+-54 dBm;-63 dBm;-54 dBm;-55 dBm
+-71 dBm;-55 dBm;-63 dBm;-64 dBm
+-54 dBm;-70 dBm;-55 dBm;-54 dBm
+-63 dBm;-55 dBm;-65 dBm;-62 dBm
+-55 dBm;-61 dBm;-65 dBm;-63 dBm
+-54 dBm;-54 dBm;-54 dBm;-62 dBm
+-55 dBm;-70 dBm;-63 dBm;-55 dBm
+-55 dBm;-70 dBm;-55 dBm;-64 dBm
+-56 dBm;-54 dBm;-54 dBm;-64 dBm
+-71 dBm;-61 dBm;-65 dBm;-55 dBm
+-56 dBm;-55 dBm;-54 dBm;-59 dBm
+-63 dBm;-55 dBm;-55 dBm;-55 dBm
+-54 dBm;-54 dBm;-63 dBm;-64 dBm
+-54 dBm;-71 dBm;-55 dBm;-55 dBm
+-55 dBm;-54 dBm;-54 dBm;-61 dBm
+-55 dBm;-62 dBm;-55 dBm;-56 dBm
+-54 dBm;-55 dBm;-65 dBm;-64 dBm
+-54 dBm;-55 dBm;-54 dBm;-64 dBm
+-71 dBm;-68 dBm;-54 dBm;-61 dBm
+-71 dBm;-55 dBm;-55 dBm;-54 dBm
+-71 dBm;-62 dBm;-63 dBm;-60 dBm
+-54 dBm;-55 dBm;-55 dBm;-54 dBm
+-54 dBm;-55 dBm;-65 dBm;-61 dBm
+-54 dBm;-55 dBm;-55 dBm;-54 dBm
+-54 dBm;-68 dBm;-64 dBm;-62 dBm
+-63 dBm;-55 dBm;-55 dBm;-54 dBm
+-54 dBm;-61 dBm;-65 dBm;-63 dBm
+-71 dBm;-54 dBm;-55 dBm;-55 dBm
+-54 dBm;-54 dBm;-55 dBm;-61 dBm
+-62 dBm;-54 dBm;-65 dBm;-55 dBm
+-54 dBm;-55 dBm;-66 dBm;-62 dBm
+-71 dBm;-55 dBm;-55 dBm;-55 dBm
+-55 dBm;-69 dBm;-62 dBm;-61 dBm
+-65 dBm;-54 dBm;-55 dBm;-54 dBm
+-55 dBm;-61 dBm;-53 dBm;-64 dBm
+-71 dBm;-55 dBm;-54 dBm;-55 dBm
+-54 dBm;-55 dBm;-65 dBm;-60 dBm
+-63 dBm;-55 dBm;-54 dBm;-54 dBm
+-55 dBm;-55 dBm;-61 dBm;-54 dBm
+-70 dBm;-69 dBm;-55 dBm;-54 dBm
+-54 dBm;-54 dBm;-65 dBm;-53 dBm
+-54 dBm;-61 dBm;-54 dBm;-53 dBm
+-64 dBm;-54 dBm;-61 dBm;-54 dBm
+-55 dBm;-70 dBm;-55 dBm;-54 dBm
+-70 dBm;-55 dBm;-65 dBm;-55 dBm
+-54 dBm;-62 dBm;-65 dBm;-54 dBm
+-64 dBm;-54 dBm;-55 dBm;-53 dBm
+-54 dBm;-69 dBm;-61 dBm;-54 dBm
+-69 dBm;-55 dBm;-55 dBm;-50 dBm
+-55 dBm;-62 dBm;-65 dBm;-54 dBm
+-54 dBm;-56 dBm;-55 dBm;-52 dBm
+-54 dBm;-71 dBm;-60 dBm;-54 dBm
+-63 dBm;-55 dBm;-55 dBm;-63 dBm
+-55 dBm;-62 dBm;-55 dBm;-63 dBm
+-54 dBm;-54 dBm;-55 dBm;-62 dBm
+-55 dBm;-70 dBm;-55 dBm;-54 dBm
+-54 dBm;-55 dBm;-65 dBm;-59 dBm
+-54 dBm;-62 dBm;-55 dBm;-53 dBm
+-54 dBm;-54 dBm;-60 dBm;-63 dBm
+-69 dBm;-69 dBm;-65 dBm;-53 dBm
+-54 dBm;-55 dBm;-50 dBm;-60 dBm
+-55 dBm;-62 dBm;-52 dBm;-53 dBm
+-63 dBm;-55 dBm;-53 dBm;-63 dBm
+-55 dBm;-55 dBm;-54 dBm;-53 dBm
+-55 dBm;-55 dBm;-52 dBm;-53 dBm
+-69 dBm;-54 dBm;-68 dBm;-60 dBm
+-55 dBm;-55 dBm;-55 dBm;-53 dBm
+-63 dBm;-54 dBm;-65 dBm;-63 dBm
+-55 dBm;-55 dBm;-54 dBm;-62 dBm
+-69 dBm;-55 dBm;-62 dBm;-62 dBm
+-53 dBm;-68 dBm;-56 dBm;-62 dBm
+-54 dBm;-68 dBm;-65 dBm;-51 dBm
+-54 dBm;-55 dBm;-55 dBm;-51 dBm
+-55 dBm;-61 dBm;-61 dBm;-63 dBm
+-53 dBm;-54 dBm;-55 dBm;-51 dBm
+-64 dBm;-68 dBm;-65 dBm;-62 dBm
+-54 dBm;-55 dBm;-55 dBm;-55 dBm
+-54 dBm;-68 dBm;-61 dBm;-62 dBm
+-55 dBm;-62 dBm;-55 dBm;-55 dBm
+-69 dBm;-55 dBm;-65 dBm;-62 dBm
+-55 dBm;-68 dBm;-55 dBm;-49 dBm
+-55 dBm;-54 dBm;-61 dBm;-63 dBm
+-63 dBm;-55 dBm;-55 dBm;-50 dBm
+-54 dBm;-55 dBm;-65 dBm;-62 dBm
+-55 dBm;-55 dBm;-55 dBm;-49 dBm
+-68 dBm;-55 dBm;-55 dBm;-63 dBm
+-54 dBm;-55 dBm;-62 dBm;-49 dBm
+-62 dBm;-55 dBm;-55 dBm;-62 dBm
+-62 dBm;-68 dBm;-65 dBm;-55 dBm
+-54 dBm;-55 dBm;-56 dBm;-62 dBm
+-69 dBm;-61 dBm;-62 dBm;-55 dBm
+-55 dBm;-54 dBm;-55 dBm;-61 dBm
+-55 dBm;-54 dBm;-65 dBm;-52 dBm
+-64 dBm;-68 dBm;-54 dBm;-52 dBm
+-55 dBm;-55 dBm;-62 dBm;-52 dBm
+-69 dBm;-61 dBm;-55 dBm;-52 dBm
+-55 dBm;-54 dBm;-65 dBm;-63 dBm
+-64 dBm;-55 dBm;-55 dBm;-63 dBm
+-55 dBm;-68 dBm;-55 dBm;-53 dBm
+-69 dBm;-54 dBm;-54 dBm;-62 dBm
+-64 dBm;-61 dBm;-63 dBm;-53 dBm
+-54 dBm;-55 dBm;-55 dBm;-63 dBm
+-69 dBm;-54 dBm;-65 dBm;-53 dBm
+-54 dBm;-69 dBm;-55 dBm;-62 dBm
+-63 dBm;-55 dBm;-62 dBm;-53 dBm
+-54 dBm;-55 dBm;-55 dBm;-62 dBm
+-69 dBm;-54 dBm;-65 dBm;-62 dBm
+-56 dBm;-62 dBm;-54 dBm;-54 dBm
+-63 dBm;-55 dBm;-61 dBm;-62 dBm
+-55 dBm;-68 dBm;-55 dBm;-56 dBm
+-69 dBm;-54 dBm;-65 dBm;-64 dBm
+-54 dBm;-62 dBm;-53 dBm;-64 dBm
+-63 dBm;-55 dBm;-63 dBm;-63 dBm
+-55 dBm;-55 dBm;-55 dBm;-54 dBm
+-69 dBm;-69 dBm;-65 dBm;-63 dBm
+-55 dBm;-54 dBm;-55 dBm;-52 dBm
+-63 dBm;-61 dBm;-54 dBm;-64 dBm
+-55 dBm;-55 dBm;-62 dBm;-53 dBm
+-69 dBm;-54 dBm;-54 dBm;-53 dBm
+-54 dBm;-68 dBm;-65 dBm;-61 dBm
+-63 dBm;-54 dBm;-54 dBm;-55 dBm
+-55 dBm;-61 dBm;-54 dBm;-64 dBm
+-55 dBm;-62 dBm;-51 dBm;-56 dBm
+-54 dBm;-54 dBm;-50 dBm;-61 dBm
+-70 dBm;-69 dBm;-50 dBm;-53 dBm
+-54 dBm;-55 dBm;-53 dBm;-64 dBm
+-54 dBm;-68 dBm;-62 dBm;-55 dBm
+-56 dBm;-62 dBm;-55 dBm;-61 dBm
+-63 dBm;-55 dBm;-65 dBm;-53 dBm
+-55 dBm;-69 dBm;-55 dBm;-64 dBm
+-68 dBm;-54 dBm;-61 dBm;-56 dBm
+-55 dBm;-62 dBm;-53 dBm;-61 dBm
+-63 dBm;-55 dBm;-65 dBm;-56 dBm
+-55 dBm;-69 dBm;-54 dBm;-65 dBm
+-68 dBm;-55 dBm;-61 dBm;-55 dBm
+-54 dBm;-62 dBm;-65 dBm;-61 dBm
+-56 dBm;-62 dBm;-55 dBm;-55 dBm
+-54 dBm;-55 dBm;-61 dBm;-56 dBm
+-55 dBm;-54 dBm;-55 dBm;-64 dBm
+-63 dBm;-55 dBm;-65 dBm;-56 dBm
+-63 dBm;-54 dBm;-55 dBm;-56 dBm
+-55 dBm;-55 dBm;-62 dBm;-61 dBm
+-54 dBm;-69 dBm;-55 dBm;-56 dBm
+-54 dBm;-54 dBm;-65 dBm;-64 dBm
+-54 dBm;-62 dBm;-55 dBm;-55 dBm
+-54 dBm;-54 dBm;-61 dBm;-61 dBm
+-69 dBm;-54 dBm;-54 dBm;-55 dBm
+-54 dBm;-54 dBm;-65 dBm;-64 dBm
+-54 dBm;-54 dBm;-55 dBm;-64 dBm
+-54 dBm;-54 dBm;-63 dBm;-55 dBm
+-53 dBm;-54 dBm;-60 dBm;-60 dBm
+-51 dBm;-69 dBm;-53 dBm;-53 dBm
+-55 dBm;-54 dBm;-54 dBm;-52 dBm
+-54 dBm;-62 dBm;-52 dBm;-65 dBm
+-54 dBm;-55 dBm;-51 dBm;-52 dBm
+-55 dBm;-70 dBm;-57 dBm;-61 dBm
+-69 dBm;-54 dBm;-55 dBm;-54 dBm
+-52 dBm;-62 dBm;-65 dBm;-63 dBm
+-53 dBm;-55 dBm;-55 dBm;-54 dBm
+-53 dBm;-54 dBm;-61 dBm;-64 dBm
+-53 dBm;-54 dBm;-55 dBm;-50 dBm
+-52 dBm;-54 dBm;-65 dBm;-55 dBm
+-64 dBm;-70 dBm;-54 dBm;-53 dBm
+-69 dBm;-54 dBm;-62 dBm;-54 dBm
+-56 dBm;-62 dBm;-55 dBm;-62 dBm
+-63 dBm;-54 dBm;-65 dBm;-63 dBm
+-55 dBm;-69 dBm;-51 dBm;-54 dBm
+-69 dBm;-55 dBm;-62 dBm;-62 dBm
+-55 dBm;-62 dBm;-55 dBm;-54 dBm
+-63 dBm;-55 dBm;-61 dBm;-63 dBm
+-55 dBm;-54 dBm;-56 dBm;-53 dBm
+-69 dBm;-54 dBm;-63 dBm;-61 dBm
+-54 dBm;-69 dBm;-54 dBm;-53 dBm
+-64 dBm;-54 dBm;-61 dBm;-64 dBm
+-55 dBm;-55 dBm;-55 dBm;-55 dBm
+-55 dBm;-55 dBm;-63 dBm;-61 dBm
+-69 dBm;-55 dBm;-55 dBm;-55 dBm
+-69 dBm;-54 dBm;-62 dBm;-63 dBm
+-68 dBm;-55 dBm;-54 dBm;-55 dBm
+-55 dBm;-62 dBm;-63 dBm;-61 dBm
+-63 dBm;-63 dBm;-56 dBm;-54 dBm
+-54 dBm;-62 dBm;-62 dBm;-62 dBm
+-69 dBm;-55 dBm;-55 dBm;-54 dBm
+-54 dBm;-55 dBm;-56 dBm;-61 dBm
+-54 dBm;-69 dBm;-55 dBm;-55 dBm
+-54 dBm;-55 dBm;-62 dBm;-62 dBm
+-55 dBm;-61 dBm;-54 dBm;-54 dBm
+-55 dBm;-54 dBm;-54 dBm;-61 dBm
+-54 dBm;-69 dBm;-54 dBm;-62 dBm
+-62 dBm;-55 dBm;-62 dBm;-54 dBm
+-54 dBm;-61 dBm;-54 dBm;-63 dBm
+-69 dBm;-55 dBm;-64 dBm;-56 dBm
+-54 dBm;-69 dBm;-55 dBm;-62 dBm
+-63 dBm;-55 dBm;-61 dBm;-54 dBm
+-55 dBm;-61 dBm;-55 dBm;-63 dBm
+-68 dBm;-54 dBm;-65 dBm;-54 dBm
+-56 dBm;-69 dBm;-55 dBm;-63 dBm
+-54 dBm;-54 dBm;-55 dBm;-55 dBm
+-63 dBm;-62 dBm;-62 dBm;-53 dBm
+-54 dBm;-54 dBm;-54 dBm;-62 dBm
+-68 dBm;-53 dBm;-64 dBm;-55 dBm
+-55 dBm;-54 dBm;-55 dBm;-63 dBm
+-64 dBm;-54 dBm;-62 dBm;-55 dBm
+-69 dBm;-68 dBm;-55 dBm;-62 dBm
+-52 dBm;-54 dBm;-55 dBm;-55 dBm
+-56 dBm;-61 dBm;-56 dBm;-63 dBm
+-54 dBm;-54 dBm;-63 dBm;-54 dBm
+-57 dBm;-54 dBm;-55 dBm;-63 dBm
+-52 dBm;-55 dBm;-62 dBm;-54 dBm
+-64 dBm;-68 dBm;-54 dBm;-63 dBm
+-55 dBm;-55 dBm;-63 dBm;-54 dBm
+-67 dBm;-54 dBm;-54 dBm;-63 dBm
+-55 dBm;-54 dBm;-62 dBm;-62 dBm
+-62 dBm;-62 dBm;-54 dBm;-55 dBm
+-70 dBm;-55 dBm;-63 dBm;-64 dBm
+-54 dBm;-69 dBm;-69 dBm;-52 dBm
+-62 dBm;-69 dBm;-55 dBm;-61 dBm
+-55 dBm;-54 dBm;-62 dBm;-54 dBm
+-55 dBm;-61 dBm;-54 dBm;-64 dBm
+-68 dBm;-54 dBm;-63 dBm;-55 dBm
+-68 dBm;-69 dBm;-55 dBm;-62 dBm
+-52 dBm;-55 dBm;-63 dBm;-55 dBm
+-55 dBm;-62 dBm;-55 dBm;-64 dBm
+-54 dBm;-55 dBm;-64 dBm;-54 dBm
+-55 dBm;-69 dBm;-55 dBm;-62 dBm
+-62 dBm;-54 dBm;-63 dBm;-52 dBm
+-72 dBm;-61 dBm;-55 dBm;-63 dBm
+-56 dBm;-62 dBm;-64 dBm;-63 dBm
+-62 dBm;-54 dBm;-55 dBm;-54 dBm
+-56 dBm;-69 dBm;-54 dBm;-62 dBm
+-55 dBm;-55 dBm;-55 dBm;-54 dBm
+-68 dBm;-61 dBm;-55 dBm;-63 dBm
+-54 dBm;-55 dBm;-55 dBm;-54 dBm
+-60 dBm;-69 dBm;-66 dBm;-61 dBm
+-55 dBm;-55 dBm;-54 dBm;-56 dBm
+-54 dBm;-63 dBm;-63 dBm;-64 dBm
+-70 dBm;-55 dBm;-55 dBm;-63 dBm
+-54 dBm;-69 dBm;-68 dBm;-55 dBm
+-60 dBm;-55 dBm;-55 dBm;-62 dBm
+-55 dBm;-62 dBm;-63 dBm;-54 dBm
+-69 dBm;-54 dBm;-55 dBm;-55 dBm
+-55 dBm;-70 dBm;-55 dBm;-62 dBm
+-60 dBm;-70 dBm;-71 dBm;-54 dBm
+-68 dBm;-62 dBm;-55 dBm;-64 dBm
+-54 dBm;-55 dBm;-63 dBm;-54 dBm
+-54 dBm;-69 dBm;-55 dBm;-51 dBm
+-70 dBm;-54 dBm;-55 dBm;-53 dBm
+-70 dBm;-62 dBm;-55 dBm;-50 dBm
+-55 dBm;-54 dBm;-55 dBm;-52 dBm
+-55 dBm;-68 dBm;-66 dBm;-51 dBm
+-63 dBm;-54 dBm;-55 dBm;-53 dBm
+-51 dBm;-61 dBm;-63 dBm;-52 dBm
+-54 dBm;-62 dBm;-56 dBm;-53 dBm
+-54 dBm;-54 dBm;-66 dBm;-51 dBm
+-55 dBm;-55 dBm;-55 dBm;-52 dBm
+-54 dBm;-69 dBm;-63 dBm;-55 dBm
+-54 dBm;-55 dBm;-55 dBm;-62 dBm
+-61 dBm;-63 dBm;-55 dBm;-61 dBm
+-55 dBm;-52 dBm;-63 dBm;-51 dBm
+-55 dBm;-69 dBm;-54 dBm;-54 dBm
+-61 dBm;-55 dBm;-66 dBm;-52 dBm
+-55 dBm;-60 dBm;-55 dBm;-50 dBm
+-70 dBm;-52 dBm;-63 dBm;-49 dBm
+-55 dBm;-68 dBm;-54 dBm;-50 dBm
+-62 dBm;-55 dBm;-64 dBm;-61 dBm
+-51 dBm;-62 dBm;-54 dBm;-51 dBm
+-54 dBm;-54 dBm;-54 dBm;-63 dBm
+-53 dBm;-53 dBm;-53 dBm;-63 dBm
+-62 dBm;-68 dBm;-63 dBm;-53 dBm
+-54 dBm;-68 dBm;-54 dBm;-64 dBm
+-69 dBm;-53 dBm;-54 dBm;-54 dBm
+-55 dBm;-64 dBm;-63 dBm;-62 dBm
+-63 dBm;-55 dBm;-55 dBm;-62 dBm
+-54 dBm;-55 dBm;-63 dBm;-61 dBm
+-55 dBm;-55 dBm;-54 dBm;-55 dBm
+-63 dBm;-55 dBm;-63 dBm;-62 dBm
+-56 dBm;-55 dBm;-54 dBm;-55 dBm
+-55 dBm;-55 dBm;-54 dBm;-62 dBm
+-55 dBm;-55 dBm;-55 dBm;-54 dBm
+-69 dBm;-68 dBm;-54 dBm;-54 dBm
+-55 dBm;-52 dBm;-55 dBm;-53 dBm
+-62 dBm;-62 dBm;-64 dBm;-53 dBm
+-55 dBm;-51 dBm;-54 dBm;-51 dBm
+-61 dBm;-69 dBm;-54 dBm;-51 dBm
+-55 dBm;-53 dBm;-55 dBm;-52 dBm
+-56 dBm;-60 dBm;-63 dBm;-50 dBm
+-69 dBm;-54 dBm;-55 dBm;-62 dBm
+-55 dBm;-69 dBm;-64 dBm;-62 dBm
+-62 dBm;-54 dBm;-55 dBm;-61 dBm
+-54 dBm;-60 dBm;-63 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-55 dBm
+-55 dBm;-69 dBm;-64 dBm;-63 dBm
+-52 dBm;-55 dBm;-55 dBm;-54 dBm
+-55 dBm;-60 dBm;-54 dBm;-62 dBm
+-70 dBm;-53 dBm;-63 dBm;-54 dBm
+-54 dBm;-70 dBm;-55 dBm;-54 dBm
+-62 dBm;-54 dBm;-64 dBm;-61 dBm
+-67 dBm;-60 dBm;-54 dBm;-54 dBm
+-63 dBm;-55 dBm;-63 dBm;-63 dBm
+-63 dBm;-70 dBm;-54 dBm;-55 dBm
+-61 dBm;-55 dBm;-63 dBm;-61 dBm
+-55 dBm;-61 dBm;-55 dBm;-54 dBm
+-56 dBm;-54 dBm;-55 dBm;-64 dBm
+-55 dBm;-54 dBm;-64 dBm;-55 dBm
+-54 dBm;-54 dBm;-55 dBm;-61 dBm
+-53 dBm;-54 dBm;-63 dBm;-55 dBm
+-55 dBm;-53 dBm;-54 dBm;-63 dBm
+-65 dBm;-70 dBm;-64 dBm;-54 dBm
+-54 dBm;-54 dBm;-55 dBm;-63 dBm
+-53 dBm;-60 dBm;-64 dBm;-54 dBm
+-54 dBm;-54 dBm;-55 dBm;-55 dBm
+-54 dBm;-70 dBm;-64 dBm;-55 dBm
+-54 dBm;-54 dBm;-55 dBm;-63 dBm
+-61 dBm;-60 dBm;-55 dBm;-55 dBm
+-55 dBm;-62 dBm;-55 dBm;-62 dBm
+-54 dBm;-54 dBm;-55 dBm;-54 dBm
+-61 dBm;-54 dBm;-55 dBm;-54 dBm
+-54 dBm;-55 dBm;-54 dBm;-63 dBm
+-68 dBm;-54 dBm;-63 dBm;-55 dBm
+-54 dBm;-53 dBm;-55 dBm;-62 dBm
+-61 dBm;-69 dBm;-64 dBm;-54 dBm
+-68 dBm;-70 dBm;-54 dBm;-63 dBm
+-55 dBm;-70 dBm;-63 dBm;-54 dBm
+-62 dBm;-70 dBm;-55 dBm;-61 dBm
+-53 dBm;-69 dBm;-64 dBm;-55 dBm
+-61 dBm;-55 dBm;-55 dBm;-63 dBm
+-55 dBm;-61 dBm;-64 dBm;-55 dBm
+-55 dBm;-55 dBm;-55 dBm;-62 dBm
+-69 dBm;-55 dBm;-56 dBm;-53 dBm
+-55 dBm;-55 dBm;-64 dBm;-61 dBm
+-54 dBm;-68 dBm;-55 dBm;-60 dBm
+-63 dBm;-53 dBm;-64 dBm;-54 dBm
+-55 dBm;-62 dBm;-55 dBm;-55 dBm
+-55 dBm;-55 dBm;-64 dBm;-50 dBm
+-52 dBm;-55 dBm;-56 dBm;-50 dBm
+-63 dBm;-69 dBm;-55 dBm;-51 dBm
+-55 dBm;-55 dBm;-64 dBm;-53 dBm
+-55 dBm;-62 dBm;-55 dBm;-51 dBm
+-54 dBm;-54 dBm;-64 dBm;-50 dBm
+-55 dBm;-55 dBm;-54 dBm;-54 dBm
+-68 dBm;-54 dBm;-63 dBm;-62 dBm
+-54 dBm;-69 dBm;-63 dBm;-54 dBm
+-54 dBm;-54 dBm;-55 dBm;-62 dBm
+-54 dBm;-63 dBm;-64 dBm;-54 dBm
+-53 dBm;-53 dBm;-55 dBm;-50 dBm
+-54 dBm;-68 dBm;-63 dBm;-48 dBm
+-62 dBm;-55 dBm;-54 dBm;-50 dBm
+-54 dBm;-62 dBm;-64 dBm;-51 dBm
+-55 dBm;-61 dBm;-55 dBm;-52 dBm
+-70 dBm;-53 dBm;-64 dBm;-52 dBm
+-54 dBm;-70 dBm;-55 dBm;-54 dBm
+-62 dBm;-69 dBm;-64 dBm;-61 dBm
+-63 dBm;-55 dBm;-55 dBm;-53 dBm
+-55 dBm;-61 dBm;-55 dBm;-61 dBm
+-70 dBm;-54 dBm;-52 dBm;-54 dBm
+-70 dBm;-70 dBm;-52 dBm;-62 dBm
+-54 dBm;-54 dBm;-63 dBm;-54 dBm
+-55 dBm;-53 dBm;-55 dBm;-61 dBm
+-55 dBm;-69 dBm;-64 dBm;-55 dBm
+-62 dBm;-53 dBm;-55 dBm;-55 dBm
+-69 dBm;-62 dBm;-63 dBm;-55 dBm
+-54 dBm;-53 dBm;-55 dBm;-54 dBm
+-63 dBm;-52 dBm;-63 dBm;-54 dBm
+-69 dBm;-69 dBm;-56 dBm;-51 dBm
+-54 dBm;-53 dBm;-54 dBm;-53 dBm
+-63 dBm;-53 dBm;-55 dBm;-55 dBm
+-55 dBm;-54 dBm;-63 dBm;-55 dBm
+-69 dBm;-61 dBm;-53 dBm;-55 dBm
+-55 dBm;-62 dBm;-64 dBm;-55 dBm
+-63 dBm;-53 dBm;-54 dBm;-61 dBm
+-70 dBm;-69 dBm;-54 dBm;-54 dBm
+-54 dBm;-53 dBm;-55 dBm;-63 dBm
+-64 dBm;-62 dBm;-54 dBm;-63 dBm
+-54 dBm;-52 dBm;-63 dBm;-55 dBm
+-54 dBm;-69 dBm;-55 dBm;-62 dBm
+-71 dBm;-54 dBm;-64 dBm;-54 dBm
+-55 dBm;-62 dBm;-64 dBm;-63 dBm
+-64 dBm;-54 dBm;-55 dBm;-55 dBm
+-55 dBm;-69 dBm;-54 dBm;-62 dBm
+-63 dBm;-69 dBm;-63 dBm;-54 dBm
+-54 dBm;-53 dBm;-54 dBm;-64 dBm
+-69 dBm;-62 dBm;-63 dBm;-55 dBm
+-54 dBm;-53 dBm;-55 dBm;-61 dBm
+-63 dBm;-69 dBm;-54 dBm;-54 dBm
+-69 dBm;-53 dBm;-64 dBm;-54 dBm
+-55 dBm;-62 dBm;-64 dBm;-65 dBm
+-64 dBm;-56 dBm;-55 dBm;-65 dBm
+-55 dBm;-68 dBm;-55 dBm;-55 dBm
+-69 dBm;-56 dBm;-63 dBm;-61 dBm
+-55 dBm;-63 dBm;-55 dBm;-56 dBm
+-63 dBm;-54 dBm;-63 dBm;-65 dBm
+-55 dBm;-54 dBm;-55 dBm;-55 dBm
+-70 dBm;-53 dBm;-67 dBm;-62 dBm
+-54 dBm;-54 dBm;-56 dBm;-53 dBm
+-63 dBm;-68 dBm;-64 dBm;-65 dBm
+-55 dBm;-54 dBm;-64 dBm;-53 dBm
+-64 dBm;-62 dBm;-54 dBm;-58 dBm
+-52 dBm;-56 dBm;-68 dBm;-53 dBm
+-53 dBm;-53 dBm;-54 dBm;-65 dBm
+-53 dBm;-55 dBm;-64 dBm;-54 dBm
+-52 dBm;-69 dBm;-54 dBm;-60 dBm
+-53 dBm;-56 dBm;-70 dBm;-54 dBm
+-67 dBm;-55 dBm;-54 dBm;-64 dBm
+-54 dBm;-55 dBm;-64 dBm;-54 dBm
+-69 dBm;-54 dBm;-54 dBm;-59 dBm
+-55 dBm;-64 dBm;-54 dBm;-54 dBm
+-69 dBm;-54 dBm;-55 dBm;-65 dBm
+-54 dBm;-69 dBm;-61 dBm;-53 dBm
+-55 dBm;-55 dBm;-54 dBm;-60 dBm
+-69 dBm;-61 dBm;-56 dBm;-56 dBm
+-55 dBm;-54 dBm;-55 dBm;-65 dBm
+-68 dBm;-55 dBm;-49 dBm;-65 dBm
+-54 dBm;-69 dBm;-54 dBm;-55 dBm
+-54 dBm;-54 dBm;-54 dBm;-59 dBm
+-68 dBm;-62 dBm;-53 dBm;-55 dBm
+-55 dBm;-55 dBm;-53 dBm;-65 dBm
+-55 dBm;-69 dBm;-55 dBm;-65 dBm
+-68 dBm;-55 dBm;-64 dBm;-55 dBm
+-56 dBm;-50 dBm;-54 dBm;-58 dBm
+-55 dBm;-56 dBm;-55 dBm;-56 dBm
+-56 dBm;-60 dBm;-55 dBm;-65 dBm
+-55 dBm;-54 dBm;-54 dBm;-55 dBm
+-66 dBm;-70 dBm;-64 dBm;-59 dBm
+-55 dBm;-54 dBm;-55 dBm;-53 dBm
+-55 dBm;-61 dBm;-55 dBm;-55 dBm
+-56 dBm;-54 dBm;-55 dBm;-54 dBm
+-55 dBm;-54 dBm;-54 dBm;-53 dBm
+-55 dBm;-55 dBm;-55 dBm;-54 dBm
+-69 dBm;-54 dBm;-56 dBm;-55 dBm
+-55 dBm;-54 dBm;-64 dBm;-64 dBm
+-68 dBm;-55 dBm;-51 dBm;-64 dBm
+-69 dBm;-55 dBm;-64 dBm;-61 dBm
+-54 dBm;-69 dBm;-52 dBm;-55 dBm
+-67 dBm;-54 dBm;-63 dBm;-59 dBm
+-56 dBm;-61 dBm;-53 dBm;-55 dBm
+-64 dBm;-55 dBm;-53 dBm;-64 dBm
+-69 dBm;-54 dBm;-53 dBm;-64 dBm
+-55 dBm;-69 dBm;-67 dBm;-62 dBm
+-54 dBm;-55 dBm;-63 dBm;-55 dBm
+-54 dBm;-62 dBm;-52 dBm;-60 dBm
+-55 dBm;-54 dBm;-67 dBm;-54 dBm
+-63 dBm;-52 dBm;-52 dBm;-65 dBm
+-69 dBm;-54 dBm;-62 dBm;-65 dBm
+-54 dBm;-69 dBm;-50 dBm;-63 dBm
+-55 dBm;-54 dBm;-65 dBm;-54 dBm
+-63 dBm;-62 dBm;-50 dBm;-53 dBm
+-56 dBm;-54 dBm;-54 dBm;-54 dBm
+-69 dBm;-69 dBm;-54 dBm;-60 dBm
+-55 dBm;-54 dBm;-53 dBm;-53 dBm
+-64 dBm;-60 dBm;-54 dBm;-66 dBm
+-69 dBm;-54 dBm;-67 dBm;-53 dBm
+-55 dBm;-69 dBm;-54 dBm;-61 dBm
+-64 dBm;-54 dBm;-55 dBm;-54 dBm
+-69 dBm;-60 dBm;-67 dBm;-65 dBm
+-54 dBm;-53 dBm;-55 dBm;-52 dBm
+-64 dBm;-68 dBm;-54 dBm;-61 dBm
+-55 dBm;-53 dBm;-55 dBm;-53 dBm
+-54 dBm;-60 dBm;-54 dBm;-65 dBm
+-69 dBm;-55 dBm;-53 dBm;-52 dBm
+-55 dBm;-69 dBm;-67 dBm;-62 dBm
+-55 dBm;-55 dBm;-54 dBm;-51 dBm
+-63 dBm;-59 dBm;-53 dBm;-64 dBm
+-55 dBm;-54 dBm;-54 dBm;-52 dBm
+-69 dBm;-54 dBm;-55 dBm;-63 dBm
+-54 dBm;-69 dBm;-55 dBm;-53 dBm
+-63 dBm;-53 dBm;-66 dBm;-65 dBm
+-70 dBm;-62 dBm;-54 dBm;-59 dBm
+-55 dBm;-62 dBm;-54 dBm;-53 dBm
+-63 dBm;-54 dBm;-67 dBm;-65 dBm
+-63 dBm;-53 dBm;-54 dBm;-53 dBm
+-69 dBm;-53 dBm;-54 dBm;-60 dBm
+-55 dBm;-53 dBm;-53 dBm;-53 dBm
+-64 dBm;-53 dBm;-54 dBm;-64 dBm
+-69 dBm;-52 dBm;-55 dBm;-54 dBm
+-54 dBm;-70 dBm;-67 dBm;-61 dBm
+-54 dBm;-70 dBm;-54 dBm;-55 dBm
+-54 dBm;-54 dBm;-55 dBm;-65 dBm
+-54 dBm;-62 dBm;-67 dBm;-62 dBm
+-54 dBm;-53 dBm;-55 dBm;-54 dBm
+-54 dBm;-52 dBm;-63 dBm;-56 dBm
+-63 dBm;-52 dBm;-53 dBm;-55 dBm
+-70 dBm;-52 dBm;-65 dBm;-56 dBm
+-54 dBm;-69 dBm;-54 dBm;-61 dBm
+-64 dBm;-52 dBm;-56 dBm;-55 dBm
+-55 dBm;-60 dBm;-65 dBm;-64 dBm
+-70 dBm;-54 dBm;-54 dBm;-54 dBm
+-55 dBm;-68 dBm;-55 dBm;-61 dBm
+-54 dBm;-56 dBm;-67 dBm;-55 dBm
+-54 dBm;-61 dBm;-55 dBm;-64 dBm
+-55 dBm;-62 dBm;-52 dBm;-55 dBm
+-54 dBm;-63 dBm;-67 dBm;-60 dBm
+-64 dBm;-49 dBm;-67 dBm;-55 dBm
+-69 dBm;-47 dBm;-55 dBm;-64 dBm
+-55 dBm;-49 dBm;-64 dBm;-54 dBm
+-63 dBm;-49 dBm;-54 dBm;-60 dBm
+-69 dBm;-50 dBm;-67 dBm;-53 dBm
+-54 dBm;-68 dBm;-55 dBm;-64 dBm
+-55 dBm;-51 dBm;-53 dBm;-54 dBm
+-63 dBm;-63 dBm;-67 dBm;-60 dBm
+-69 dBm;-48 dBm;-53 dBm;-55 dBm
+-54 dBm;-49 dBm;-54 dBm;-63 dBm
+-64 dBm;-68 dBm;-53 dBm;-55 dBm
+-69 dBm;-50 dBm;-54 dBm;-59 dBm
+-69 dBm;-61 dBm;-63 dBm;-52 dBm
+-54 dBm;-62 dBm;-54 dBm;-52 dBm
+-64 dBm;-54 dBm;-68 dBm;-52 dBm
+-69 dBm;-54 dBm;-67 dBm;-52 dBm
+-54 dBm;-70 dBm;-54 dBm;-50 dBm
+-63 dBm;-53 dBm;-62 dBm;-50 dBm
+-55 dBm;-53 dBm;-54 dBm;-51 dBm
+-55 dBm;-61 dBm;-67 dBm;-60 dBm
+-55 dBm;-63 dBm;-67 dBm;-60 dBm
+-55 dBm;-54 dBm;-53 dBm;-55 dBm
+-69 dBm;-69 dBm;-64 dBm;-64 dBm
+-54 dBm;-68 dBm;-54 dBm;-65 dBm
+-56 dBm;-54 dBm;-67 dBm;-53 dBm
+-63 dBm;-60 dBm;-55 dBm;-60 dBm
+-69 dBm;-54 dBm;-63 dBm;-62 dBm
+-55 dBm;-55 dBm;-53 dBm;-55 dBm
+-63 dBm;-53 dBm;-51 dBm;-64 dBm
+-63 dBm;-53 dBm;-67 dBm;-53 dBm
+-68 dBm;-56 dBm;-67 dBm;-60 dBm
+-54 dBm;-69 dBm;-64 dBm;-55 dBm
+-64 dBm;-55 dBm;-53 dBm;-63 dBm
+-69 dBm;-62 dBm;-64 dBm;-63 dBm
+-54 dBm;-52 dBm;-53 dBm;-54 dBm
+-54 dBm;-68 dBm;-67 dBm;-61 dBm
+-54 dBm;-52 dBm;-53 dBm;-54 dBm
+-55 dBm;-60 dBm;-53 dBm;-54 dBm
+-64 dBm;-53 dBm;-64 dBm;-54 dBm
+-55 dBm;-54 dBm;-53 dBm;-64 dBm
+-69 dBm;-69 dBm;-65 dBm;-54 dBm
+-69 dBm;-53 dBm;-53 dBm;-54 dBm
+-52 dBm;-61 dBm;-52 dBm;-61 dBm
+-63 dBm;-62 dBm;-53 dBm;-52 dBm
+-69 dBm;-62 dBm;-53 dBm;-51 dBm
+-54 dBm;-54 dBm;-53 dBm;-52 dBm
+-54 dBm;-54 dBm;-53 dBm;-51 dBm
+-63 dBm;-70 dBm;-53 dBm;-51 dBm
+-69 dBm;-53 dBm;-67 dBm;-63 dBm
+-55 dBm;-60 dBm;-67 dBm;-52 dBm
+-63 dBm;-55 dBm;-53 dBm;-62 dBm
+-70 dBm;-70 dBm;-52 dBm;-52 dBm
+-54 dBm;-54 dBm;-54 dBm;-53 dBm
+-55 dBm;-61 dBm;-53 dBm;-63 dBm
+-54 dBm;-56 dBm;-53 dBm;-52 dBm
+-67 dBm;-55 dBm;-52 dBm;-61 dBm
+-55 dBm;-70 dBm;-53 dBm;-55 dBm
+-55 dBm;-56 dBm;-68 dBm;-62 dBm
+-55 dBm;-61 dBm;-54 dBm;-53 dBm
+-70 dBm;-54 dBm;-64 dBm;-61 dBm
+-56 dBm;-70 dBm;-54 dBm;-55 dBm
+-55 dBm;-54 dBm;-65 dBm;-62 dBm
+-67 dBm;-61 dBm;-54 dBm;-54 dBm
+-70 dBm;-55 dBm;-54 dBm;-61 dBm
+-69 dBm;-70 dBm;-64 dBm;-56 dBm
+-54 dBm;-56 dBm;-54 dBm;-63 dBm
+-54 dBm;-62 dBm;-64 dBm;-56 dBm
+-55 dBm;-55 dBm;-64 dBm;-54 dBm
+-54 dBm;-70 dBm;-54 dBm;-61 dBm
+-55 dBm;-55 dBm;-64 dBm;-55 dBm
+-54 dBm;-60 dBm;-64 dBm;-62 dBm
+-54 dBm;-56 dBm;-54 dBm;-55 dBm
+-63 dBm;-53 dBm;-55 dBm;-61 dBm
+-53 dBm;-55 dBm;-64 dBm;-54 dBm
+-55 dBm;-55 dBm;-55 dBm;-63 dBm
+-55 dBm;-54 dBm;-55 dBm;-55 dBm
+-55 dBm;-55 dBm;-64 dBm;-61 dBm
+-69 dBm;-69 dBm;-54 dBm;-55 dBm
+-55 dBm;-55 dBm;-54 dBm;-63 dBm
+-63 dBm;-55 dBm;-64 dBm;-56 dBm
+-55 dBm;-55 dBm;-54 dBm;-55 dBm
+-69 dBm;-57 dBm;-54 dBm;-60 dBm
+-55 dBm;-57 dBm;-63 dBm;-55 dBm
+-63 dBm;-55 dBm;-54 dBm;-63 dBm
+-69 dBm;-61 dBm;-55 dBm;-55 dBm
+-55 dBm;-52 dBm;-55 dBm;-61 dBm
+-64 dBm;-51 dBm;-54 dBm;-62 dBm
+-50 dBm;-68 dBm;-55 dBm;-54 dBm
+-50 dBm;-52 dBm;-54 dBm;-63 dBm
+-68 dBm;-52 dBm;-54 dBm;-54 dBm
+-51 dBm;-62 dBm;-64 dBm;-62 dBm
+-64 dBm;-61 dBm;-64 dBm;-55 dBm
+-53 dBm;-55 dBm;-61 dBm;-54 dBm
+-52 dBm;-69 dBm;-54 dBm;-55 dBm
+-68 dBm;-56 dBm;-55 dBm;-55 dBm
+-54 dBm;-62 dBm;-63 dBm;-64 dBm
+-54 dBm;-52 dBm;-55 dBm;-55 dBm
+-54 dBm;-67 dBm;-55 dBm;-54 dBm
+-54 dBm;-54 dBm;-62 dBm;-61 dBm
+-53 dBm;-62 dBm;-54 dBm;-55 dBm
+-54 dBm;-61 dBm;-55 dBm;-55 dBm
+-63 dBm;-55 dBm;-63 dBm;-63 dBm
+-69 dBm;-53 dBm;-54 dBm;-55 dBm
+-53 dBm;-68 dBm;-55 dBm;-61 dBm
+-52 dBm;-54 dBm;-64 dBm;-55 dBm
+-53 dBm;-62 dBm;-64 dBm;-64 dBm
+-53 dBm;-54 dBm;-54 dBm;-52 dBm
+-61 dBm;-69 dBm;-53 dBm;-61 dBm
+-49 dBm;-55 dBm;-64 dBm;-62 dBm
+-71 dBm;-63 dBm;-54 dBm;-62 dBm
+-51 dBm;-54 dBm;-54 dBm;-54 dBm
+-52 dBm;-54 dBm;-53 dBm;-64 dBm
+-51 dBm;-55 dBm;-56 dBm;-55 dBm
+-51 dBm;-54 dBm;-63 dBm;-62 dBm
+-51 dBm;-54 dBm;-63 dBm;-52 dBm
+-52 dBm;-69 dBm;-55 dBm;-63 dBm
+-64 dBm;-54 dBm;-62 dBm;-55 dBm
+-54 dBm;-61 dBm;-52 dBm;-62 dBm
+-69 dBm;-53 dBm;-63 dBm;-52 dBm
+-54 dBm;-69 dBm;-53 dBm;-63 dBm
+-62 dBm;-55 dBm;-53 dBm;-63 dBm
+-55 dBm;-61 dBm;-53 dBm;-54 dBm
+-69 dBm;-54 dBm;-52 dBm;-54 dBm
+-54 dBm;-68 dBm;-53 dBm;-55 dBm
+-54 dBm;-55 dBm;-63 dBm;-54 dBm
+-64 dBm;-63 dBm;-53 dBm;-56 dBm
+-70 dBm;-56 dBm;-64 dBm;-54 dBm
+-55 dBm;-54 dBm;-53 dBm;-89 dBm
+-63 dBm;-55 dBm;-52 dBm;-56 dBm
+-70 dBm;-54 dBm;-62 dBm;-55 dBm
+-55 dBm;-55 dBm;-52 dBm;-54 dBm
+-63 dBm;-69 dBm;-63 dBm;-54 dBm
+-54 dBm;-54 dBm;-63 dBm;-57 dBm
+-63 dBm;-62 dBm;-57 dBm;-53 dBm
+-55 dBm;-54 dBm;-64 dBm;-55 dBm
+-55 dBm;-54 dBm;-49 dBm;-53 dBm
+-63 dBm;-55 dBm;-63 dBm;-53 dBm
+-69 dBm;-55 dBm;-50 dBm;-55 dBm
+-70 dBm;-54 dBm;-64 dBm;-61 dBm
+-70 dBm;-69 dBm;-50 dBm;-55 dBm
+-54 dBm;-55 dBm;-63 dBm;-63 dBm
+-54 dBm;-62 dBm;-62 dBm;-55 dBm
+-54 dBm;-55 dBm;-49 dBm;-55 dBm
+-55 dBm;-69 dBm;-51 dBm;-54 dBm
+-69 dBm;-54 dBm;-50 dBm;-52 dBm
+-51 dBm;-62 dBm;-49 dBm;-61 dBm
+-65 dBm;-54 dBm;-63 dBm;-54 dBm
+-54 dBm;-70 dBm;-55 dBm;-64 dBm
+-54 dBm;-54 dBm;-63 dBm;-55 dBm
+-54 dBm;-62 dBm;-55 dBm;-63 dBm
+-54 dBm;-53 dBm;-55 dBm;-54 dBm
+-54 dBm;-53 dBm;-63 dBm;-63 dBm
+-69 dBm;-54 dBm;-54 dBm;-55 dBm
+-55 dBm;-54 dBm;-69 dBm;-61 dBm
+-55 dBm;-69 dBm;-55 dBm;-56 dBm
+-64 dBm;-54 dBm;-63 dBm;-64 dBm
+-54 dBm;-62 dBm;-54 dBm;-52 dBm
+-55 dBm;-54 dBm;-67 dBm;-61 dBm
+-55 dBm;-54 dBm;-54 dBm;-52 dBm
+-54 dBm;-69 dBm;-53 dBm;-64 dBm
+-54 dBm;-69 dBm;-53 dBm;-54 dBm
+-68 dBm;-54 dBm;-53 dBm;-61 dBm
+-54 dBm;-62 dBm;-63 dBm;-56 dBm
+-64 dBm;-54 dBm;-53 dBm;-64 dBm
+-63 dBm;-69 dBm;-54 dBm;-55 dBm
+-70 dBm;-54 dBm;-53 dBm;-61 dBm
+-55 dBm;-61 dBm;-54 dBm;-52 dBm
+-54 dBm;-55 dBm;-53 dBm;-54 dBm
+-63 dBm;-69 dBm;-54 dBm;-64 dBm
+-69 dBm;-55 dBm;-54 dBm;-54 dBm
+-54 dBm;-62 dBm;-67 dBm;-61 dBm
+-54 dBm;-54 dBm;-52 dBm;-54 dBm
+-63 dBm;-69 dBm;-64 dBm;-64 dBm
+-54 dBm;-55 dBm;-62 dBm;-56 dBm
+-69 dBm;-61 dBm;-52 dBm;-62 dBm
+-53 dBm;-55 dBm;-64 dBm;-55 dBm
+-52 dBm;-69 dBm;-65 dBm;-63 dBm
+-54 dBm;-55 dBm;-63 dBm;-55 dBm
+-53 dBm;-62 dBm;-52 dBm;-61 dBm
+-54 dBm;-55 dBm;-63 dBm;-54 dBm
+-65 dBm;-69 dBm;-53 dBm;-63 dBm
+-54 dBm;-55 dBm;-53 dBm;-54 dBm
+-64 dBm;-61 dBm;-53 dBm;-61 dBm
+-53 dBm;-54 dBm;-53 dBm;-54 dBm
+-53 dBm;-69 dBm;-53 dBm;-63 dBm
+-69 dBm;-54 dBm;-53 dBm;-54 dBm
+-54 dBm;-62 dBm;-64 dBm;-61 dBm
+-64 dBm;-55 dBm;-53 dBm;-61 dBm
+-70 dBm;-69 dBm;-63 dBm;-61 dBm
+-54 dBm;-55 dBm;-52 dBm;-52 dBm
+-52 dBm;-61 dBm;-64 dBm;-54 dBm
+-52 dBm;-62 dBm;-54 dBm;-64 dBm
+-53 dBm;-62 dBm;-63 dBm;-54 dBm
+-53 dBm;-62 dBm;-55 dBm;-62 dBm
+-52 dBm;-62 dBm;-56 dBm;-54 dBm
+-64 dBm;-61 dBm;-65 dBm;-63 dBm
+-70 dBm;-62 dBm;-56 dBm;-64 dBm
+-54 dBm;-62 dBm;-64 dBm;-55 dBm
+-53 dBm;-62 dBm;-54 dBm;-62 dBm
+-64 dBm;-61 dBm;-64 dBm;-55 dBm
+-54 dBm;-62 dBm;-63 dBm;-64 dBm
+-64 dBm;-54 dBm;-54 dBm;-55 dBm
+-55 dBm;-55 dBm;-63 dBm;-62 dBm
+-68 dBm;-62 dBm;-55 dBm;-54 dBm
+-55 dBm;-61 dBm;-52 dBm;-64 dBm
+-64 dBm;-54 dBm;-64 dBm;-55 dBm
+-54 dBm;-66 dBm;-55 dBm;-55 dBm
+-68 dBm;-53 dBm;-55 dBm;-62 dBm
+-54 dBm;-52 dBm;-55 dBm;-55 dBm
+-54 dBm;-50 dBm;-63 dBm;-55 dBm
+-53 dBm;-52 dBm;-57 dBm;-64 dBm
+-53 dBm;-55 dBm;-64 dBm;-56 dBm
+-54 dBm;-62 dBm;-55 dBm;-62 dBm
+-64 dBm;-55 dBm;-63 dBm;-55 dBm
+-54 dBm;-54 dBm;-56 dBm;-64 dBm
+-54 dBm;-55 dBm;-56 dBm;-54 dBm
+-54 dBm;-55 dBm;-56 dBm;-62 dBm
+-69 dBm;-54 dBm;-55 dBm;-62 dBm
+-55 dBm;-54 dBm;-56 dBm;-61 dBm
+-55 dBm;-66 dBm;-64 dBm;-55 dBm
+-63 dBm;-67 dBm;-55 dBm;-63 dBm
+-54 dBm;-54 dBm;-55 dBm;-63 dBm
+-69 dBm;-61 dBm;-55 dBm;-54 dBm
+-68 dBm;-55 dBm;-62 dBm;-61 dBm
+-54 dBm;-64 dBm;-51 dBm;-54 dBm
+-54 dBm;-55 dBm;-51 dBm;-64 dBm
+-55 dBm;-62 dBm;-63 dBm;-55 dBm
+-55 dBm;-54 dBm;-52 dBm;-61 dBm
+-54 dBm;-68 dBm;-63 dBm;-53 dBm
+-64 dBm;-55 dBm;-55 dBm;-64 dBm
+-54 dBm;-62 dBm;-55 dBm;-64 dBm
+-69 dBm;-67 dBm;-55 dBm;-55 dBm
+-55 dBm;-54 dBm;-63 dBm;-62 dBm
+-64 dBm;-61 dBm;-55 dBm;-55 dBm
+-51 dBm;-62 dBm;-55 dBm;-64 dBm
+-51 dBm;-55 dBm;-65 dBm;-64 dBm
+-54 dBm;-55 dBm;-53 dBm;-61 dBm
+-52 dBm;-55 dBm;-63 dBm;-54 dBm
+-52 dBm;-54 dBm;-54 dBm;-61 dBm
+-52 dBm;-53 dBm;-62 dBm;-54 dBm
+-63 dBm;-54 dBm;-55 dBm;-64 dBm
+-56 dBm;-53 dBm;-63 dBm;-55 dBm
+-52 dBm;-57 dBm;-57 dBm;-62 dBm
+-54 dBm;-68 dBm;-54 dBm;-55 dBm
+-63 dBm;-55 dBm;-52 dBm;-55 dBm
+-54 dBm;-62 dBm;-54 dBm;-55 dBm
+-68 dBm;-62 dBm;-51 dBm;-56 dBm
+-69 dBm;-61 dBm;-51 dBm;-63 dBm
+-69 dBm;-54 dBm;-52 dBm;-64 dBm
+-63 dBm;-54 dBm;-53 dBm;-55 dBm
+-54 dBm;-52 dBm;-53 dBm;-62 dBm
+-55 dBm;-67 dBm;-51 dBm;-55 dBm
+-55 dBm;-55 dBm;-63 dBm;-62 dBm
+-55 dBm;-67 dBm;-54 dBm;-55 dBm
+-69 dBm;-62 dBm;-63 dBm;-61 dBm
+-54 dBm;-55 dBm;-54 dBm;-54 dBm
+-65 dBm;-68 dBm;-63 dBm;-64 dBm
+-54 dBm;-54 dBm;-54 dBm;-55 dBm
+-69 dBm;-61 dBm;-63 dBm;-61 dBm
+-55 dBm;-54 dBm;-53 dBm;-55 dBm
+-63 dBm;-68 dBm;-63 dBm;-64 dBm
+-54 dBm;-55 dBm;-54 dBm;-55 dBm
+-69 dBm;-61 dBm;-63 dBm;-62 dBm
+-54 dBm;-54 dBm;-55 dBm;-55 dBm
+-63 dBm;-68 dBm;-63 dBm;-64 dBm
+-54 dBm;-55 dBm;-54 dBm;-55 dBm
+-54 dBm;-61 dBm;-63 dBm;-61 dBm
+-54 dBm;-55 dBm;-55 dBm;-55 dBm
+-54 dBm;-54 dBm;-63 dBm;-64 dBm
+-54 dBm;-54 dBm;-55 dBm;-61 dBm
+-69 dBm;-53 dBm;-63 dBm;-54 dBm
+-54 dBm;-67 dBm;-55 dBm;-64 dBm
+-63 dBm;-55 dBm;-63 dBm;-55 dBm
+-53 dBm;-62 dBm;-56 dBm;-62 dBm
+-69 dBm;-61 dBm;-52 dBm;-62 dBm
+-69 dBm;-54 dBm;-54 dBm;-61 dBm
+-63 dBm;-67 dBm;-63 dBm;-55 dBm
+-69 dBm;-54 dBm;-54 dBm;-64 dBm
+-55 dBm;-61 dBm;-54 dBm;-54 dBm
+-53 dBm;-55 dBm;-63 dBm;-61 dBm
+-54 dBm;-68 dBm;-54 dBm;-55 dBm
+-53 dBm;-54 dBm;-55 dBm;-54 dBm
+-53 dBm;-62 dBm;-63 dBm;-64 dBm
+-63 dBm;-55 dBm;-54 dBm;-54 dBm
+-53 dBm;-68 dBm;-63 dBm;-61 dBm
+-69 dBm;-55 dBm;-63 dBm;-54 dBm
+-53 dBm;-62 dBm;-62 dBm;-55 dBm
+-63 dBm;-54 dBm;-53 dBm;-64 dBm
+-71 dBm;-68 dBm;-63 dBm;-64 dBm
+-50 dBm;-55 dBm;-55 dBm;-52 dBm
+-51 dBm;-60 dBm;-63 dBm;-52 dBm
+-49 dBm;-54 dBm;-54 dBm;-61 dBm
+-52 dBm;-68 dBm;-63 dBm;-53 dBm
+-69 dBm;-55 dBm;-55 dBm;-63 dBm
+-51 dBm;-61 dBm;-63 dBm;-55 dBm
+-56 dBm;-54 dBm;-55 dBm;-62 dBm
+-68 dBm;-67 dBm;-53 dBm;-55 dBm
+-56 dBm;-54 dBm;-53 dBm;-64 dBm
+-69 dBm;-60 dBm;-55 dBm;-55 dBm
+-51 dBm;-55 dBm;-64 dBm;-62 dBm
+-50 dBm;-67 dBm;-55 dBm;-54 dBm
+-51 dBm;-55 dBm;-63 dBm;-64 dBm
+-50 dBm;-59 dBm;-55 dBm;-55 dBm
+-50 dBm;-51 dBm;-63 dBm;-62 dBm
+-68 dBm;-51 dBm;-55 dBm;-55 dBm
+-49 dBm;-66 dBm;-63 dBm;-64 dBm
+-55 dBm;-66 dBm;-54 dBm;-55 dBm
+-54 dBm;-52 dBm;-54 dBm;-61 dBm
+-70 dBm;-59 dBm;-55 dBm;-54 dBm
+-54 dBm;-55 dBm;-64 dBm;-64 dBm
+-64 dBm;-55 dBm;-54 dBm;-55 dBm
+-68 dBm;-55 dBm;-63 dBm;-62 dBm
+-68 dBm;-69 dBm;-54 dBm;-55 dBm
+-54 dBm;-60 dBm;-63 dBm;-54 dBm
+-54 dBm;-53 dBm;-54 dBm;-64 dBm
+-66 dBm;-68 dBm;-64 dBm;-54 dBm
+-54 dBm;-54 dBm;-54 dBm;-63 dBm
+-69 dBm;-59 dBm;-63 dBm;-54 dBm
+-54 dBm;-55 dBm;-55 dBm;-64 dBm
+-53 dBm;-65 dBm;-63 dBm;-56 dBm
+-54 dBm;-55 dBm;-55 dBm;-61 dBm
+-53 dBm;-59 dBm;-55 dBm;-54 dBm
+-54 dBm;-55 dBm;-53 dBm;-64 dBm
+-53 dBm;-64 dBm;-54 dBm;-55 dBm
+-54 dBm;-54 dBm;-63 dBm;-61 dBm
+-54 dBm;-59 dBm;-55 dBm;-54 dBm
+-62 dBm;-56 dBm;-64 dBm;-64 dBm
+-51 dBm;-64 dBm;-55 dBm;-54 dBm
+-52 dBm;-54 dBm;-63 dBm;-61 dBm
+-52 dBm;-60 dBm;-54 dBm;-55 dBm
+-69 dBm;-54 dBm;-63 dBm;-64 dBm
+-52 dBm;-54 dBm;-53 dBm;-64 dBm
+-62 dBm;-66 dBm;-64 dBm;-61 dBm
+-69 dBm;-54 dBm;-55 dBm;-54 dBm
+-56 dBm;-59 dBm;-55 dBm;-61 dBm
+-64 dBm;-54 dBm;-63 dBm;-55 dBm
+-71 dBm;-55 dBm;-55 dBm;-63 dBm
+-54 dBm;-55 dBm;-63 dBm;-62 dBm
+-63 dBm;-67 dBm;-52 dBm;-52 dBm
+-55 dBm;-54 dBm;-49 dBm;-61 dBm
+-55 dBm;-59 dBm;-53 dBm;-56 dBm
+-71 dBm;-53 dBm;-51 dBm;-62 dBm
+-54 dBm;-66 dBm;-53 dBm;-55 dBm
+-55 dBm;-54 dBm;-52 dBm;-62 dBm
+-54 dBm;-60 dBm;-54 dBm;-55 dBm
+-63 dBm;-60 dBm;-64 dBm;-62 dBm
+-71 dBm;-61 dBm;-55 dBm;-56 dBm
+-55 dBm;-60 dBm;-54 dBm;-55 dBm
+-63 dBm;-54 dBm;-54 dBm;-62 dBm
+-68 dBm;-67 dBm;-54 dBm;-55 dBm
+-55 dBm;-53 dBm;-63 dBm;-62 dBm
+-63 dBm;-61 dBm;-51 dBm;-52 dBm
+-70 dBm;-54 dBm;-49 dBm;-53 dBm
+-55 dBm;-67 dBm;-52 dBm;-61 dBm
+-62 dBm;-53 dBm;-51 dBm;-55 dBm
+-55 dBm;-61 dBm;-49 dBm;-62 dBm
+-54 dBm;-52 dBm;-61 dBm;-56 dBm
+-53 dBm;-53 dBm;-53 dBm;-61 dBm
+-55 dBm;-52 dBm;-50 dBm;-55 dBm
+-56 dBm;-69 dBm;-50 dBm;-62 dBm
+-56 dBm;-52 dBm;-52 dBm;-55 dBm
+-53 dBm;-62 dBm;-52 dBm;-62 dBm
+-55 dBm;-55 dBm;-52 dBm;-55 dBm
+-70 dBm;-69 dBm;-63 dBm;-62 dBm
+-57 dBm;-52 dBm;-54 dBm;-55 dBm
+-62 dBm;-62 dBm;-51 dBm;-61 dBm
+-70 dBm;-53 dBm;-51 dBm;-54 dBm
+-56 dBm;-67 dBm;-51 dBm;-55 dBm
+-62 dBm;-54 dBm;-51 dBm;-62 dBm
+-68 dBm;-60 dBm;-49 dBm;-62 dBm
+-52 dBm;-54 dBm;-52 dBm;-55 dBm
+-52 dBm;-52 dBm;-51 dBm;-61 dBm
+-53 dBm;-68 dBm;-52 dBm;-62 dBm
+-52 dBm;-53 dBm;-63 dBm;-53 dBm
+-88 dBm;-61 dBm;-50 dBm;-54 dBm
+-53 dBm;-53 dBm;-50 dBm;-62 dBm
+-64 dBm;-65 dBm;-54 dBm;-54 dBm
+-52 dBm;-53 dBm;-63 dBm;-55 dBm
+-54 dBm;-62 dBm;-53 dBm;-62 dBm
+-68 dBm;-55 dBm;-55 dBm;-54 dBm
+-55 dBm;-65 dBm;-63 dBm;-62 dBm
+-55 dBm;-65 dBm;-54 dBm;-55 dBm
+-64 dBm;-54 dBm;-63 dBm;-61 dBm
+-54 dBm;-56 dBm;-64 dBm;-55 dBm
+-53 dBm;-56 dBm;-54 dBm;-62 dBm
+-54 dBm;-56 dBm;-64 dBm;-55 dBm
+-54 dBm;-56 dBm;-55 dBm;-61 dBm
+-68 dBm;-66 dBm;-64 dBm;-55 dBm
+-53 dBm;-66 dBm;-56 dBm;-62 dBm
+-63 dBm;-55 dBm;-63 dBm;-54 dBm
+-69 dBm;-62 dBm;-53 dBm;-61 dBm
+-54 dBm;-55 dBm;-56 dBm;-55 dBm
+-63 dBm;-55 dBm;-61 dBm;-63 dBm
+-53 dBm;-55 dBm;-55 dBm;-55 dBm
+-63 dBm;-65 dBm;-63 dBm;-61 dBm
+-53 dBm;-55 dBm;-55 dBm;-62 dBm
+-54 dBm;-61 dBm;-61 dBm;-55 dBm
+-53 dBm;-55 dBm;-55 dBm;-62 dBm
+-54 dBm;-65 dBm;-63 dBm;-54 dBm
+-56 dBm;-54 dBm;-54 dBm;-62 dBm
+-54 dBm;-60 dBm;-63 dBm;-53 dBm
+-54 dBm;-53 dBm;-54 dBm;-50 dBm
+-69 dBm;-65 dBm;-64 dBm;-50 dBm
+-54 dBm;-53 dBm;-55 dBm;-53 dBm
+-64 dBm;-61 dBm;-63 dBm;-62 dBm
+-69 dBm;-54 dBm;-51 dBm;-54 dBm
+-55 dBm;-66 dBm;-51 dBm;-61 dBm
+-63 dBm;-54 dBm;-51 dBm;-55 dBm
+-69 dBm;-60 dBm;-50 dBm;-62 dBm
+-55 dBm;-54 dBm;-51 dBm;-55 dBm
+-63 dBm;-53 dBm;-50 dBm;-61 dBm
+-55 dBm;-66 dBm;-51 dBm;-55 dBm
+-69 dBm;-54 dBm;-54 dBm;-62 dBm
+-54 dBm;-61 dBm;-63 dBm;-54 dBm
+-54 dBm;-55 dBm;-54 dBm;-61 dBm
+-55 dBm;-67 dBm;-63 dBm;-55 dBm
+-55 dBm;-55 dBm;-55 dBm;-52 dBm
+-54 dBm;-60 dBm;-63 dBm;-54 dBm
+-55 dBm;-53 dBm;-54 dBm;-62 dBm
+-63 dBm;-67 dBm;-63 dBm;-61 dBm
+-54 dBm;-54 dBm;-54 dBm;-55 dBm
+-55 dBm;-62 dBm;-63 dBm;-61 dBm
+-55 dBm;-52 dBm;-56 dBm;-54 dBm
+-54 dBm;-68 dBm;-63 dBm;-62 dBm
+-54 dBm;-53 dBm;-54 dBm;-55 dBm
+-54 dBm;-61 dBm;-63 dBm;-61 dBm
+-69 dBm;-52 dBm;-55 dBm;-56 dBm
+-54 dBm;-68 dBm;-63 dBm;-62 dBm
+-52 dBm;-53 dBm;-54 dBm;-55 dBm
+-55 dBm;-60 dBm;-63 dBm;-61 dBm
+-55 dBm;-53 dBm;-54 dBm;-55 dBm
+-55 dBm;-69 dBm;-63 dBm;-62 dBm
+-63 dBm;-54 dBm;-55 dBm;-54 dBm
+-69 dBm;-62 dBm;-63 dBm;-62 dBm
+-55 dBm;-53 dBm;-55 dBm;-55 dBm
+-62 dBm;-69 dBm;-63 dBm;-63 dBm
+-69 dBm;-69 dBm;-52 dBm;-54 dBm
+-55 dBm;-68 dBm;-63 dBm;-61 dBm
+-54 dBm;-68 dBm;-55 dBm;-55 dBm
+-55 dBm;-53 dBm;-63 dBm;-55 dBm
+-63 dBm;-60 dBm;-54 dBm;-62 dBm
+-69 dBm;-53 dBm;-63 dBm;-55 dBm
+-54 dBm;-70 dBm;-54 dBm;-61 dBm
+-63 dBm;-55 dBm;-63 dBm;-53 dBm
+-55 dBm;-61 dBm;-54 dBm;-55 dBm
+-70 dBm;-54 dBm;-55 dBm;-62 dBm
+-54 dBm;-69 dBm;-64 dBm;-62 dBm
+-63 dBm;-55 dBm;-54 dBm;-55 dBm
+-70 dBm;-61 dBm;-64 dBm;-62 dBm
+-55 dBm;-55 dBm;-54 dBm;-54 dBm
+-63 dBm;-55 dBm;-62 dBm;-62 dBm
+-55 dBm;-70 dBm;-53 dBm;-56 dBm
+-70 dBm;-55 dBm;-63 dBm;-55 dBm
+-70 dBm;-62 dBm;-54 dBm;-63 dBm
+-69 dBm;-55 dBm;-63 dBm;-63 dBm
+-69 dBm;-69 dBm;-54 dBm;-56 dBm
+-70 dBm;-54 dBm;-62 dBm;-61 dBm
+-55 dBm;-61 dBm;-54 dBm;-54 dBm
+-63 dBm;-55 dBm;-65 dBm;-62 dBm
+-70 dBm;-56 dBm;-65 dBm;-55 dBm
+-54 dBm;-70 dBm;-54 dBm;-62 dBm
+-64 dBm;-55 dBm;-65 dBm;-54 dBm
+-55 dBm;-55 dBm;-53 dBm;-63 dBm
+-54 dBm;-61 dBm;-67 dBm;-55 dBm
+-70 dBm;-55 dBm;-54 dBm;-61 dBm
+-54 dBm;-64 dBm;-62 dBm;-55 dBm
+-63 dBm;-54 dBm;-50 dBm;-62 dBm
+-70 dBm;-62 dBm;-67 dBm;-55 dBm
+-55 dBm;-62 dBm;-49 dBm;-62 dBm
+-55 dBm;-55 dBm;-65 dBm;-54 dBm
+-55 dBm;-55 dBm;-53 dBm;-63 dBm
+-55 dBm;-65 dBm;-65 dBm;-53 dBm
+-55 dBm;-55 dBm;-54 dBm;-62 dBm
+-54 dBm;-61 dBm;-69 dBm;-53 dBm
+-54 dBm;-55 dBm;-55 dBm;-63 dBm
+-63 dBm;-68 dBm;-66 dBm;-52 dBm
+-69 dBm;-55 dBm;-53 dBm;-61 dBm
+-54 dBm;-62 dBm;-54 dBm;-55 dBm
+-64 dBm;-54 dBm;-54 dBm;-63 dBm
+-70 dBm;-65 dBm;-53 dBm;-54 dBm
+-54 dBm;-55 dBm;-53 dBm;-62 dBm
+-54 dBm;-61 dBm;-66 dBm;-55 dBm
+-63 dBm;-55 dBm;-55 dBm;-63 dBm
+-63 dBm;-62 dBm;-65 dBm;-63 dBm
+-63 dBm;-54 dBm;-55 dBm;-55 dBm
+-63 dBm;-55 dBm;-54 dBm;-62 dBm
+-63 dBm;-55 dBm;-65 dBm;-55 dBm
+-63 dBm;-52 dBm;-65 dBm;-63 dBm
+-63 dBm;-55 dBm;-56 dBm;-55 dBm
+-61 dBm;-55 dBm;-66 dBm;-62 dBm
+-64 dBm;-67 dBm;-55 dBm;-55 dBm
+-66 dBm;-55 dBm;-65 dBm;-63 dBm
+-63 dBm;-61 dBm;-55 dBm;-54 dBm
+-65 dBm;-54 dBm;-66 dBm;-61 dBm
+-55 dBm;-69 dBm;-55 dBm;-55 dBm
+-63 dBm;-54 dBm;-55 dBm;-55 dBm
+-54 dBm;-61 dBm;-68 dBm;-63 dBm
+-52 dBm;-55 dBm;-54 dBm;-54 dBm
+-51 dBm;-54 dBm;-52 dBm;-62 dBm
+-64 dBm;-56 dBm;-65 dBm;-55 dBm
+-54 dBm;-55 dBm;-55 dBm;-62 dBm
+-55 dBm;-55 dBm;-65 dBm;-55 dBm
+-55 dBm;-54 dBm;-54 dBm;-63 dBm
+-54 dBm;-67 dBm;-64 dBm;-56 dBm
+-54 dBm;-54 dBm;-55 dBm;-63 dBm
+-54 dBm;-61 dBm;-63 dBm;-54 dBm
+-63 dBm;-55 dBm;-55 dBm;-62 dBm
+-54 dBm;-54 dBm;-66 dBm;-54 dBm
+-63 dBm;-68 dBm;-55 dBm;-63 dBm
+-63 dBm;-54 dBm;-54 dBm;-56 dBm
+-54 dBm;-61 dBm;-65 dBm;-61 dBm
+-54 dBm;-55 dBm;-55 dBm;-55 dBm
+-55 dBm;-54 dBm;-65 dBm;-62 dBm
+-54 dBm;-55 dBm;-54 dBm;-53 dBm
+-54 dBm;-55 dBm;-64 dBm;-62 dBm
+-68 dBm;-56 dBm;-52 dBm;-56 dBm
+-55 dBm;-54 dBm;-65 dBm;-63 dBm
+-64 dBm;-68 dBm;-53 dBm;-52 dBm
+-56 dBm;-55 dBm;-67 dBm;-62 dBm
+-63 dBm;-61 dBm;-53 dBm;-55 dBm
+-56 dBm;-54 dBm;-53 dBm;-63 dBm
+-68 dBm;-69 dBm;-65 dBm;-55 dBm
+-53 dBm;-54 dBm;-66 dBm;-61 dBm
+-55 dBm;-61 dBm;-53 dBm;-54 dBm
+-63 dBm;-53 dBm;-65 dBm;-55 dBm
+-55 dBm;-69 dBm;-53 dBm;-63 dBm
+-54 dBm;-52 dBm;-54 dBm;-54 dBm
+-54 dBm;-61 dBm;-53 dBm;-54 dBm
+-66 dBm;-54 dBm;-67 dBm;-64 dBm
+-51 dBm;-68 dBm;-53 dBm;-54 dBm
+-63 dBm;-52 dBm;-65 dBm;-62 dBm
+-69 dBm;-61 dBm;-53 dBm;-54 dBm
+-54 dBm;-62 dBm;-66 dBm;-63 dBm
+-63 dBm;-53 dBm;-53 dBm;-55 dBm
+-68 dBm;-62 dBm;-64 dBm;-61 dBm
+-55 dBm;-55 dBm;-54 dBm;-54 dBm
+-63 dBm;-55 dBm;-53 dBm;-63 dBm
+-55 dBm;-55 dBm;-65 dBm;-55 dBm
+-68 dBm;-55 dBm;-55 dBm;-61 dBm
+-55 dBm;-56 dBm;-66 dBm;-55 dBm
+-63 dBm;-69 dBm;-55 dBm;-63 dBm
+-54 dBm;-54 dBm;-65 dBm;-63 dBm
+-54 dBm;-62 dBm;-54 dBm;-54 dBm
+-54 dBm;-69 dBm;-65 dBm;-61 dBm
+-68 dBm;-68 dBm;-65 dBm;-52 dBm
+-54 dBm;-69 dBm;-63 dBm;-64 dBm
+-63 dBm;-54 dBm;-56 dBm;-55 dBm
+-54 dBm;-62 dBm;-55 dBm;-62 dBm
+-68 dBm;-55 dBm;-56 dBm;-61 dBm
+-55 dBm;-68 dBm;-55 dBm;-62 dBm
+-63 dBm;-55 dBm;-56 dBm;-55 dBm
+-54 dBm;-61 dBm;-64 dBm;-64 dBm
+-68 dBm;-52 dBm;-56 dBm;-52 dBm
+-53 dBm;-54 dBm;-64 dBm;-61 dBm
+-63 dBm;-52 dBm;-55 dBm;-54 dBm
+-54 dBm;-55 dBm;-55 dBm;-55 dBm
+-68 dBm;-54 dBm;-56 dBm;-63 dBm
+-54 dBm;-55 dBm;-67 dBm;-54 dBm
+-63 dBm;-69 dBm;-55 dBm;-61 dBm
+-55 dBm;-55 dBm;-63 dBm;-55 dBm
+-68 dBm;-62 dBm;-54 dBm;-63 dBm
+-55 dBm;-55 dBm;-55 dBm;-54 dBm
+-55 dBm;-54 dBm;-66 dBm;-62 dBm
+-63 dBm;-54 dBm;-54 dBm;-53 dBm
+-54 dBm;-54 dBm;-63 dBm;-64 dBm
+-69 dBm;-55 dBm;-53 dBm;-54 dBm
+-54 dBm;-53 dBm;-65 dBm;-63 dBm
+-63 dBm;-70 dBm;-54 dBm;-54 dBm
+-54 dBm;-55 dBm;-64 dBm;-63 dBm
+-56 dBm;-62 dBm;-55 dBm;-54 dBm
+-68 dBm;-54 dBm;-66 dBm;-61 dBm
+-54 dBm;-55 dBm;-54 dBm;-55 dBm
+-64 dBm;-69 dBm;-64 dBm;-61 dBm
+-54 dBm;-55 dBm;-54 dBm;-55 dBm
+-68 dBm;-61 dBm;-53 dBm;
+-54 dBm;-54 dBm;-50 dBm;
+-65 dBm;-69 dBm;-50 dBm;
+-56 dBm;-54 dBm;-55 dBm;
+-56 dBm;-61 dBm;-52 dBm;
+-69 dBm;-55 dBm;-54 dBm;
+-55 dBm;-70 dBm;-65 dBm;
+-63 dBm;-54 dBm;-64 dBm;
+-66 dBm;-62 dBm;-53 dBm;
+-54 dBm;-54 dBm;-54 dBm;
+-66 dBm;-70 dBm;-53 dBm;
+-55 dBm;-55 dBm;-53 dBm;
+-66 dBm;-62 dBm;-63 dBm;
+-53 dBm;-54 dBm;-62 dBm;
+-69 dBm;-70 dBm;-53 dBm;
+-54 dBm;-55 dBm;-63 dBm;
+-66 dBm;-62 dBm;-52 dBm;
+-54 dBm;-55 dBm;-61 dBm;
+-67 dBm;-71 dBm;-54 dBm;
+-55 dBm;-55 dBm;-64 dBm;
+-66 dBm;-62 dBm;-53 dBm;
+-54 dBm;-56 dBm;-54 dBm;
+-64 dBm;-70 dBm;-54 dBm;
+-57 dBm;-54 dBm;-53 dBm;
+-67 dBm;-61 dBm;-67 dBm;
+-67 dBm;-55 dBm;-54 dBm;
+-54 dBm;-70 dBm;-63 dBm;
+-67 dBm;-70 dBm;-54 dBm;
+-55 dBm;-54 dBm;-65 dBm;
+-69 dBm;-55 dBm;-50 dBm;
+-55 dBm;-61 dBm;-64 dBm;
+-67 dBm;-54 dBm;-50 dBm;
+-67 dBm;-70 dBm;-50 dBm;
+-55 dBm;-69 dBm;-50 dBm;
+-67 dBm;-55 dBm;-48 dBm;
+-53 dBm;-61 dBm;-50 dBm;
+-66 dBm;-55 dBm;-64 dBm;
+-54 dBm;-55 dBm;-52 dBm;
+-64 dBm;-68 dBm;-63 dBm;
+-67 dBm;-55 dBm;-51 dBm;
+-54 dBm;-61 dBm;-52 dBm;
+-65 dBm;-54 dBm;-63 dBm;
+-64 dBm;-71 dBm;-53 dBm;
+-54 dBm;-54 dBm;-63 dBm;
+-68 dBm;-62 dBm;-52 dBm;
+-63 dBm;-55 dBm;-63 dBm;
+-53 dBm;-71 dBm;-56 dBm;
+-70 dBm;-54 dBm;-62 dBm;
+-53 dBm;-62 dBm;-56 dBm;
+-65 dBm;-55 dBm;-63 dBm;
+-70 dBm;-70 dBm;-55 dBm;
+-53 dBm;-54 dBm;-63 dBm;
+-55 dBm;-62 dBm;-55 dBm;
+-67 dBm;-54 dBm;-56 dBm;
+-53 dBm;-71 dBm;-54 dBm;
+-68 dBm;-54 dBm;-63 dBm;
+-53 dBm;-62 dBm;-54 dBm;
+-68 dBm;-54 dBm;-62 dBm;
+-52 dBm;-70 dBm;-54 dBm;
+-65 dBm;-54 dBm;-64 dBm;
+-54 dBm;-62 dBm;-55 dBm;
+-54 dBm;-55 dBm;-63 dBm;
+-53 dBm;-70 dBm;-55 dBm;
+-66 dBm;-69 dBm;-63 dBm;
+-53 dBm;-55 dBm;-55 dBm;
+-65 dBm;-62 dBm;-62 dBm;
+-55 dBm;-55 dBm;-55 dBm;
+-55 dBm;-70 dBm;-55 dBm;
+-54 dBm;-55 dBm;-54 dBm;
+-55 dBm;-62 dBm;-54 dBm;
+-54 dBm;-55 dBm;-63 dBm;
+-55 dBm;-69 dBm;-54 dBm;
+-55 dBm;-55 dBm;-54 dBm;
+-66 dBm;-61 dBm;-54 dBm;
+-57 dBm;-55 dBm;-68 dBm;
+-54 dBm;-54 dBm;-54 dBm;
+-65 dBm;-54 dBm;-63 dBm;
+-56 dBm;-55 dBm;-55 dBm;
+-55 dBm;-69 dBm;-54 dBm;
+-55 dBm;-54 dBm;-65 dBm;
+-54 dBm;-62 dBm;-55 dBm;
+-55 dBm;-69 dBm;-61 dBm;
+-65 dBm;-55 dBm;-55 dBm;
+-55 dBm;-62 dBm;-50 dBm;
+-65 dBm;-54 dBm;-52 dBm;
+-54 dBm;-55 dBm;-54 dBm;
+-66 dBm;-55 dBm;-67 dBm;
+-54 dBm;-68 dBm;-55 dBm;
+-54 dBm;-55 dBm;-64 dBm;
+-54 dBm;-61 dBm;-55 dBm;
+-55 dBm;-54 dBm;-68 dBm;
+-54 dBm;-54 dBm;-54 dBm;
+-53 dBm;-55 dBm;-55 dBm;
+-51 dBm;-70 dBm;-63 dBm;
+-66 dBm;-54 dBm;-54 dBm;
+-54 dBm;-62 dBm;-55 dBm;
+-66 dBm;-54 dBm;-54 dBm;
+-54 dBm;-70 dBm;-65 dBm;
+-66 dBm;-54 dBm;-55 dBm;
+-53 dBm;-55 dBm;-64 dBm;
+-66 dBm;-61 dBm;-54 dBm;
+-54 dBm;-55 dBm;-62 dBm;
+-65 dBm;-70 dBm;-55 dBm;
+-68 dBm;-69 dBm;-63 dBm;
+-53 dBm;-69 dBm;-63 dBm;
+-55 dBm;-55 dBm;-54 dBm;
+-63 dBm;-62 dBm;-55 dBm;
+-68 dBm;-55 dBm;-52 dBm;
+-54 dBm;-69 dBm;-53 dBm;
+-62 dBm;-55 dBm;-55 dBm;
+-52 dBm;-62 dBm;-54 dBm;
+-64 dBm;-51 dBm;-63 dBm;
+-54 dBm;-61 dBm;-54 dBm;
+-54 dBm;-55 dBm;-63 dBm;
+-68 dBm;-70 dBm;-54 dBm;
+-54 dBm;-56 dBm;-64 dBm;
+-63 dBm;-62 dBm;-54 dBm;
+-50 dBm;-54 dBm;-63 dBm;
+-49 dBm;-69 dBm;-53 dBm;
+-49 dBm;-55 dBm;-63 dBm;
+-69 dBm;-63 dBm;-54 dBm;
+-54 dBm;-55 dBm;-52 dBm;
+-65 dBm;-55 dBm;-55 dBm;
+-52 dBm;-69 dBm;-54 dBm;
+-70 dBm;-54 dBm;-54 dBm;
+-54 dBm;-62 dBm;-55 dBm;
+-53 dBm;-62 dBm;-55 dBm;
+-52 dBm;-52 dBm;-54 dBm;
+-54 dBm;-67 dBm;-54 dBm;
+-53 dBm;-52 dBm;-56 dBm;
+-54 dBm;-61 dBm;-54 dBm;
+-54 dBm;-55 dBm;-58 dBm;
+-54 dBm;-70 dBm;-53 dBm;
+-62 dBm;-53 dBm;-54 dBm;
+-55 dBm;-62 dBm;-54 dBm;
+-55 dBm;-55 dBm;-54 dBm;
+-57 dBm;-69 dBm;-53 dBm;
+-57 dBm;-54 dBm;-64 dBm;
+-68 dBm;-54 dBm;-52 dBm;
+-53 dBm;-62 dBm;-55 dBm;
+-63 dBm;-55 dBm;-63 dBm;
+-56 dBm;-55 dBm;-55 dBm;
+-55 dBm;-55 dBm;-54 dBm;
+-69 dBm;-61 dBm;-54 dBm;
+-55 dBm;-55 dBm;-55 dBm;
+-64 dBm;-69 dBm;-55 dBm;
+-55 dBm;-54 dBm;-56 dBm;
+-69 dBm;-60 dBm;-63 dBm;
+-55 dBm;-55 dBm;-55 dBm;
+-62 dBm;-69 dBm;-63 dBm;
+-69 dBm;-62 dBm;-54 dBm;
+-55 dBm;-54 dBm;-55 dBm;
+-63 dBm;-55 dBm;-55 dBm;
+-52 dBm;-54 dBm;-63 dBm;
+-55 dBm;-70 dBm;-55 dBm;
+-55 dBm;-55 dBm;-63 dBm;
+-70 dBm;-60 dBm;-54 dBm;
+-52 dBm;-56 dBm;-63 dBm;
+-55 dBm;-52 dBm;-54 dBm;
+-55 dBm;-55 dBm;-52 dBm;
+-54 dBm;-70 dBm;-54 dBm;
+-55 dBm;-54 dBm;-63 dBm;
+-63 dBm;-61 dBm;-54 dBm;
+-67 dBm;-54 dBm;-63 dBm;
+-55 dBm;-70 dBm;-55 dBm;
+-67 dBm;-55 dBm;-64 dBm;
+-55 dBm;-60 dBm;-64 dBm;
+-64 dBm;-55 dBm;-55 dBm;
+-55 dBm;-70 dBm;-64 dBm;
+-65 dBm;-55 dBm;-52 dBm;
+-69 dBm;-62 dBm;-64 dBm;
+-54 dBm;-54 dBm;-55 dBm;
+-68 dBm;-51 dBm;-64 dBm;
+-55 dBm;-53 dBm;-54 dBm;
+-67 dBm;-62 dBm;-61 dBm;
+-67 dBm;-55 dBm;-53 dBm;
+-66 dBm;-69 dBm;-53 dBm;
+-67 dBm;-69 dBm;-63 dBm;
+-66 dBm;-69 dBm;-55 dBm;
+-66 dBm;-52 dBm;-55 dBm;
+-66 dBm;-61 dBm;-54 dBm;
+-66 dBm;-55 dBm;-63 dBm;
+-55 dBm;-70 dBm;-55 dBm;
+-65 dBm;-55 dBm;-63 dBm;
+-55 dBm;-62 dBm;-55 dBm;
+-68 dBm;-54 dBm;-63 dBm;
+-54 dBm;-70 dBm;-54 dBm;
+-54 dBm;-55 dBm;-63 dBm;
+-53 dBm;-62 dBm;-55 dBm;
+-55 dBm;-54 dBm;-64 dBm;
+-54 dBm;-55 dBm;-54 dBm;
+-64 dBm;-56 dBm;-63 dBm;
+-54 dBm;-55 dBm;-55 dBm;
+-56 dBm;-70 dBm;-64 dBm;
+-55 dBm;-55 dBm;-54 dBm;
+-54 dBm;-55 dBm;-63 dBm;
+-55 dBm;-61 dBm;-54 dBm;
+-55 dBm;-55 dBm;-64 dBm;
+-55 dBm;-69 dBm;-54 dBm;
+-68 dBm;-55 dBm;-64 dBm;
+-69 dBm;-62 dBm;-54 dBm;
+-68 dBm;-62 dBm;-64 dBm;
+-68 dBm;-54 dBm;-55 dBm;
+-68 dBm;-53 dBm;-63 dBm;
+-68 dBm;-55 dBm;-55 dBm;
+-55 dBm;-69 dBm;-64 dBm;
+-55 dBm;-54 dBm;-55 dBm;
+-54 dBm;-62 dBm;-62 dBm;
+-63 dBm;-54 dBm;-55 dBm;
+-55 dBm;-71 dBm;-64 dBm;
+-54 dBm;-54 dBm;-52 dBm;
+-69 dBm;-61 dBm;-62 dBm;
+-52 dBm;-55 dBm;-54 dBm;
+-64 dBm;-70 dBm;-64 dBm;
+-54 dBm;-55 dBm;-65 dBm;
+-55 dBm;-60 dBm;-54 dBm;
+-68 dBm;-55 dBm;-54 dBm;
+-54 dBm;-54 dBm;-53 dBm;
+-63 dBm;-69 dBm;-54 dBm;
+-54 dBm;-54 dBm;-53 dBm;
+-69 dBm;-62 dBm;-54 dBm;
+-54 dBm;-54 dBm;-63 dBm;
+-54 dBm;-70 dBm;-63 dBm;
+-54 dBm;-52 dBm;-55 dBm;
+-54 dBm;-62 dBm;-64 dBm;
+-55 dBm;-54 dBm;-64 dBm;
+-63 dBm;-71 dBm;-55 dBm;
+-69 dBm;-55 dBm;-69 dBm;
+-55 dBm;-62 dBm;-54 dBm;
+-63 dBm;-54 dBm;-64 dBm;
+-68 dBm;-70 dBm;-64 dBm;
+-63 dBm;-55 dBm;-54 dBm;
+-63 dBm;-61 dBm;-66 dBm;
+-54 dBm;-55 dBm;-55 dBm;
+-69 dBm;-67 dBm;-64 dBm;
+-55 dBm;-55 dBm;-55 dBm;
+-63 dBm;-61 dBm;-63 dBm;
+-68 dBm;-55 dBm;-64 dBm;
+-54 dBm;-68 dBm;-55 dBm;
+-55 dBm;-54 dBm;-64 dBm;
+-52 dBm;-67 dBm;-55 dBm;
+-55 dBm;-61 dBm;-55 dBm;
+-55 dBm;-62 dBm;-64 dBm;
+-63 dBm;-62 dBm;-55 dBm;
+-54 dBm;-55 dBm;-62 dBm;
+-68 dBm;-70 dBm;-55 dBm;
+-54 dBm;-55 dBm;-64 dBm;
+-63 dBm;-55 dBm;-55 dBm;
+-69 dBm;-55 dBm;-63 dBm;
+-55 dBm;-55 dBm;-55 dBm;
+-54 dBm;-54 dBm;-64 dBm;
+-54 dBm;-55 dBm;-54 dBm;
+-54 dBm;-53 dBm;-63 dBm;
+-55 dBm;-61 dBm;-63 dBm;
+-55 dBm;-61 dBm;-54 dBm;
+-63 dBm;-53 dBm;-64 dBm;
+-54 dBm;-70 dBm;-55 dBm;
+-54 dBm;-54 dBm;-64 dBm;
+-54 dBm;-61 dBm;-55 dBm;
+-54 dBm;-55 dBm;-64 dBm;
+-55 dBm;-56 dBm;-54 dBm;
+-55 dBm;-68 dBm;-63 dBm;
+-69 dBm;-54 dBm;-52 dBm;
+-54 dBm;-61 dBm;-54 dBm;
+-64 dBm;-55 dBm;-55 dBm;
+-55 dBm;-55 dBm;-64 dBm;
+-69 dBm;-55 dBm;-55 dBm;
+-54 dBm;-54 dBm;-64 dBm;
+-54 dBm;-55 dBm;-54 dBm;
+-63 dBm;-52 dBm;-64 dBm;
+-69 dBm;-55 dBm;-64 dBm;
+-54 dBm;-54 dBm;-54 dBm;
+-64 dBm;-69 dBm;-55 dBm;
+-54 dBm;-55 dBm;-64 dBm;
+-55 dBm;-61 dBm;-54 dBm;
+-69 dBm;-55 dBm;-64 dBm;
+-54 dBm;-69 dBm;-54 dBm;
+-54 dBm;-55 dBm;-63 dBm;
+-55 dBm;-61 dBm;-54 dBm;
+-55 dBm;-55 dBm;-64 dBm;
+-63 dBm;-55 dBm;-54 dBm;
+-54 dBm;-52 dBm;-63 dBm;
+-56 dBm;-54 dBm;-54 dBm;
+-70 dBm;-55 dBm;-64 dBm;
+-54 dBm;-54 dBm;-54 dBm;
+-64 dBm;-69 dBm;-63 dBm;
+-71 dBm;-55 dBm;-55 dBm;
+-71 dBm;-61 dBm;-63 dBm;
+-55 dBm;-55 dBm;-55 dBm;
+-63 dBm;-69 dBm;-63 dBm;
+-70 dBm;-68 dBm;-55 dBm;
+-54 dBm;-54 dBm;-64 dBm;
+-63 dBm;-62 dBm;-55 dBm;
+-52 dBm;-55 dBm;-52 dBm;
+-52 dBm;-69 dBm;-54 dBm;
+-54 dBm;-67 dBm;-55 dBm;
+-54 dBm;-67 dBm;-54 dBm;
+-70 dBm;-66 dBm;-54 dBm;
+-54 dBm;-55 dBm;-55 dBm;
+-64 dBm;-62 dBm;-64 dBm;
+-54 dBm;-55 dBm;-55 dBm;
+-71 dBm;-54 dBm;-64 dBm;
+-55 dBm;-54 dBm;-55 dBm;
+-55 dBm;-69 dBm;-63 dBm;
+-55 dBm;-55 dBm;-55 dBm;
+-64 dBm;-62 dBm;-51 dBm;
+-71 dBm;-54 dBm;-53 dBm;
+-55 dBm;-69 dBm;-52 dBm;
+-70 dBm;-55 dBm;-63 dBm;
+-70 dBm;-62 dBm;-54 dBm;
+-54 dBm;-55 dBm;-65 dBm;
+-53 dBm;-69 dBm;-54 dBm;
+-62 dBm;-61 dBm;-64 dBm;
+-54 dBm;-54 dBm;-55 dBm;
+-54 dBm;-70 dBm;-64 dBm;
+-55 dBm;-54 dBm;-61 dBm;
+-55 dBm;-61 dBm;-52 dBm;
+-70 dBm;-55 dBm;-56 dBm;
+-54 dBm;-54 dBm;-55 dBm;
+-62 dBm;-70 dBm;-55 dBm;
+-71 dBm;-55 dBm;-64 dBm;
+-55 dBm;-61 dBm;-54 dBm;
+-63 dBm;-54 dBm;-64 dBm;
+-70 dBm;-55 dBm;-55 dBm;
+-70 dBm;-70 dBm;-63 dBm;
+-54 dBm;-55 dBm;-54 dBm;
+-63 dBm;-61 dBm;-64 dBm;
+-71 dBm;-52 dBm;-54 dBm;
+-54 dBm;-54 dBm;-64 dBm;
+-54 dBm;-56 dBm;-54 dBm;
+-55 dBm;-52 dBm;-64 dBm;
+-55 dBm;-54 dBm;-64 dBm;
+-63 dBm;-70 dBm;-61 dBm;
+-55 dBm;-55 dBm;-54 dBm;
+-71 dBm;-62 dBm;-63 dBm;
+-54 dBm;-55 dBm;-54 dBm;
+-63 dBm;-69 dBm;-64 dBm;
+-54 dBm;-69 dBm;-55 dBm;
+-54 dBm;-69 dBm;-63 dBm;
+-54 dBm;-68 dBm;-54 dBm;
+-54 dBm;-55 dBm;-60 dBm;
+-70 dBm;-62 dBm;-64 dBm;
+-70 dBm;-55 dBm;-52 dBm;
+-54 dBm;-62 dBm;-55 dBm;
+-63 dBm;-54 dBm;-62 dBm;
+-55 dBm;-69 dBm;-55 dBm;
+-55 dBm;-54 dBm;-63 dBm;
+-70 dBm;-61 dBm;-54 dBm;
+-54 dBm;-63 dBm;-62 dBm;
+-56 dBm;-62 dBm;-55 dBm;
+-52 dBm;-54 dBm;-64 dBm;
+-55 dBm;-69 dBm;-54 dBm;
+-55 dBm;-55 dBm;-62 dBm;
+-55 dBm;-61 dBm;-54 dBm;
+-63 dBm;-55 dBm;-54 dBm;
+-70 dBm;-54 dBm;-63 dBm;
+-55 dBm;-55 dBm;-56 dBm;
+-63 dBm;-69 dBm;-62 dBm;
+-54 dBm;-55 dBm;-55 dBm;
+-70 dBm;-61 dBm;-63 dBm;
+-54 dBm;-55 dBm;-55 dBm;
+-63 dBm;-69 dBm;-54 dBm;
+-69 dBm;-54 dBm;-54 dBm;
+-54 dBm;-61 dBm;-55 dBm;
+-63 dBm;-55 dBm;-55 dBm;
+-55 dBm;-54 dBm;-63 dBm;
+-54 dBm;-54 dBm;-55 dBm;
+-54 dBm;-54 dBm;-64 dBm;
+-54 dBm;-54 dBm;-54 dBm;
+-55 dBm;-53 dBm;-55 dBm;
+-68 dBm;-54 dBm;-53 dBm;
+-56 dBm;-54 dBm;-54 dBm;
+-54 dBm;-67 dBm;-55 dBm;
+-63 dBm;-66 dBm;-55 dBm;
+-70 dBm;-61 dBm;-55 dBm;
+-54 dBm;-55 dBm;-56 dBm;
+-63 dBm;-67 dBm;-56 dBm;
+-55 dBm;-54 dBm;-55 dBm;
+-71 dBm;-61 dBm;-54 dBm;
+-55 dBm;-54 dBm;-62 dBm;
+-52 dBm;-55 dBm;-55 dBm;
+-63 dBm;-54 dBm;-63 dBm;
+-70 dBm;-70 dBm;-54 dBm;
+-55 dBm;-69 dBm;-63 dBm;
+-63 dBm;-69 dBm;-55 dBm;
+-70 dBm;-55 dBm;-63 dBm;
+-55 dBm;-61 dBm;-54 dBm;
+-54 dBm;-55 dBm;-62 dBm;
+-55 dBm;-69 dBm;-55 dBm;
+-52 dBm;-55 dBm;-64 dBm;
+-55 dBm;-61 dBm;-54 dBm;
+-63 dBm;-55 dBm;-62 dBm;
+-63 dBm;-68 dBm;-54 dBm;
+-49 dBm;-55 dBm;-53 dBm;
+-63 dBm;-61 dBm;-54 dBm;
+-55 dBm;-61 dBm;-64 dBm;
+-70 dBm;-62 dBm;-55 dBm;
+-55 dBm;-55 dBm;-62 dBm;
+-63 dBm;-68 dBm;-54 dBm;
+-70 dBm;-55 dBm;-51 dBm;
+-55 dBm;-62 dBm;-51 dBm;
+-55 dBm;-63 dBm;-51 dBm;
+-55 dBm;-55 dBm;-52 dBm;
+-64 dBm;-69 dBm;-50 dBm;
+-54 dBm;-54 dBm;-64 dBm;
+-54 dBm;-61 dBm;-55 dBm;
+-71 dBm;-55 dBm;-62 dBm;
+-55 dBm;-68 dBm;-55 dBm;
+-55 dBm;-55 dBm;-63 dBm;
+-55 dBm;-61 dBm;-54 dBm;
+-54 dBm;-62 dBm;-63 dBm;
+-54 dBm;-54 dBm;-55 dBm;
+-55 dBm;-55 dBm;-63 dBm;
+-63 dBm;-56 dBm;-55 dBm;
+-54 dBm;-69 dBm;-62 dBm;
+-70 dBm;-55 dBm;-52 dBm;
+-68 dBm;-61 dBm;-63 dBm;
+-68 dBm;-54 dBm;-55 dBm;
+-68 dBm;-69 dBm;-62 dBm;
+-55 dBm;-55 dBm;-50 dBm;
+-63 dBm;;-53 dBm;
+-54 dBm;;-52 dBm;
+-70 dBm;;-52 dBm;
+-55 dBm;;-55 dBm;
+-63 dBm;;-52 dBm;
+-70 dBm;;-63 dBm;
+-55 dBm;;-54 dBm;
+-63 dBm;;-62 dBm;
+-69 dBm;;-55 dBm;
+-55 dBm;;-63 dBm;
+-55 dBm;;-55 dBm;
+-55 dBm;;-62 dBm;
+-56 dBm;;-54 dBm;
+-55 dBm;;-63 dBm;
+-55 dBm;;-55 dBm;
+-63 dBm;;-62 dBm;
+-55 dBm;;-55 dBm;
+-55 dBm;;-63 dBm;
+-54 dBm;;-53 dBm;
+-55 dBm;;-56 dBm;
+-63 dBm;;-54 dBm;
+-70 dBm;;-62 dBm;
+-54 dBm;;-55 dBm;
+-55 dBm;;-55 dBm;
+-63 dBm;;-64 dBm;
+-70 dBm;;-55 dBm;
+-54 dBm;;-62 dBm;
+-64 dBm;;-62 dBm;
+-71 dBm;;-55 dBm;
+-54 dBm;;-63 dBm;
+-64 dBm;;-54 dBm;
+-54 dBm;;-62 dBm;
+-71 dBm;;-54 dBm;
+-52 dBm;;-63 dBm;
+-55 dBm;;-55 dBm;
+-55 dBm;;-62 dBm;
+-63 dBm;;-54 dBm;
+-63 dBm;;-54 dBm;
+-70 dBm;;-55 dBm;
+-56 dBm;;-62 dBm;
+-64 dBm;;-52 dBm;
+-55 dBm;;-63 dBm;
+-69 dBm;;-54 dBm;
+-69 dBm;;-55 dBm;
+-55 dBm;;-63 dBm;
+-64 dBm;;-55 dBm;
+-54 dBm;;-63 dBm;
+-70 dBm;;-55 dBm;
+-69 dBm;;-62 dBm;
+-56 dBm;;-63 dBm;
+-63 dBm;;-62 dBm;
+-54 dBm;;-56 dBm;
+-71 dBm;;-64 dBm;
+-55 dBm;;-54 dBm;
+-63 dBm;;-63 dBm;
+-63 dBm;;-54 dBm;
+-70 dBm;;-54 dBm;
+-52 dBm;;-63 dBm;
+-63 dBm;;-62 dBm;
+-55 dBm;;-55 dBm;
+-70 dBm;;-54 dBm;
+-55 dBm;;-54 dBm;
+-64 dBm;;-54 dBm;
+-53 dBm;;-55 dBm;
+-70 dBm;;-63 dBm;
+-55 dBm;;-54 dBm;
+-55 dBm;;-62 dBm;
+-63 dBm;;-56 dBm;
+-55 dBm;;-55 dBm;
+-55 dBm;;-55 dBm;
+-70 dBm;;-63 dBm;
+-55 dBm;;-52 dBm;
+-64 dBm;;-63 dBm;
+-53 dBm;;-52 dBm;
+-54 dBm;;-54 dBm;
+-53 dBm;;-55 dBm;
+-51 dBm;;-55 dBm;
+-49 dBm;;-54 dBm;
+-63 dBm;;-64 dBm;
+-63 dBm;;-54 dBm;
+-55 dBm;;-64 dBm;
+-55 dBm;;-55 dBm;
+-64 dBm;;-64 dBm;
+-54 dBm;;-55 dBm;
+-71 dBm;;-63 dBm;
+-55 dBm;;-55 dBm;
+-63 dBm;;-63 dBm;
+-63 dBm;;-55 dBm;
+-54 dBm;;-64 dBm;
+-52 dBm;;-63 dBm;
+-55 dBm;;-55 dBm;
+-69 dBm;;-63 dBm;
+-69 dBm;;-54 dBm;
+-70 dBm;;-63 dBm;
+-55 dBm;;-55 dBm;
+-55 dBm;;-63 dBm;
+-54 dBm;;-63 dBm;
+-55 dBm;;-63 dBm;
+-54 dBm;;-54 dBm;
+-63 dBm;;-63 dBm;
+-71 dBm;;-54 dBm;
+-55 dBm;;-63 dBm;
+-63 dBm;;-54 dBm;
+-55 dBm;;-64 dBm;
+-71 dBm;;-55 dBm;
+-54 dBm;;-54 dBm;
+-55 dBm;;-55 dBm;
+-64 dBm;;-53 dBm;
+-55 dBm;;-54 dBm;
+-70 dBm;;-63 dBm;
+-55 dBm;;-56 dBm;
+-63 dBm;;-63 dBm;
+-53 dBm;;-54 dBm;
+-67 dBm;;-63 dBm;
+-55 dBm;;-54 dBm;
+-64 dBm;;-63 dBm;
+-63 dBm;;-54 dBm;
+-55 dBm;;-52 dBm;
+-70 dBm;;-64 dBm;
+-69 dBm;;-54 dBm;
+-55 dBm;;-63 dBm;
+-55 dBm;;-55 dBm;
+-55 dBm;;-63 dBm;
+-55 dBm;;-52 dBm;
+-55 dBm;;-63 dBm;
+-54 dBm;;-63 dBm;
+-54 dBm;;-55 dBm;
+-55 dBm;;-64 dBm;
+-55 dBm;;-55 dBm;
+-55 dBm;;-63 dBm;
+-70 dBm;;-55 dBm;
+-52 dBm;;-64 dBm;
+-51 dBm;;-55 dBm;
+-53 dBm;;-63 dBm;
+-49 dBm;;-54 dBm;
+-51 dBm;;-55 dBm;
+-50 dBm;;-55 dBm;
+-53 dBm;;-63 dBm;
+-63 dBm;;-54 dBm;
+-54 dBm;;-63 dBm;
+-54 dBm;;-55 dBm;
+-70 dBm;;-63 dBm;
+-54 dBm;;-63 dBm;
+-63 dBm;;-55 dBm;
+-64 dBm;;-64 dBm;
+-54 dBm;;-52 dBm;
+-55 dBm;;-64 dBm;
+-55 dBm;;-55 dBm;
+-56 dBm;;-64 dBm;
+-54 dBm;;-55 dBm;
+-55 dBm;;-63 dBm;
+-69 dBm;;-52 dBm;
+-55 dBm;;-64 dBm;
+-64 dBm;;-52 dBm;
+-70 dBm;;-64 dBm;
+-70 dBm;;-55 dBm;
+-70 dBm;;-62 dBm;
+-69 dBm;;-55 dBm;
+-54 dBm;;-55 dBm;
+-55 dBm;;-63 dBm;
+-63 dBm;;-54 dBm;
+-55 dBm;;-63 dBm;
+-55 dBm;;-55 dBm;
+-55 dBm;;-55 dBm;
+-56 dBm;;-54 dBm;
+-70 dBm;;-54 dBm;
+-55 dBm;;-54 dBm;
+-63 dBm;;-54 dBm;
+-55 dBm;;-54 dBm;
+-55 dBm;;-54 dBm;
+-70 dBm;;-55 dBm;
+-53 dBm;;-54 dBm;
+-63 dBm;;-64 dBm;
+-54 dBm;;-55 dBm;
+-70 dBm;;-54 dBm;
+-55 dBm;;-63 dBm;
+-64 dBm;;-55 dBm;
+-64 dBm;;-63 dBm;
+-69 dBm;;-55 dBm;
+-55 dBm;;-63 dBm;
+-63 dBm;;-55 dBm;
+-55 dBm;;-63 dBm;
+-70 dBm;;-63 dBm;
+-55 dBm;;-54 dBm;
+-54 dBm;;-64 dBm;
+-63 dBm;;-55 dBm;
+-54 dBm;;-63 dBm;
+-70 dBm;;-52 dBm;
+-54 dBm;;-63 dBm;
+-63 dBm;;-54 dBm;
+-70 dBm;;-63 dBm;
+-54 dBm;;-55 dBm;
+-63 dBm;;-64 dBm;
+-71 dBm;;-52 dBm;
+-54 dBm;;-54 dBm;
+-54 dBm;;-63 dBm;
+-63 dBm;;-64 dBm;
+-54 dBm;;-55 dBm;
+-70 dBm;;-54 dBm;
+-54 dBm;;-54 dBm;
+-63 dBm;;;
+-55 dBm;;;
+-54 dBm;;;
+-70 dBm;;;
+-55 dBm;;;
+-63 dBm;;;
+-70 dBm;;;
+-53 dBm;;;
+-56 dBm;;;
+-54 dBm;;;
+-54 dBm;;;
+-55 dBm;;;
+-54 dBm;;;
+-63 dBm;;;
+-54 dBm;;;
+-70 dBm;;;
+-55 dBm;;;
+-64 dBm;;;
+-54 dBm;;;
+-55 dBm;;;
+-70 dBm;;;
+-55 dBm;;;
+-63 dBm;;;
+-70 dBm;;;
+-55 dBm;;;
+-63 dBm;;;
+-70 dBm;;;
+-54 dBm;;;
+-64 dBm;;;
+-54 dBm;;;
+-69 dBm;;;
+-52 dBm;;;
+-55 dBm;;;
+-63 dBm;;;
+-63 dBm;;;
+-69 dBm;;;
+-55 dBm;;;
+-53 dBm;;;
+-53 dBm;;;
+-54 dBm;;;
+-51 dBm;;;
+-54 dBm;;;
+-63 dBm;;;
+-56 dBm;;;
+-52 dBm;;;
+-68 dBm;;;
+-54 dBm;;;
+-64 dBm;;;
+-69 dBm;;;
+-70 dBm;;;
+-55 dBm;;;
+-63 dBm;;;
+-62 dBm;;;
+-55 dBm;;;
+-55 dBm;;;
+-63 dBm;;;
+-54 dBm;;;
+-54 dBm;;;
+-69 dBm;;;
+-55 dBm;;;
+-54 dBm;;;
+-63 dBm;;;
+-64 dBm;;;
+-69 dBm;;;
+-69 dBm;;;
+-55 dBm;;;
+-54 dBm;;;
+-54 dBm;;;
+-54 dBm;;;
+-55 dBm;;;
+-55 dBm;;;
+-63 dBm;;;
+-70 dBm;;;
+-54 dBm;;;
+-54 dBm;;;
+-55 dBm;;;
+-63 dBm;;;
+-70 dBm;;;
+-55 dBm;;;
+-63 dBm;;;
+-70 dBm;;;
+-54 dBm;;;
+-63 dBm;;;
+-55 dBm;;;
+-70 dBm;;;
+-52 dBm;;;
